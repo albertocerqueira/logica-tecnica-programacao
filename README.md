@@ -1,2 +1,2 @@
 # logica-tecnica-programacao
-Exercícios de légica e técnica de programação (LTP).
+Exercícios de lógica e técnica de programação (LTP).
