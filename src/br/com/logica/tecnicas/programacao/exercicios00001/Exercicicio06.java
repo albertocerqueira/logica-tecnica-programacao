@@ -36,6 +36,6 @@ public class Exercicicio06 {
 			}
 			quantidadeContas++;
 		} while (numeroConta > 0);
-		return (quantidadeSaldoNegativo * 100)/(quantidadeContas - 1);
+		return ((quantidadeSaldoNegativo * 100) / (quantidadeContas-1));
 	}
 }
