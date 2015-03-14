@@ -1,5 +1,7 @@
 package br.com.logica.tecnicas.programacao.exercicios00001;
 
+import javax.swing.JOptionPane;
+
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
@@ -9,19 +11,32 @@ public class Exercicicio01 {
 
 	public static void main(String[] args) {
 		Exercicicio01 exe01 = new Exercicicio01();
-		exe01.isQuadradoPerfeito(13.0);
-		exe01.isQuadradoPerfeito(16.0);
+		exe01.vetor15posicoes();
 	}
 	
 	/**
-	 * Fazer um programa para ler um número inteiro e positivo N e responder se N e quadrado perfeito.
+	 * Escreva um programa que armazene 15 numeros inteiros gerados 
+	 * aleatoriamente em um vetor. Imprima o vetor construido, a soma 
+	 * de todos os elementos de posicao impar e a soma de todos os elementos 
+	 * ímpares.
 	 */
-	public void isQuadradoPerfeito(Double numero) {
-		Double raiz = Math.sqrt(numero);
-		if (raiz * raiz == numero) {
-			System.out.println("Este n\u00famero \u00e9 quadrado perfeito!\n");
-		} else {
-			System.out.println("Este n\u00famero n\u00e3o \u00e9 quadrado perfeito!\n");
+	public void vetor15posicoes() {
+		Integer[] vetor = new Integer[15];
+		for (int x = 0; x < 15; x++) {
+			Integer numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
+			vetor[x] = numero;
 		}
+		
+		int somaNumerosImparVetor = 0, somaPosicosImparVetor = 0;
+		for (int x = 0; x < 15; x++) {
+			int numero = vetor[x];
+			System.out.println(numero + " n\u00famero " + (x + 1) + "° do vetor.");
+			if (numero % 2 != 0) {
+				somaNumerosImparVetor += numero;
+				somaPosicosImparVetor += (x+1);
+			}
+		}
+		System.out.println("A soma dos n\u00fameros impares do vetor é: " + somaNumerosImparVetor);
+		System.out.println("A soma das posi\u00e7\u00f5es do vetor de n\u00fameros impares \u00e9: " + somaPosicosImparVetor);
 	}
 }

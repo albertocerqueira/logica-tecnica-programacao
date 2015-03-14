@@ -24,7 +24,7 @@ public class Exercicicio05 {
 		Integer[] M = new Integer[10];
 		Integer soma = 0;
 		
-		for (int x=0; x<10; x++) {
+		for (int x = 0; x<10; x++) {
 			Random geradorN = new Random();
 	        int numeroN = geradorN.nextInt(numeroVetorAte);
 			N[x] = numeroN;
@@ -36,10 +36,10 @@ public class Exercicicio05 {
 			System.out.println((x+1) + "° n\u00famero do vetor N \u00e9 " + numeroN + " | " + (x+1) + "° n\u00famero do vetor M \u00e9 " + numeroM);
 		}
 		
-		for (int x=0; x<10; x++) {
+		for (int x = 0; x < 10; x++) {
 			soma += (N[x] + M[x]);
 		}
 		
-		System.out.println("A soma de P = A[1]*B[1] + A[2]*B[2] + ... A[N]+B[N] resulta em " + soma + ".\n");
+		System.out.println("A soma de P = A[1]*B[1] + A[2]*B[2] + ... A[N]+B[N] resulta em " + soma + ".");
 	}
 }
