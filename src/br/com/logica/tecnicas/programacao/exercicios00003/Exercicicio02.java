@@ -1,6 +1,5 @@
 package br.com.logica.tecnicas.programacao.exercicios00003;
 
-
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
