@@ -25,7 +25,7 @@ public class Exercicicio04 {
 		mult = 0;
 		cont = 0; 
 	  
-		System.out.print("Os n primeiros multiplos de i ou de j sao: ");
+		System.out.print("Os n primeiros multiplos de i ou de j s\u00e3o: ");
 		while (cont < n) {
 			/* verifica se mult e' multiplo de i ou j */
 			if (mult % i == 0 || mult % j == 0) {
