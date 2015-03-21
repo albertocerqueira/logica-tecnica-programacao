@@ -15,7 +15,7 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 *  Faça um programa em C que leia três números inteiros representando os lados de um
+	 *  Faça um programa que leia três números inteiros representando os lados de um
 	 *  triângulo e diga se o triângulo é eqüilátero, isósceles ou escaleno.
 	 */
 	public void verificarTriangulo() {

@@ -14,7 +14,7 @@ public class Exercicicio00 {
 	
 	/**
 	 * Dado dois vetores, A (5 elementos) e B (8 elementos), faça um 
-	 * programa em C que imprima todos os elementos comuns aos dois vetores.
+	 * programa que imprima todos os elementos comuns aos dois vetores.
 	 */
 	public void verificarVetores(Integer[] vetor1, Integer[] vetor2) {
 		for (int x = 0, y = vetor1.length; x<y; x++) {

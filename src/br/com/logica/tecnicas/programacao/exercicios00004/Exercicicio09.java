@@ -15,7 +15,7 @@ public class Exercicicio09 {
 	}
 
 	/**
-	 * Faca um programa em C que leia o peso de 50 bois e diga quantos estao entre 600 e 800 kg.
+	 * Faca um programa que leia o peso de 50 bois e diga quantos estao entre 600 e 800 kg.
 	 */
 	public void verificarPesoBoiada() {
 		int contadorPeso = 0;

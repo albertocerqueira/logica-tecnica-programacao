@@ -15,7 +15,7 @@ public class Exercicicio08 {
 	}
 
 	/**
-	 * Faca um programa em C que leia 10 numeros e diga qual e o maior.
+	 * Faca um programa que leia 10 numeros e diga qual e o maior.
 	 */
 	public void verificarMaior() {
 		int maior = 0;

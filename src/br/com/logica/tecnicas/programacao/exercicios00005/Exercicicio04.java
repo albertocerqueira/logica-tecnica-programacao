@@ -15,7 +15,10 @@ public class Exercicicio04 {
 	}
 	
 	/**
-	 *  Faça um programa em C que leia um número X, calcule e escreva o valor de Y dado por: 
+	 *  Faça um programa que leia um número X, calcule e escreva o valor de Y dado por:
+	 *  X < 3 -> Y = X + 1
+	 *  3 <= X < 10 -> Y = X / 2 + 4
+	 *  X >= 10 -> Y = 2X
 	 */
 	public void verificarValorDeX() {
 		Integer x = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor de x:"));
