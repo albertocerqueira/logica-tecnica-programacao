@@ -15,7 +15,7 @@ public class Exercicicio02 {
 	}
 
 	/**
-	 *  Faça um programa em C que leia um número n calcule e escreva a soma dos n primeiros
+	 *  Faça um programa que leia um número n calcule e escreva a soma dos n primeiros
 	 *  termos da série:
 	 *  S = 1! + 2! + 3! + 4! + 5! + ...
 	 */
