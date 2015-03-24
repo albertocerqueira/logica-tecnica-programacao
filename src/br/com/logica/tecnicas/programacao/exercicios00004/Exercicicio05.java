@@ -1,5 +1,7 @@
 package br.com.logica.tecnicas.programacao.exercicios00004;
 
+import javax.swing.JOptionPane;
+
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
@@ -9,19 +11,22 @@ public class Exercicicio05 {
 
 	public static void main(String[] args) {
 		Exercicicio05 exe05 = new Exercicicio05();
-		exe05.verificarSubNumero(23, 57238);
+		exe05.somaNmais5();
 	}
-	
+
 	/**
-	 *  Sao dados dois números inteiros positivos p e q, sendo que o numero de 
-	 *  dígitos de p e menor ou igual ao numero de digitos de q. Verificar se p e um subnumero de q.
-	 *  Exemplos:
-	 *  p = 23, q = 57238, p é subnumero de q.
-	 *  p = 23, q = 258347, p não é subnumero de q. 
+	 *  Faça um programa em C que leia um número N calcule e escreva a seguinte soma com N 
+	 *  termos: S = 1/10 + 2/15 + 3/20 + 4/25 + ...
 	 */
-	public void verificarSubNumero(Integer p, Integer q) {
-		
-		//TODO:
-		
+	public void somaNmais5() {
+		double soma = 0, contador = 0;
+
+		Integer n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
+
+		for (int x = 0; x < n; x++) {
+			contador++;
+			soma += (contador / ((contador * 5) + 5 ));
+		}
+		System.out.println("Na sequ\u00eancia  S = 1/10 + 2/15 + 3/20 + 4/25 + .. o n\u00famero " + n + ".\nTem como resultado " + soma + ".");
 	}
 }
