@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio02 {
 
 	public static void main(String[] args) {
-		Exercicicio02 exe01 = new Exercicicio02();
-		exe01.calculandoMedia();
+		Exercicicio02 exe02 = new Exercicicio02();
+		exe02.calculandoMedia();
 	}
 
 	/**
