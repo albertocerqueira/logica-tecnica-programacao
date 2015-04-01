@@ -13,14 +13,14 @@ public class Exercicicio05 {
 	}
 	
 	/**
-	 *  Dados um inteiro x e um inteiro nao-negativo n, calcular x elevado a n.  
+	 *  Dados um inteiro x e um inteiro  não-negativo n, calcular x elevado a n.  
 	 */
 	public void elevarExpondecial(Integer numero, Integer expondecial) {
 		int total =0;
-        int numeroDoLaço = numero;
+        int numeroDoLaco = numero;
         for (int i =1 ; i != expondecial; i++) {
-            total = numeroDoLaço * numero;
-            numeroDoLaço = total;
+            total = numeroDoLaco * numero;
+            numeroDoLaco = total;
         }
         System.out.println("Para o n\u00famero " + numero + ", com expondecial " + expondecial + ", o  total \u00e9 " + total);
 	}
