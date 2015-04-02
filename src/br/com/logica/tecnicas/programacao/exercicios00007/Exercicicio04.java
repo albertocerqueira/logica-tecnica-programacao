@@ -21,7 +21,7 @@ public class Exercicicio04 {
 	 */
 	public void calculoFaturamentoSemanal() {
 		int DIAS = 7 , FILIAIS = 10;
-		int faturamento[][] = new int[DIAS][FILIAIS];
+		int[][] faturamento = new int[DIAS][FILIAIS];
 		for (int x = 0; x < DIAS; x++) {
 			for (int y = 0; y < FILIAIS; y++) {
 				Integer faturamentoDia = Integer.parseInt(JOptionPane.showInputDialog("Digite o faturamento do " + (x + 1) + "° dia da semana da " + (y + 1) + "° filial: "));
