@@ -26,7 +26,7 @@ public class Exercicicio07 {
 	public void pesquisarPalavras() {
 		int FRASES = 100;
 		String[] frases = new String[FRASES];
-		try { 
+		try {
 			FileReader arq = new FileReader("arquivos/frases.txt");
 			BufferedReader lerArq = new BufferedReader(arq);
 			String linha = lerArq.readLine();
