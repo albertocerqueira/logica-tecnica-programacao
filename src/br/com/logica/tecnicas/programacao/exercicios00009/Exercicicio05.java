@@ -26,7 +26,7 @@ public class Exercicicio05 {
 		System.out.println();
 		int l = 16;
 		for (int x = 0, y = (ns.length / 2); x < y; x++) {
-			System.out.println("Soma do " + (x + 1) +"° elemento com o " + (l--) +"° elemento \u00e9: " +  (ns[x] +  ns[l]));
+			System.out.println("Soma do " + (x + 1) +"° elemento com o " + (l--) + "° elemento \u00e9: " +  (ns[x] +  ns[l]));
 		}
 	}
 }
