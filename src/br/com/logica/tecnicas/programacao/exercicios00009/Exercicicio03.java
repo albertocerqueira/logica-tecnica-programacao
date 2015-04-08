@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio03 {
 
 	public static void main(String[] args) {
-		Exercicicio03 exe00 = new Exercicicio03();
-		exe00.imprimirNumerosAleatorios();
+		Exercicicio03 exe03 = new Exercicicio03();
+		exe03.imprimirNumerosAleatorios();
 	}
 	
 	/**
