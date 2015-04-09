@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio07 {
 
 	public static void main(String[] args) {
-		Exercicicio07 exe06 = new Exercicicio07();
-		exe06.verificarVetorPalindromo();
+		Exercicicio07 exe07 = new Exercicicio07();
+		exe07.verificarVetorPalindromo();
 	}
 	
 	/**

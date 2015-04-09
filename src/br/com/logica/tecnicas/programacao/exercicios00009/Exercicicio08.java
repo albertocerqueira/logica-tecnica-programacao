@@ -5,13 +5,13 @@ import br.com.logica.tecnicas.programacao.extras.RandomUtils;
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
- * @date 2015/04/07
+ * @date 2015/04/08
  */
 public class Exercicicio08 {
 
 	public static void main(String[] args) {
-		Exercicicio08 exe06 = new Exercicicio08();
-		exe06.verificarMenorTemperatura();
+		Exercicicio08 exe08 = new Exercicicio08();
+		exe08.inverterVetores();
 	}
 	
 	/**
@@ -19,7 +19,7 @@ public class Exercicicio08 {
 	 * execução do programa o vetor B deverá conter os valores fornecidos para o vetor A, e vice-versa. Depois o programa deve imprimir o conteúdo
 	 * dos dois vetores.
 	 */
-	public void verificarMenorTemperatura() {
+	public void inverterVetores() {
 		int QUANTIDADE = 8;
 		int[] a = RandomUtils.gerarNumerosAleatorios(QUANTIDADE, 0, 100);
 		int[] b = RandomUtils.gerarNumerosAleatorios(QUANTIDADE, 0, 100);
