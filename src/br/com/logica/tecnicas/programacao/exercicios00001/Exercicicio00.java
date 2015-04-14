@@ -1,4 +1,7 @@
+
 package br.com.logica.tecnicas.programacao.exercicios00001;
+
+import br.com.logica.tecnicas.programacao.extras.RaizQuadrada;
 
 /**
  * @author Alberto Cerqueira
@@ -9,15 +12,15 @@ public class Exercicicio00 {
 
 	public static void main(String[] args) {
 		Exercicicio00 exe00 = new Exercicicio00();
-		exe00.isQuadradoPerfeito(13.0);
-		exe00.isQuadradoPerfeito(16.0);
+		exe00.isQuadradoPerfeito(13);
+		exe00.isQuadradoPerfeito(16);
 	}
 	
 	/**
-	 * Fazer um programa para ler um numero inteiro e positivo N e responder se N e quadrado perfeito.
+	 * Fazer um programa para ler um número inteiro e positivo N e responder se N é quadrado perfeito.
 	 */
-	public void isQuadradoPerfeito(Double numero) {
-		Double raiz = Math.sqrt(numero);//Voce tambem pode usar a classe RaizQuadrada.java no pacote de extras.
+	public void isQuadradoPerfeito(int numero) {
+		int raiz = RaizQuadrada.get(numero);
 		if (raiz * raiz == numero) {
 			System.out.println("Este n\u00famero \u00e9 quadrado perfeito!");
 		} else {

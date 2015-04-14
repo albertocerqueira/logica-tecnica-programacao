@@ -15,14 +15,13 @@ public class Exercicicio05 {
 	}
 	
 	/**
-	 * Suponha um vetor N com 10 elementos e outro vetor M com 10
-	 * elementos. Faça um programa que calcule o produto escalar P de
-	 * A por B. (Isto é, P = A[1]*B[1] + A[2]*B[2] + ... A[N]+B[N]).
+	 * Suponha um vetor N com 10 elementos e outro vetor M com 10 elementos. Faça um programa que calcule o produto escalar P de A por B.
+	 * (Isto é, P = A[1]*B[1] + A[2]*B[2] + ... A[N]+B[N]).
 	 */
 	public void produtoEscalar(Integer numeroVetorAte) {
-		Integer[] N = new Integer[10];
-		Integer[] M = new Integer[10];
-		Integer soma = 0;
+		int[] N = new int[10];
+		int[] M = new int[10];
+		int soma = 0;
 		
 		for (int x = 0; x<10; x++) {
 			Random geradorN = new Random();

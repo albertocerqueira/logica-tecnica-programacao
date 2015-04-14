@@ -15,15 +15,13 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 * Escreva um programa que armazene 15 numeros inteiros gerados 
-	 * aleatoriamente em um vetor. Imprima o vetor construido, a soma 
-	 * de todos os elementos de posicao impar e a soma de todos os elementos 
-	 * ímpares.
+	 * Escreva um programa que armazene 15 números inteiros gerados aleatoriamente em um vetor. Imprima o vetor construído, a soma de todos os
+	 * elementos de posição ímpar e a soma de todos os elementos ímpares.
 	 */
 	public void vetor15posicoes() {
-		Integer[] vetor = new Integer[15];
+		int[] vetor = new int[15];
 		for (int x = 0; x < 15; x++) {
-			Integer numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
+			int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
 			vetor[x] = numero;
 		}
 		

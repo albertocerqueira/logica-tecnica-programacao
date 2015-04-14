@@ -13,7 +13,7 @@ public class Exercicicio02 {
 	}
 	
 	/**
-	 * Fazer um programa para calcular a soma dos divisores de um numero N.
+	 * Fazer um programa para calcular a soma dos divisores de um número N.
 	 */
 	public void somaDivisores(Integer numero) {
 		int soma = 0;
