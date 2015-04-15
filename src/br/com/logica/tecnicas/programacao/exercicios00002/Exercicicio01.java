@@ -13,10 +13,10 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 * Apresenta todos os multiplos de 3 entre os numeros 1 e 20.
+	 * Apresenta todos os multiplos de 3 entre os números 1 e 20.
 	 */
 	public void multiplosDe3() {
-		for (int x = 1; x< 20; x++) {
+		for (int x = 1; x < 20; x++) {
 			if (x % 3 == 0) {
 				System.out.println("N\u00famero m\u00faltiplo de 3: " + x);
 			}

@@ -19,7 +19,7 @@ public class Exercicicio09 {
 	 */
 	public void mediaNumeros() {
 		int maior = 0 , soma = 0 , quantidadeNumeros = 0 ;
-		Integer numero = 0;
+		int numero = 0;
 		do {
 			soma += numero;
 			if (numero > maior) {

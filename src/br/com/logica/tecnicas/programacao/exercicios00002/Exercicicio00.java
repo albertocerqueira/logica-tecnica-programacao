@@ -16,12 +16,12 @@ public class Exercicicio00 {
 	
 	/**
 	 * Faca um programa que leia um caracter do teclado e forneça na tela uma mensagem associada a ele:
-	 * se for 'a' ou 'A': "Alteracao"
+	 * se for 'a' ou 'A': "Alteração"
 	 * se for 'c' ou 'C': "Consulta"
-	 * se for 'e' ou 'E': "Exclusao"
-	 * se for 'i' ou 'I': "Inclusao"
-	 * se for 'f' ou 'F': "Finalizacao"
-	 * outro qualquer: "Opcao invalida"
+	 * se for 'e' ou 'E': "Exclusão"
+	 * se for 'i' ou 'I': "Inclusão"
+	 * se for 'f' ou 'F': "Finalização"
+	 * outro qualquer: "Opção invalida"
 	 */
 	public void escolherOpcao() {
 		//char a , A , c , C , e , E , i , I , f , F;

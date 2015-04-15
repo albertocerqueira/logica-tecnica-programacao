@@ -15,16 +15,15 @@ public class Exercicicio02 {
 	}
 	
 	/**
-	 * Faca um programa que peca ao usuario a quilometragem atual, a quilometragem 
-	 * anterior, os litros consumidos e informe a taxa de consumo (quilometros por 
-	 * hora) de um automovel.
+	 * Faça um programa que peça ao usuário a quilometragem atual, a quilometragem anterior, os litros consumidos e informe a taxa de consumo
+	 * (quilometros por hora) de um automóvel.
 	 */
 	public void taxaConsumoCombustivel() {
-		Integer kmAnterior = Integer.parseInt(JOptionPane.showInputDialog("Digite a quilometragem do inicio do percurso:"));
-		Integer kmAtual = Integer.parseInt(JOptionPane.showInputDialog("Digite a quilometragem do final do percurso:"));
-		Integer soma = kmAtual - kmAnterior;
-		Double consumo = Double.parseDouble(JOptionPane.showInputDialog("Digite a quantidade em litros consumido no percurso:"));
-		Double taxaConsumo = (soma / consumo);
+		int kmAnterior = Integer.parseInt(JOptionPane.showInputDialog("Digite a quilometragem do inicio do percurso:"));
+		int kmAtual = Integer.parseInt(JOptionPane.showInputDialog("Digite a quilometragem do final do percurso:"));
+		int soma = kmAtual - kmAnterior;
+		double consumo = Double.parseDouble(JOptionPane.showInputDialog("Digite a quantidade em litros consumido no percurso:"));
+		double taxaConsumo = (soma / consumo);
 		if (taxaConsumo > 1) {
 			System.out.println("O carro est\u00e1 consumindo " + taxaConsumo + " litros de combust\u00edvel.");
 		} else {

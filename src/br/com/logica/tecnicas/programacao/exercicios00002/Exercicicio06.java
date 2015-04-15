@@ -15,8 +15,8 @@ public class Exercicicio06 {
 	}
 	
 	/**
-	 * Fazer um programa para ler um vetor de inteiros positivos de 50 posicoes. 
-	 * Imprimir a quantidade de numeros pares e de multiplos de 5.
+	 * Fazer um programa para ler um vetor de inteiros positivos de 50 posições. 
+	 * Imprimir a quantidade de números pares e de multiplos de 5.
 	 */
 	public void verificarVetor() {
 		Integer[] numeros = new Integer[50];
