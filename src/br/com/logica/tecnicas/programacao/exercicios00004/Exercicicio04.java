@@ -17,13 +17,9 @@ public class Exercicicio04 {
 	 * crescente os n primeiros naturais que são multiplos de i ou de j e ou de ambos.
 	 * Exemplo: Para n = 6 , i = 2 e j = 3 a saida devera ser : 0,2,3,4,6,8.  
 	 */
-	public void imprimirMultiplos(Integer n, Integer i, Integer j) {
-		int mult, /* candidato a multiplo                    */
-	    	cont; /* conta quantos multiplos foram impressos */
-	  
-		/* inicializacoes */
-		mult = 0;
-		cont = 0; 
+	public void imprimirMultiplos(int n, int i, Integer j) {
+		int mult = 0, /* candidato a multiplo                    */
+	    	cont = 0; /* conta quantos multiplos foram impressos */
 	  
 		System.out.print("Os n primeiros multiplos de i ou de j s\u00e3o: ");
 		while (cont < n) {

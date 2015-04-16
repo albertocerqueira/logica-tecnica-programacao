@@ -13,11 +13,11 @@ public class Exercicicio02 {
 	}
 	
 	/**
-	 *  Dado um numero inteiro positivo n, calcular a soma dos n primeiros numeros inteiros positivos. 
+	 *  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 	 */
 	public void calcularSomaDaSequencia(Integer numero) {
-		Integer soma = 0;
-		for (int x = 0, y = numero; x<y; x++) {
+		int soma = 0;
+		for (int x = 0, y = numero; x < y; x++) {
 			soma += x;
 		}
 		System.out.println("A soma dos " + numero + "° primeiros n\u00fameros naturais \u00e9 " + soma);

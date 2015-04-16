@@ -13,10 +13,9 @@ public class Exercicicio01 {
 	}
 
 	/**
-	 * Dado um numero natural na base decimal, transforma-lo para a base
-	 * binaria. Exemplo: Dado 18 a saida devera ser 10010.
+	 * Dado um número natural na base decimal, transformá-lo para a base binária. Exemplo: Dado 18 a saida deverá ser 10010.
 	 */
-	public void converterBaseBinaria(Integer num) {
+	public void converterBaseBinaria(int num) {
 		int bin, /* numero dado convertido para base 2    */
 	      	aux, /* auxiliar                              */
 	      	dig, /* guardara cada um dos digitos binarios */

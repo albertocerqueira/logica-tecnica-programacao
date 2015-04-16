@@ -18,9 +18,9 @@ public class Exercicicio08 {
 	 *  Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
 	 */
 	public void imprimirIntervaloDeNumeros() {
-		Integer n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));
-		Integer n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo n\u00famero:"));
-		for (int i = (n1+1); i < n2; i++) {
+		int n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));
+		int n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo n\u00famero:"));
+		for (int i = (n1 + 1); i < n2; i++) {
 			System.out.print(i + " ");
 		}
 	}

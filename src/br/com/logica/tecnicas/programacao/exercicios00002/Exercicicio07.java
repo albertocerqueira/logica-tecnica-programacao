@@ -15,10 +15,10 @@ public class Exercicicio07 {
 	}
 	
 	/**
-	 * Fazer um programa que leia varios numeros inteiros e positivos e calcule o fatorial. Sair quando for digitado -1.
+	 * Fazer um programa que leia vários números inteiros e positivos e calcule o fatorial. Sair quando for digitado -1.
 	 */
 	public void calcularFatorial() {
-		Integer numero = 0, fatorial = 1;
+		int numero = 0, fatorial = 1;
 		while (numero != -1) {
         	numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer para calcular seu fatorial:"));
             

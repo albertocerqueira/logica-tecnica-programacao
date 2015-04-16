@@ -15,8 +15,7 @@ public class Exercicicio08 {
 	}
 	
 	/**
-	 * Fazer um programa para calcular a soma dos N primeiros multiplos 
-	 * de um inteiro K, onde N e K sao lidos e sao numeros inteiros e positivos.
+	 * Fazer um programa para calcular a soma dos N primeiros multiplos de um inteiro K, onde N e K são lidos e são números inteiros e positivos.
 	 */
 	public void somaMultiplo() {
 		int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));

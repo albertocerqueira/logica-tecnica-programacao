@@ -13,9 +13,9 @@ public class Exercicicio08 {
 	}
 	
 	/**
-	 *  Dados tres numeros, imprimi-los em ordem crescente.   
+	 *  Dados três numeros, imprimi-los em ordem crescente.   
 	 */
-	public void ordemCrescente(Integer n1, Integer n2, Integer n3) {
+	public void ordemCrescente(int n1, int n2, int n3) {
 		if (n1 <= n2 && n2 <= n3) {
 			System.out.println("A ordem crescente: " +  n1 + " < " + n2 + " < " + n3);
 		} else if (n1 <= n3 && n3 <= n2) {

@@ -20,11 +20,11 @@ public class Exercicicio05 {
 	 *  turmas 
 	 */
 	public void verificarNotas() {
-		Double maiorNota = 0.0;
+		double maiorNota = 0.0;
 		for (int x = 0; x < 5; x++) {
-			Double maiorNotaSala = 0.0;
+			double maiorNotaSala = 0.0;
 			for (int y = 0; y < 2; y++) {
-				Double n = Double.parseDouble(JOptionPane.showInputDialog("Digite a nota do aluno:"));
+				double n = Double.parseDouble(JOptionPane.showInputDialog("Digite a nota do aluno:"));
 				
 				if (maiorNotaSala < n) {
 					maiorNotaSala = n;

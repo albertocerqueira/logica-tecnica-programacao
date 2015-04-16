@@ -15,12 +15,12 @@ public class Exercicicio08 {
 	}
 
 	/**
-	 * Faca um programa que leia 10 numeros e diga qual e o maior.
+	 * Faca um programa que leia 10 números e diga qual e o maior.
 	 */
 	public void verificarMaior() {
 		int maior = 0;
 		for (int x = 0; x < 10; x++) {
-			Integer numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
+			int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
 			if (numero > maior) {
 				maior = numero;
 			}

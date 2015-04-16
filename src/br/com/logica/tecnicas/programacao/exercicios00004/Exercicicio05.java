@@ -15,14 +15,11 @@ public class Exercicicio05 {
 	}
 
 	/**
-	 *  Faça um programa em C que leia um número N calcule e escreva a seguinte soma com N 
-	 *  termos: S = 1/10 + 2/15 + 3/20 + 4/25 + ...
+	 *  Faça um programa em C que leia um número N calcule e escreva a seguinte soma com N termos: S = 1/10 + 2/15 + 3/20 + 4/25 + ...
 	 */
 	public void somaNmais5() {
 		double soma = 0, contador = 0;
-
-		Integer n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
-
+		int n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
 		for (int x = 0; x < n; x++) {
 			contador++;
 			soma += (contador / ((contador * 5) + 5 ));

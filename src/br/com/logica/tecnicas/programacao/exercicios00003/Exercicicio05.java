@@ -15,7 +15,7 @@ public class Exercicicio05 {
 	/**
 	 *  Dados um inteiro x e um inteiro  não-negativo n, calcular x elevado a n.  
 	 */
-	public void elevarExpondecial(Integer numero, Integer expondecial) {
+	public void elevarExpondecial(int numero, int expondecial) {
 		int total =0;
         int numeroDoLaco = numero;
         for (int i =1 ; i != expondecial; i++) {

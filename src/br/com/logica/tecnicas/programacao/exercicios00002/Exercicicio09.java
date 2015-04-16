@@ -15,13 +15,12 @@ public class Exercicicio09 {
 	}
 	
 	/**
-	 * Fazer um programa que leia varios numeros(um por vez) e imprima 0(zero) se o numero 
-	 * nao for multiplo de 2,3, 5. Imprimir 1(um) se o numero for multiplo de 2 ou 3 e 
-	 * 2(dois) se o número for multiplo de 5. Sair do programa quando for digitado o 
-	 * valor -1.(Nao e necessario nenhuma consistencia ou critica dos dados).
+	 * Fazer um programa que leia vários números (um por vez) e imprima 0(zero) se o número não for múltiplo de 2,3, 5. Imprimir 1(um) se o número 
+	 * for múltiplo de 2 ou 3 e 2(dois) se o número for múltiplo de 5. Sair do programa quando for digitado o valor -1. (Não e necessario nenhuma 
+	 * consistência ou crítica dos dados).
 	 */
 	public void verificarMultiplos() {
-		Integer numero = 0;
+		int numero = 0;
 		do {
         	numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
             

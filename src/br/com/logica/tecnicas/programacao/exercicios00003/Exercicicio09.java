@@ -13,9 +13,9 @@ public class Exercicicio09 {
 	}
 	
 	/**
-	 *  Dados tres numeros naturais, verificar se eles formam os lados de um triangulo retangulo.   
+	 *  Dados três números naturais, verificar se eles formam os lados de um triângulo retângulo.   
 	 */
-	public void trianguloRetangulo(Integer ladoA, Integer ladoB, Integer ladoC) {
+	public void trianguloRetangulo(int ladoA, int ladoB, int ladoC) {
 		int auxilio;
 		if (ladoA < ladoB) {
 			auxilio = ladoA;

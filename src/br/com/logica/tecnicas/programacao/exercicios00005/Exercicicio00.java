@@ -15,12 +15,11 @@ public class Exercicicio00 {
 	}
 	
 	/**
-	 *  Faça um programa que leia dois números inteiros quaisquer, calcule a soma do
-	 *  módulo desses números. Pode-se pedir também o módulo da soma. 
+	 *  Faça um programa que leia dois números inteiros quaisquer, calcule a soma do módulo desses números. Pode-se pedir também o módulo da soma. 
 	 */
 	public void somaDosModulos() {
-		Integer n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));
-		Integer n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo n\u00famero:"));
+		int n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));
+		int n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo n\u00famero:"));
 		
 		if (n1 < 0) {
 			n1 = n1 * (-1);

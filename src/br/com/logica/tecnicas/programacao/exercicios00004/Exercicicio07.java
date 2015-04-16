@@ -17,16 +17,11 @@ public class Exercicicio07 {
 	 * Exemplo:
 	 * Dado 10010 a saída será 18, pois 1. 2 4 + 0. 2 3 + 0. 2 2 + 1. 2 1 + 0. 2 0 = 18.
 	 */
-	public void converterParaBaseDecimal(Integer binario) {
-		int pot2,       /* guardara uma potencia de 2          */
-        resultado;      /* numero dado convertido para base 10 */
+	public void converterParaBaseDecimal(int binario) {
+		int pot2 = 1, /* guardara uma potencia de 2          */
+        	resultado = 0; /* numero dado convertido para base 10 */
 
-	    /* inicializacoes */
-	    resultado = 0;
-	    pot2  = 1;
-	
 	    System.out.print(binario + " na base 10 \u00e9: ");
-	
 	    while (binario != 0) {
 	    	resultado = resultado + binario % 10 * pot2;  /* processa um digito binario */
 	    	binario = binario / 10;

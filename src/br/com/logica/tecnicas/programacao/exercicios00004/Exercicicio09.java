@@ -20,7 +20,7 @@ public class Exercicicio09 {
 	public void verificarPesoBoiada() {
 		int contadorPeso = 0;
 		for (int x = 0; x < 50; x++) {
-			Integer peso = Integer.parseInt(JOptionPane.showInputDialog("Digite o peso do animal (em kg):"));
+			int peso = Integer.parseInt(JOptionPane.showInputDialog("Digite o peso do animal (em kg):"));
 			if (peso >= 600 && peso <= 800) {
 				contadorPeso++;
 			}

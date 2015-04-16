@@ -17,13 +17,10 @@ public class Exercicicio02 {
 	 * Exemplo: 6 é perfeito, pois 1+2+3 = 6.
 	 * Dado um inteiro positivo n, verificar se n é perfeito. 
 	 */
-	public void verificarNumeroPerfeito(Integer n) {
-		int soma,	 /* soma dos valores dos divisores de n */
+	public void verificarNumeroPerfeito(int n) {
+		int soma = 0,/* soma dos valores dos divisores de n */
 	      	divisor; /* candidato a divisor de n            */
 
-		/* inicializacoes */
-		soma = 0;
-	  
 	  	for (divisor = 1; divisor < n; divisor++) {
 		  	if (n % divisor == 0) {			  
 			  	soma = soma + divisor;

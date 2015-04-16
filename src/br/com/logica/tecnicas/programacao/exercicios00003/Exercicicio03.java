@@ -13,7 +13,7 @@ public class Exercicicio03 {
 	}
 	
 	/**
-	 *  Dado um numero inteiro positivo n, imprimir os n primeiros naturais impares. 
+	 *  Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares. 
 	 */
 	public void imprimirSequenciaImpar(Integer numero) {
 		int sequenciaImpar = 1;

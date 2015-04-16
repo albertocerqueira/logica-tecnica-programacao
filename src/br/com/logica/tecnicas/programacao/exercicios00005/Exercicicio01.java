@@ -15,13 +15,13 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 *  Faça um programa que leia três números inteiros representando os lados de um
-	 *  triângulo e diga se o triângulo é eqüilátero, isósceles ou escaleno.
+	 *  Faça um programa que leia três números inteiros representando os lados de um triângulo e diga se o triângulo é eqüilátero, isósceles ou 
+	 *  escaleno.
 	 */
 	public void verificarTriangulo() {
-		Integer l1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro lado do tri\u00e2ngulo:"));
-		Integer l2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo lado do tri\u00e2ngulo:"));
-		Integer l3 = Integer.parseInt(JOptionPane.showInputDialog("Digite o terceiro lado do tri\u00e2ngulo:"));
+		int l1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro lado do tri\u00e2ngulo:"));
+		int l2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo lado do tri\u00e2ngulo:"));
+		int l3 = Integer.parseInt(JOptionPane.showInputDialog("Digite o terceiro lado do tri\u00e2ngulo:"));
 		
 		if (l1 == l2 && l1 == l3) {
 			System.out.println("Este tri\u00e2ngulo \u00e9 Equil\u00e1tero.");

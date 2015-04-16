@@ -21,7 +21,7 @@ public class Exercicicio04 {
 	 *  X >= 10 -> Y = 2X
 	 */
 	public void verificarValorDeX() {
-		Integer x = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor de x:"));
+		int x = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor de x:"));
 		if (x < 3) {
 			System.out.println("X < 3 -> Y = X + 1 -> Y = " + (x + 1));
 		} else if (3 <= x && x < 10) {

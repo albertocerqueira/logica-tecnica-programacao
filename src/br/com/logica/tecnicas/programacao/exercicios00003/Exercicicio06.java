@@ -15,7 +15,7 @@ public class Exercicicio06 {
 	/**
 	 *  Dado um inteiro positivo n, verificar se n é primo.   
 	 */
-	public void verificarNumeroPrimo(Integer numero) {
+	public void verificarNumeroPrimo(int numero) {
 		int elemesmo = 0, resto, contador = 0;
 		while (numero >= elemesmo) {  
             ++elemesmo;

@@ -18,7 +18,7 @@ public class Exercicicio06 {
 	 *  Faça um programa que leia um número N e escreva uma lista do seus divisores. 
 	 */
 	public void imprimirDivisores() {
-		Integer n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero:"));
+		int n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero:"));
 		System.out.println("Seus divisores s\u00e3o:");
 		for (int i = 1; i < n; i++) {
 			if (n % i == 0) {

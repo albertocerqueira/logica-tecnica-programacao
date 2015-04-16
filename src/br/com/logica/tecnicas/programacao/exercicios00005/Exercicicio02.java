@@ -22,8 +22,8 @@ public class Exercicicio02 {
 	public void somaDosModulos() {
 		int abaixoDoÎMC = 0;
 		for (int x = 0; x < 20; x++) {
-			Integer peso = Integer.parseInt(JOptionPane.showInputDialog("Digite o peso da pessoa:"));
-			Double altura = Double.parseDouble(JOptionPane.showInputDialog("Digite a altura da pessoa:"));
+			int peso = Integer.parseInt(JOptionPane.showInputDialog("Digite o peso da pessoa:"));
+			double altura = Double.parseDouble(JOptionPane.showInputDialog("Digite a altura da pessoa:"));
 			double imc = peso / (altura * altura);
 			
 			if (imc <= 18.5) {

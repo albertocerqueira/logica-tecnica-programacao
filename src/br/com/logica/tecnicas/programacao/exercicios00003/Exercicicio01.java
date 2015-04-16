@@ -13,11 +13,11 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 * Dada uma sequencia de numeros inteiros nao-nulos, seguida por 0, imprimir seus quadrados.
+	 * Dada uma sequência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados.
 	 */
 	public void calcularQuadradoDaSequencia(Integer numero) {
-		for (int x = 0, y = numero; x<y; x++) {
-			Integer quadrado = x * x;
+		for (int x = 0, y = numero; x < y; x++) {
+			int quadrado = x * x;
 			System.out.println("O quadrado de " + x + " \u00e9 " + quadrado);
 		}
 	}

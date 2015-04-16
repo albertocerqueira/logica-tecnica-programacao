@@ -13,7 +13,7 @@ public class Exercicicio03 {
 	}
 
 	/**
-	 * Dados n e uma sequencia de n numeros inteiros, determinar a soma dos numeros pares. 
+	 * Dados n e uma sequência de n números inteiros, determinar a soma dos números pares. 
 	 */
 	public void somaNumerosPares(Integer numero) {
 		int soma = 0;
