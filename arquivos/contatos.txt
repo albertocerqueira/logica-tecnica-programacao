@@ -1,0 +1,3 @@
+alberto	alberto@teste.com	999999999
+fidalgo	teste@teste.com	12345657
+alberto	junior@teste.com.br	987654321

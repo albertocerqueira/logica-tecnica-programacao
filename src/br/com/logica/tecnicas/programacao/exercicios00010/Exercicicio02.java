@@ -16,8 +16,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio02 {
 
 	public static void main(String[] args) {
-		Exercicicio02 exe01 = new Exercicicio02();
-		exe01.pesquisaSalarialProfessores();
+		Exercicicio02 exe02 = new Exercicicio02();
+		exe02.gerenciarNotas();
 	}
 	
 	/**
@@ -34,7 +34,7 @@ public class Exercicicio02 {
 	 * A função mostrarNotas() deve ler do arquivo e mostrar na tela o nome e as três notas de cada aluno. O nome desse arquivo também deve ser 
 	 * digitado pelo usuário.
 	 */
-	public void pesquisaSalarialProfessores() {
+	public void gerenciarNotas() {
 		int funcao = 0;
 		do {
 			funcao = Integer.parseInt(JOptionPane.showInputDialog("Digite:\n1 para lançar notas.\n2 para mostrar notas.\n3 para sair do programa."));
