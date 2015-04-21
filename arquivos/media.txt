@@ -1,0 +1,3 @@
+Nome: ZE SA - N1: 8.5 - N2: 10.0 - Média: 9.25 - Aprovado
+Nome: ANTONIO SANTOS - N1: 7.5 - N2: 8.5 - Média: 8.0 - Aprovado
+Nome: SEBASTIAO OLIVEIRA - N1: 5.0 - N2: 6.0 - Média: 5.5 - Reprovado

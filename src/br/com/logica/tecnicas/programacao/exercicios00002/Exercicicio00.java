@@ -44,8 +44,8 @@ public class Exercicicio00 {
 			case 'f':
 				System.out.println("Finalizado");
 				break;
-		default:
-			System.out.println("Op\u00e7\u00e3o Inv\u00e1lida");
+			default:
+				System.out.println("Op\u00e7\u00e3o Inv\u00e1lida");
 		}
 	}
 }
