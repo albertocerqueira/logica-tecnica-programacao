@@ -14,8 +14,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio03 {
 
 	public static void main(String[] args) {
-		Exercicicio03 exe01 = new Exercicicio03();
-		exe01.pesquisaSalarialProfessores();
+		Exercicicio03 exe03 = new Exercicicio03();
+		exe03.pesquisaSalarialProfessores();
 	}
 	
 	/**
@@ -27,7 +27,7 @@ public class Exercicicio03 {
 	 * Carolina Maria Silva Vieira	cmsvieira@yahoo.com.br	(11)99336611
 	 */
 	public void pesquisaSalarialProfessores() {
-		String c = JOptionPane.showInputDialog("Deseja digita um novo contato? (s/n)");;
+		String c = JOptionPane.showInputDialog("Deseja digita um novo contato? (s/n)");
 		if (!c.equals("n")) {			
 			do {
 				String nome = JOptionPane.showInputDialog("Digito o nome do contato:");
