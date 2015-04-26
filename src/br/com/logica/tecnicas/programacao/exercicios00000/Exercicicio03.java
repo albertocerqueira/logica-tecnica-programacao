@@ -1,4 +1,4 @@
-package br.com.logica.tecnicas.programacao.exercicios00010;
+package br.com.logica.tecnicas.programacao.exercicios00000;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

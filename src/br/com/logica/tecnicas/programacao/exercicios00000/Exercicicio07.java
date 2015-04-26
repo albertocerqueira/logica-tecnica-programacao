@@ -1,4 +1,4 @@
-package br.com.logica.tecnicas.programacao.exercicios00010;
+package br.com.logica.tecnicas.programacao.exercicios00000;
 
 import javax.swing.JOptionPane;
 
@@ -7,11 +7,11 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/08
  */
-public class Exercicicio00 {
+public class Exercicicio07 {
 
 	public static void main(String[] args) {
-		Exercicicio00 exe00 = new Exercicicio00();
-		exe00.pesquisarMensalidadeDeAcademias();
+		Exercicicio07 exe07 = new Exercicicio07();
+		exe07.pesquisarMensalidadeDeAcademias();
 	}
 	
 	/**
