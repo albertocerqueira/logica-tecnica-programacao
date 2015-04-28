@@ -22,18 +22,18 @@ public class Exercicicio00 {
 	 * 1 1 1 1 1 1
 	 */
 	public void criarMatriz() {
-		int COLUNAS = 6 , LINHAS = 6 , MEIACOLUNA = 3;/*com meiacoluna as linha do meio podem ser trocada para mostra uma matriz maior ou menor*/
+		int COLUNAS = 10, LINHAS = 10, MEIACOLUNA = 5;/*com meiacoluna as linha do meio podem ser trocada para mostra uma matriz maior ou menor*/
 		int[][] matriz = new int[COLUNAS][LINHAS];
 		for (int x = 0 ; x < LINHAS ; x++) {
 			for (int y = 0 ; y < COLUNAS ; y++) {
-				if (x==0 || x==5) {
+				if (x == 0 || x == 5) {
 					matriz[x][y] = 1;
 					System.out.print(matriz[x][y] + " ");
 				}
 			}
 			for (int y = 0 ; y < COLUNAS ; y++) {
-				if (x==1 || x==4) {
-					if (y==0 || y==COLUNAS-1) {
+				if (x == 1 || x == 4) {
+					if (y == 0 || y == COLUNAS-1) {
 						matriz[x][y] = 1;
 						System.out.print(matriz[x][y] + " ");
 					} else {
@@ -42,7 +42,7 @@ public class Exercicicio00 {
 					}
 				}
 			}
-			if (x==2 || x==3) {
+			if (x==2 || x == 3) {
 				for (int y = 0 ; y < MEIACOLUNA ; y++) {
 					matriz[x][y] = y + 1;
 					System.out.print(matriz[x][y] + " ");

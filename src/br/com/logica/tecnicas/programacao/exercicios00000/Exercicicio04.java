@@ -11,7 +11,7 @@ public class Exercicicio04 {
 
 	public static void main(String[] args) {
 		Exercicicio04 exe04 = new Exercicicio04();
-		exe04.pesquisaSalarialProfessores();
+		exe04.criarEmail();
 	}
 	
 	/**
@@ -21,7 +21,7 @@ public class Exercicicio04 {
 	 * -Acrescentar o nome da empresa, em nosso caso "ltp.edu.br"
 	 * Exemplo: Silvia Brunini se transformará em silvia.brunini@ltp.edu.br
 	 */
-	public void pesquisaSalarialProfessores() {
+	public void criarEmail() {
 		String email = JOptionPane.showInputDialog("Digite seu nome completo (na forma nome e sobrenome):");
 		email = email.toLowerCase().replace(" ", ".") + "@albertocerqueira.com.br";
 		System.out.println(email);

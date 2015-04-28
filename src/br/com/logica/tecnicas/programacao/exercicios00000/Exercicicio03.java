@@ -15,7 +15,7 @@ public class Exercicicio03 {
 
 	public static void main(String[] args) {
 		Exercicicio03 exe03 = new Exercicicio03();
-		exe03.pesquisaSalarialProfessores();
+		exe03.gravarContatos();
 	}
 	
 	/**
@@ -26,7 +26,7 @@ public class Exercicicio03 {
 	 * Márcia Marques Santos	marciams@hotmail.com	(16)25798642
 	 * Carolina Maria Silva Vieira	cmsvieira@yahoo.com.br	(11)99336611
 	 */
-	public void pesquisaSalarialProfessores() {
+	public void gravarContatos() {
 		String c = JOptionPane.showInputDialog("Deseja digita um novo contato? (s/n)");
 		if (!c.equals("n")) {			
 			do {
