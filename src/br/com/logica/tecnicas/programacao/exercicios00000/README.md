@@ -66,28 +66,36 @@ A função limpar() deverá eliminar todos os números negativos, trocando-os po
 <sub>Escreva um laço for que inicialize uma matriz 10x15 com valores de 0 a 149.</sub>  
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio11.java "Exercício 11")<sub>
-<sub></sub>  
+<sub>Escreva uma função que receba três valores inteiros e chame uma função, esta função deve receber estes três valores como parâmetro e retornar o maior deles.</sub>  
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio12.java "Exercício 12")<sub>
-<sub></sub>  
+<sub>Desenvolva uma aplicação que calcule a soma dos 10 primeiros números inteiros pares positivos.</sub>  
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio13.java "Exercício 13")<sub>
-<sub></sub>  
+<sub>Desenvolva um aplicativo que pede para o usuário digitar a altura e a base de um triângulo atravésde uma caixa de diálogo, em seguida calcule e escreva a sua área.</sub>  
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio14.java "Exercício 14")<sub>
-<sub></sub>  
+<sub>Escreva uma aplicação que converta uma temperatura expressa em graus Celsius em seu valor equivalente em graus Fahrenheit (C = 5/9*(F-32)) ou vice-versa de acordo com a opção de conversão escolhida pelo usuário.</sub>  
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio15.java "Exercício 15")<sub>
-<sub></sub>  
+<sub>Escreva uma aplicação que determina a data cronologicamente maior de duas datas fornecidas pelo usuário. Cada data deve ser fornecida por três valores inteiros onde o primeiro representa um dia,o segundo um mês e o terceiro um ano.</sub>  
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio16.java "Exercício 16")<sub>
-<sub></sub>  
+<sub>Dada uma seqüência de n números, imprimi-la na ordem inversa à da leitura.</sub>  
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio17.java "Exercício 17")<sub>
-<sub></sub>  
+<sub>Escreva um laço que execute 20 vezesa.   
+a. Primeiramente como um while  
+b. Converta este laço para um do-while.  
+c. Agora escreva como for.</sub>  
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio18.java "Exercício 18")<sub>
-<sub></sub>  
+<sub>Sabe-se que a área de um retângulo é lado maior multiplicado pelo lado menor (área retângulo = lado maior * lado menor). Crie uma função que os parâmetros de entrada sejam, os lados do retângulo e o retorno desta função seja o resultado do cálculo da área.</sub>  
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio19.java "Exercício 19")<sub>
-<sub></sub>  
+<sub>O planeta NetByte fica ao redor do Sol, porém não possui as proteções da atmosfera que existem na Terra, ficando exposto ao ataque do Sol por constantes explosões. Além das explosões solares, o NetByte tem uma variação de temperatura brutal, passando de cerca de 130 graus positivos durante o dia a 129 graus negativos à noite.  
+A NASA decidiu enviar uma sonda ao planeta NetByte para estudar com mais precisão as variações de temperatura em sua superfície. Essa sonda possui um sensor que mede a temperatura de 1 em 1 minuto. Um dado importante que os pesquisadores desejam descobrir é como se comporta a média da temperatura, considerada em intervalos de uma dada duração (uma hora, meia hora, oito horas, etc.).  
+Por exemplo, para a seqüência de medições 8, 20, 30, 50, 40, 20, -10, e intervalos de quatro minutos, as médias são respectivamente 108/4=27, 140/4=35, 140/4=35 e 100/4=25.
+Você foi recentemente contratado pela NASA, e sua primeira tarefa é escrever um programa que, conhecidos a seqüência de temperaturas medidas pelo sensor, e o tamanho do intervalo desejado, maior e qual a menor temperatura média observadas, considerando o tamanho do intervalo dado.  
+A entrada é composta de vários conjuntos de teste. A primeira linha de um conjunto de teste contém dois números inteiros positivos N e M, que indicam respectivamente o número total de medições de temperatura de uma seqüência obtida pelo sensor, e o tamanho dos intervalos, em minutos, em que as médias devem ser calculadas. As N linhas seguintes contêm um número inteiro cada, representando a seqüência de medidas do sensor.  
+O final da entrada é indicado quando N = M = 0. Tanto a entrada quanto a saída devem conter frases de solicitação e de apresentação de resultados ao usuário.</sub>  
