@@ -2,8 +2,8 @@
 Algoritmos com simples implementação, muito usado em aulas de programação.
 
 - [<sub>Bubble Sort</sub>](#bubble-sort)
-- [<sub>Busca Binária</sub>](#busca-binaria)
-- [<sub>Busca Sequêncial</sub>](#busca-sequencial)
+- [<sub>Busca Binária</sub>](#busca-binária)
+- [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
 - [<sub>Recursividade</sub>](#recursividade)
