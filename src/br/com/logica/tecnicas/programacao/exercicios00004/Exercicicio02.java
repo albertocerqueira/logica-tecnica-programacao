@@ -14,13 +14,11 @@ public class Exercicicio02 {
 
 	/**
 	 * Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n.
-	 * Exemplo: 6 é perfeito, pois 1+2+3 = 6.
+	 * Exemplo: 6 é perfeito, pois 1 + 2 + 3 = 6.
 	 * Dado um inteiro positivo n, verificar se n é perfeito. 
 	 */
 	public void verificarNumeroPerfeito(int n) {
-		int soma = 0,/* soma dos valores dos divisores de n */
-	      	divisor; /* candidato a divisor de n            */
-
+		int soma = 0, divisor;
 	  	for (divisor = 1; divisor < n; divisor++) {
 		  	if (n % divisor == 0) {			  
 			  	soma = soma + divisor;

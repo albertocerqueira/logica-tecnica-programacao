@@ -15,12 +15,10 @@ public class Exercicicio04 {
 	/**
 	 * Dados n e dois numeros inteiros positivos i e j diferentes de 0, imprimir em ordem 
 	 * crescente os n primeiros naturais que são multiplos de i ou de j e ou de ambos.
-	 * Exemplo: Para n = 6 , i = 2 e j = 3 a saida devera ser : 0,2,3,4,6,8.  
+	 * Exemplo: Para n = 6 , i = 2 e j = 3 a saida devera ser : 0, 2, 3, 4, 6, 8.  
 	 */
 	public void imprimirMultiplos(int n, int i, Integer j) {
-		int mult = 0, /* candidato a multiplo                    */
-	    	cont = 0; /* conta quantos multiplos foram impressos */
-	  
+		int mult = 0, cont = 0;
 		System.out.print("Os n primeiros multiplos de i ou de j s\u00e3o: ");
 		while (cont < n) {
 			/* verifica se mult e' multiplo de i ou j */

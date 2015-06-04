@@ -13,9 +13,9 @@ public class Exercicicio00 {
 	}
 	
 	/**
-	 *  Dizemos que um número natural e triângular se ele e produto de três numeros naturais consecutivos.
-	 *  Exemplo: 120 e triangular, pois 4.5.6 = 120.
-	 *  Dado um inteiro não-negativo n, verificar se n e triângular. 
+	 * Dizemos que um número natural e triângular se ele e produto de três numeros naturais consecutivos.
+	 * Exemplo: 120 e triangular, pois 4.5.6 = 120.
+	 * Dado um inteiro não-negativo n, verificar se n e triângular. 
 	 */
 	public void verificarNumeroTriangular(int n) {
 		int i;
