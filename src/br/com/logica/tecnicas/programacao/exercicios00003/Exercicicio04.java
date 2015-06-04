@@ -13,7 +13,7 @@ public class Exercicicio04 {
 	}
 	
 	/**
-	 *  Dado um inteiro não-negativo n, determinar n!   
+	 * Dado um inteiro não-negativo n, determinar n!   
 	 */
 	public void calcularFatorial(Integer numero) {
         int fatorial = 1;

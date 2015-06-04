@@ -13,7 +13,7 @@ public class Exercicicio05 {
 	}
 	
 	/**
-	 *  Dados um inteiro x e um inteiro  não-negativo n, calcular x elevado a n.  
+	 * Dados um inteiro x e um inteiro  não-negativo n, calcular x elevado a n.  
 	 */
 	public void elevarExpondecial(int numero, int expondecial) {
 		int total =0;

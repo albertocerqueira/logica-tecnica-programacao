@@ -13,7 +13,7 @@ public class Exercicicio09 {
 	}
 	
 	/**
-	 *  Dados três números naturais, verificar se eles formam os lados de um triângulo retângulo.   
+	 * Dados três números naturais, verificar se eles formam os lados de um triângulo retângulo.   
 	 */
 	public void trianguloRetangulo(int ladoA, int ladoB, int ladoC) {
 		int auxilio;

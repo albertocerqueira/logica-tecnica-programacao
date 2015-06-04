@@ -13,7 +13,7 @@ public class Exercicicio02 {
 	}
 	
 	/**
-	 *  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
+	 * Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 	 */
 	public void calcularSomaDaSequencia(Integer numero) {
 		int soma = 0;

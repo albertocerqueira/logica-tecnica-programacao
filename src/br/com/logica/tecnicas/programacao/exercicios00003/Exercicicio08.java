@@ -13,7 +13,7 @@ public class Exercicicio08 {
 	}
 	
 	/**
-	 *  Dados três numeros, imprimi-los em ordem crescente.   
+	 * Dados três números, imprimi-los em ordem crescente.   
 	 */
 	public void ordemCrescente(int n1, int n2, int n3) {
 		if (n1 <= n2 && n2 <= n3) {

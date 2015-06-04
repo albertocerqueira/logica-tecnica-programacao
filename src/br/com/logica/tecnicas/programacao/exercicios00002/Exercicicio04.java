@@ -16,7 +16,7 @@ public class Exercicicio04 {
 	 * Escreva um programa que contenha uma função. Esta função deve receber um número por parâmetro (representando uma data no formato ddmm),
 	 * verificar se a data e valida ou não. Caso a data seja válida retornar 1, caso contrário retornar 0 se o mês for inválido ou retornar –1 caso 
 	 * o dia seja inválido. A função main() deve imprimir o valor de retorno. Para facilitar a consulta, essa função deve fazer uso de um vetor 
-	 * pré-definido com o número de dias de cada mês. Como exemplo de vetor: int total_dias={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
+	 * pré-definido com o número de dias de cada mês. Como exemplo de vetor: int total_dias={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}.
 	 */
 	public void verificarData(Integer data) {
 		Integer retorno = getValor(data);

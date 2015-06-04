@@ -16,12 +16,12 @@ public class Exercicicio07 {
 	
 	/**
 	 * Faça um programa que leia uma frase e mostre as vogais que aparecem na frase, juntamente com o número de repetições.
-	 * Ex: “Amanha nao tem aula.”
-	 * A letra a apareceu 6 vez(es).	
+	 * Ex: "Amanhã nao tem aula."
+	 * A letra a apareceu 6 vez(es).
 	 * A letra e apareceu 1 vez(es).
 	 * A letra i apareceu 0 vez(es).
 	 * A letra o apareceu 1 vez(es).
-	 * A letra u apareceu 1 vez(es).	         
+	 * A letra u apareceu 1 vez(es).
 	 */
 	public void contarLetrasNaFrase() {
 		String frase = JOptionPane.showInputDialog("Digite uma frase qualquer:");
