@@ -15,9 +15,8 @@ public class Exercicicio06 {
 	}
 
 	/**
-	 *  Dados o número n de alunos de uma turma de Introdução aos Autômatos a Pilha (MAC 414) e 
-	 *  suas notas da primeira prova, determinar a maior e a menor nota obtidas por essa turma 
-	 *  (Nota máxima = 100 e nota mínima = 0).
+	 * Dados o número n de alunos de uma turma de Introdução aos Autômatos a Pilha (MAC 414) e suas notas da primeira prova, determinar a maior e a
+	 * menor nota obtidas por essa turma (Nota máxima = 100 e nota mínima = 0).
 	 */
 	public void imprimirMaiorEmenorNota() {
 		Integer quantidadeAlunos = Integer.parseInt(JOptionPane.showInputDialog("Digite o n\u00famero de alunos:"));

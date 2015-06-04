@@ -15,8 +15,8 @@ public class Exercicicio05 {
 	}
 
 	/**
-	 *  Uma loja de discos anota diariamente durante o mês de março a quantidade de discos vendidos. 
-	 *  Determinar em que dia desse mês ocorreu a maior venda e qual foi a quantidade de discos vendida nesse dia. 
+	 * Uma loja de discos anota diariamente durante o mês de março a quantidade de discos vendidos. 
+	 * Determinar em que dia desse mês ocorreu a maior venda e qual foi a quantidade de discos vendida nesse dia. 
 	 */
 	public void armazenarVendasNoMesDeMarco() {
 		int maiorQuantidade = 0, maiorVendaDia = 0;

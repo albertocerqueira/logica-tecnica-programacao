@@ -15,7 +15,7 @@ public class Exercicicio03 {
 	}
 
 	/**
-	 *  Faça um programa que leia um número N e calcule e escreva o n-ézimo termo da série: 1, 2, 4, 7, 11, ...
+	 * Faça um programa que leia um número N e calcule e escreva o n-ézimo termo da série: 1, 2, 4, 7, 11, ...
 	 */
 	public void somaNezimoTermo() {
 		int soma=1;

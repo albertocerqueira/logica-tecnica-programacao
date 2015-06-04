@@ -15,7 +15,7 @@ public class Exercicicio00 {
 	}
 	
 	/**
-	 *  Faça um programa que leia as médias dos alunos de uma turma até que seja digitado -1 e diga quantos passaram. 
+	 * Faça um programa que leia as médias dos alunos de uma turma até que seja digitado -1 e diga quantos passaram. 
 	 */
 	public void verificandoMediaAlunos() {
 		int alunosAprovados = 0;

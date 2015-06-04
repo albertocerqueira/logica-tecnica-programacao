@@ -15,9 +15,8 @@ public class Exercicicio04 {
 	}
 
 	/**
-	 *  Faça um programa que leia o gênero (0 para masculino ou 1 para feminino) e a cor dos cabelos 
-	 *  (0 para louro, 1 para preto, 2 para ruivo ou 3 para castanho) de 100 pessoas e diga quantas 
-	 *  ruivas existem.
+	 * Faça um programa que leia o gênero (0 para masculino ou 1 para feminino) e a cor dos cabelos (0 para louro, 1 para preto, 2 para ruivo ou 3
+	 * para castanho) de 100 pessoas e diga quantas ruivas existem.
 	 */
 	public void somaNezimoTermo() {
 		int ruivas = 0;

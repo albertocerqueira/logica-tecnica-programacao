@@ -15,9 +15,8 @@ public class Exercicicio02 {
 	}
 
 	/**
-	 *  Faça um programa que leia um número n calcule e escreva a soma dos n primeiros
-	 *  termos da série:
-	 *  S = 1! + 2! + 3! + 4! + 5! + ...
+	 * Faça um programa que leia um número n calcule e escreva a soma dos n primeiros termos da série:
+	 * S = 1! + 2! + 3! + 4! + 5! + ...
 	 */
 	public void calculandoMedia() {
 		Integer n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));

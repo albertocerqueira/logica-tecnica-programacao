@@ -15,9 +15,8 @@ public class Exercicicio07 {
 	}
 	
 	/**
-	 *  Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando 
-	 *  o algoritmo de Euclides.
-	 *  Exemplo: MDC (24, 15) = 3
+	 * Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
+	 * Exemplo: MDC (24, 15) = 3
 	 */
 	public void calcularMDC() {
 		Integer atual = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero inteiro positivo:"));

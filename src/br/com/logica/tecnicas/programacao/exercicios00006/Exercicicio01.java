@@ -15,7 +15,7 @@ public class Exercicicio01 {
 	}
 
 	/**
-	 *  Faça um programa que leia números, até que seja digitado -1 e calcule a media desses números.
+	 * Faça um programa que leia números, até que seja digitado -1 e calcule a media desses números.
 	 */
 	public void calculandoMedia() {
 		int quantidade = 0, n = 0, soma = 0;
