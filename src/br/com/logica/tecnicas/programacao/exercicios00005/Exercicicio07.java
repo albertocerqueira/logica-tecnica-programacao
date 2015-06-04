@@ -15,7 +15,7 @@ public class Exercicicio07 {
 	}
 	
 	/**
-	 *  Faça um programa que leia um número N e a seguir N números e escreva a sua soma. 
+	 * Faça um programa que leia um número N e a seguir N números e escreva a sua soma. 
 	 */
 	public void calcularSomaDaSequencia() {
 		int n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero:"));

@@ -15,8 +15,8 @@ public class Exercicicio01 {
 	}
 	
 	/**
-	 *  Faça um programa que leia três números inteiros representando os lados de um triângulo e diga se o triângulo é eqüilátero, isósceles ou 
-	 *  escaleno.
+	 * Faça um programa que leia três números inteiros representando os lados de um triângulo e diga se o triângulo é eqüilátero, isósceles ou 
+	 * escaleno.
 	 */
 	public void verificarTriangulo() {
 		int l1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro lado do tri\u00e2ngulo:"));

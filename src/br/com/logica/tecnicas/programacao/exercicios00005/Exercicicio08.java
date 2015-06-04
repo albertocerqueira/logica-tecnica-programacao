@@ -15,7 +15,7 @@ public class Exercicicio08 {
 	}
 	
 	/**
-	 *  Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
+	 * Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
 	 */
 	public void imprimirIntervaloDeNumeros() {
 		int n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));

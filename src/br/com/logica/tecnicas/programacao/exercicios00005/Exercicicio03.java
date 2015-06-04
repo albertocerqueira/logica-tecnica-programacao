@@ -13,8 +13,8 @@ public class Exercicicio03 {
 	}
 	
 	/**
-	 *  A cidade A possui 90.000 habitantes e a cidade B 50.000. A população da cidade A cresce 0,9 % ao ano enquanto que a da cidade B cresce 1,5% 
-	 *  ao ano. Faça um programa que calcule quantos anos são necessários para que a cidade B tenha mais habitantes que a cidade A. 
+	 * A cidade A possui 90.000 habitantes e a cidade B 50.000. A população da cidade A cresce 0,9 % ao ano enquanto que a da cidade B cresce 1,5% 
+	 * ao ano. Faça um programa que calcule quantos anos são necessários para que a cidade B tenha mais habitantes que a cidade A. 
 	 */
 	public void verificarCidades() {
 		double cidade1 = 90000.0, cidade2 = 50000.0;

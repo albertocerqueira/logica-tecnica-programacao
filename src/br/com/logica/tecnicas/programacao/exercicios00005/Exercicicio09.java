@@ -15,7 +15,7 @@ public class Exercicicio09 {
 	}
 	
 	/**
-	 *  Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
+	 * Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
 	 */
 	public void calcularMedia() {
 		int n = 0, soma = 0, quantidade = 0;

@@ -15,9 +15,9 @@ public class Exercicicio02 {
 	}
 	
 	/**
-	 *  Faça um programa que leia o peso e a altura de 20 pessoas e diga quantas estão abaixo do peso. 
-	 *  Calculo: IMC = peso / altura2
-	 *  Abaixo do normal: IMC <= 18,5  
+	 * Faça um programa que leia o peso e a altura de 20 pessoas e diga quantas estão abaixo do peso. 
+	 * Calculo: IMC = peso / altura2
+	 * Abaixo do normal: IMC <= 18,5  
 	 */
 	public void somaDosModulos() {
 		int abaixoDoÎMC = 0;
