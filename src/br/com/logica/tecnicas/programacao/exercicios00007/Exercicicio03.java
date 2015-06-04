@@ -15,10 +15,9 @@ public class Exercicicio03 {
 	}
 	
 	/**
-	 * Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de 
-	 * coelhos através de uma seqüência de números naturais que passou a ser conhecida como seqüência 
-	 * de Fibonacci. O n-ésimo número da seqüência de Fibonacci F(n) é dado pela seguinte fórmula de 
-	 * recorrência:
+	 * Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de coelhos através de uma seqüência de números
+	 * naturais que passou a ser conhecida como seqüência de Fibonacci. O n-ésimo número da seqüência de Fibonacci F(n) é dado pela seguinte fórmula 
+	 * de recorrência:
 	 * F(1) = 1
 	 * F(2) = 1
 	 * F(i) = F(i-1) + F(i-2) para i >= 3

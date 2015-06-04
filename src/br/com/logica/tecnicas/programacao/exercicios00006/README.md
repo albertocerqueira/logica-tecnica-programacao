@@ -1,4 +1,4 @@
-# LTP - Lista 00005
+# LTP - Lista 00006
 Lista de exercícios
 
 ### <sub>[Exercício 00](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio00.java "Exercício 00")<sub>
