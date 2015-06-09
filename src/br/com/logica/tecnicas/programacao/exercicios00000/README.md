@@ -116,7 +116,7 @@ O final da entrada é indicado quando N = M = 0. Tanto a entrada quanto a saída
 <sub>Faça um programa que leia 10 números positivos, obrigatoriamente de 5 algarismos e mostre se eles são pares ou ímpares. No final do programa deve ser mostrado quantos números são pares, quantos são ímpares e quantos números foram digitados (não se esqueça de incluir aqueles que foram digitados e não valeram, pois, não tinham 5 algarismos).</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio25.java "Exercício 25")<sub>
-<sub>Escreva um programa capaz de ler um valor inteiro n que  esteja entre 1 e 9 (O programa deve obrigar o usuário a digitar um valor entre 1 e 9). Depois crie a seguinte saída usando dois laços aninhados.
+<sub>Escreva um programa capaz de ler um valor inteiro n que  esteja entre 1 e 9 (O programa deve obrigar o usuário a digitar um valor entre 1 e 9). Depois crie a seguinte saída usando dois laços aninhados.  
 Por exemplo n =5  
 1 2 3 4 5  
 1 2 3 4 5  
