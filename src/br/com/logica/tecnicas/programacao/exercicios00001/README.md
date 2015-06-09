@@ -52,3 +52,22 @@ Exemplo Linha = 3, coluna = 4 e caractere = '&', mostrará
 &&&&  
 &&&&  
 &&&&</sub>
+
+### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio12.java "Exercício 12")<sub>
+<sub>Faça um programa capaz de ler 15 números obrigatoriamente positivos e mostre todos os seus divisores.</sub>
+
+### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio13.java "Exercício 13")<sub>
+<sub>Considere um cinema a respeito do qual foi feita uma pesquisa de qualidade. Certo dia, cada espectador respondeu um questionário, no qual constava sua opinião em relação ao filme, segundo as seguintes notas:  
+Nota	Significado  
+A		Ótimo  
+B		Regular  
+C		Ruim  
+F		Fim da digitação dos dados  
+  
+Elabore um programa que, lendo esse dado fornecido pelos espectadores, calcule e imprima:  
+•	A quantidade de pessoas que participaram da pesquisa;  
+•	A percentagem de respostas “ótimo” (notas A);  
+•	A percentagem de respostas “regular” (notas B);  
+•	A percentagem de respostas “ruim” (notas C).  
+Quando for digitada uma nota F, significará que a apuração dos dados chegou ao fim.  
+IMPORTANTE: Se a nota não pertencer ao conjunto, a pergunta deverá ser repetida até o entrevistado responder corretamente.</sub>
