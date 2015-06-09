@@ -71,3 +71,6 @@ Elabore um programa que, lendo esse dado fornecido pelos espectadores, calcule e
 •	A percentagem de respostas “ruim” (notas C).  
 Quando for digitada uma nota F, significará que a apuração dos dados chegou ao fim.  
 IMPORTANTE: Se a nota não pertencer ao conjunto, a pergunta deverá ser repetida até o entrevistado responder corretamente.</sub>
+
+### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio14.java "Exercício 14")<sub>
+<sub>Programa que permite ao usuário digitar um número inteiro e verifica se o número digitado é par. Caso esse número seja par, o programa exibe na tela a mensagem "você digitou um numero par".</sub>

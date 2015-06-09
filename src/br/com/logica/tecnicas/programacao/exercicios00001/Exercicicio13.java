@@ -5,13 +5,13 @@ import javax.swing.JOptionPane;
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
- * @date 2015/03/14
+ * @date 2015/06/08
  */
 public class Exercicicio13 {
 
 	public static void main(String[] args) {
-		Exercicicio13 exe09 = new Exercicicio13();
-		exe09.mediaNumeros();
+		Exercicicio13 exe13 = new Exercicicio13();
+		exe13.pesquisaCinema();
 	}
 	
 	/**
@@ -31,7 +31,7 @@ public class Exercicicio13 {
 	 * Quando for digitada uma nota F, significará que a apuração dos dados chegou ao fim.
 	 * IMPORTANTE: Se a nota não pertencer ao conjunto, a pergunta deverá ser repetida até o entrevistado responder corretamente.
 	 */
-	public void mediaNumeros() {
+	public void pesquisaCinema() {
 		String n = "F";
 		int a = 0, b = 0, c = 0, q = 0;
 		do {
