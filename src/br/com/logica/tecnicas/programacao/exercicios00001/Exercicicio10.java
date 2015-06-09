@@ -17,8 +17,8 @@ public class Exercicicio10 {
 	/**
 	 * Faça um programa que leia obrigatoriamente um número inteiro N entre 3 e 15 e um caractere qualquer. Depois mostre uma linha composta pelo
 	 * caractere que deverá aparecer N vezes.
-	 * Exemplo N = 5 e caractere = '#', mostrará
-	 * #####
+	 * Exemplo N = 5 e caractere = '%', mostrará
+	 * %%%%%
 	 */
 	public void imprimirCaracter() {
 		int n = 0;

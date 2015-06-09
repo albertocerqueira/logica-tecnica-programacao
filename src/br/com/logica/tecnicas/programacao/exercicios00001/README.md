@@ -43,8 +43,8 @@ A função retornará o produto e o programa devera imprimir a mensagem.</sub>
 
 ### <sub>[Exercício 10](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio10.java "Exercício 10")<sub>
 <sub>Faça um programa que leia obrigatoriamente um número inteiro N entre 3 e 15 e um caractere qualquer. Depois mostre uma linha composta pelo caractere que deverá aparecer N vezes.  
-Exemplo N = 5 e caractere = '#', mostrará  
-#####</sub>
+Exemplo N = 5 e caractere = '%', mostrará  
+%%%%%</sub>
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio11.java "Exercício 11")<sub>
 <sub>Faça um programa que leia um número inteiro positivo qualquer para a quantidade de linhas, um inteiro representando a quantidade de colunas entre 3 e 15 e um caractere. Faça com que seu programa desenhe o retângulo formado pelos caracteres.  
