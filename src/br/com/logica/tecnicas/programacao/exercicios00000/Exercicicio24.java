@@ -2,6 +2,11 @@ package br.com.logica.tecnicas.programacao.exercicios00000;
 
 import javax.swing.JOptionPane;
 
+/**
+ * @author Alberto Cerqueira
+ * @email alberto.cerqueira1990@gmail.com
+ * @date 2015/06/08
+ */
 public class Exercicicio24 {
 
 	public static void main(String[] args) {
