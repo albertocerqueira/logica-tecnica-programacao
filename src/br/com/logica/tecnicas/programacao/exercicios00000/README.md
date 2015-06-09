@@ -99,3 +99,27 @@ Por exemplo, para a seqüência de medições 8, 20, 30, 50, 40, 20, -10, e inte
 Você foi recentemente contratado pela NASA, e sua primeira tarefa é escrever um programa que, conhecidos a seqüência de temperaturas medidas pelo sensor, e o tamanho do intervalo desejado, maior e qual a menor temperatura média observadas, considerando o tamanho do intervalo dado.  
 A entrada é composta de vários conjuntos de teste. A primeira linha de um conjunto de teste contém dois números inteiros positivos N e M, que indicam respectivamente o número total de medições de temperatura de uma seqüência obtida pelo sensor, e o tamanho dos intervalos, em minutos, em que as médias devem ser calculadas. As N linhas seguintes contêm um número inteiro cada, representando a seqüência de medidas do sensor.  
 O final da entrada é indicado quando N = M = 0. Tanto a entrada quanto a saída devem conter frases de solicitação e de apresentação de resultados ao usuário.</sub>  
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio20.java "Exercício 20")<sub>
+<sub>Faça um programa que leia um número inteiro e positivo e mostre se ele é par ou ímpar.</sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio21.java "Exercício 21")<sub>
+<sub>Faça um programa que obrigatoriamente leia um número positivo de 5 algarismos e mostre se ele é par ou ímpar.</sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio22.java "Exercício 22")<sub>
+<sub>Faça um programa que leia 10 números positivos  obrigatoriamente de 5 algarismos e mostre se eles são pares ou ímpares.</sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio23.java "Exercício 23")<sub>
+<sub>Faça um programa que leia 10 números positivos, obrigatoriamente de 5 algarismos e mostre se eles são pares ou ímpares. No final do programa deve ser mostrado quantos números são pares e quantos são ímpares.</sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio24.java "Exercício 24")<sub>
+<sub>Faça um programa que leia 10 números positivos, obrigatoriamente de 5 algarismos e mostre se eles são pares ou ímpares. No final do programa deve ser mostrado quantos números são pares, quantos são ímpares e quantos números foram digitados (não se esqueça de incluir aqueles que foram digitados e não valeram, pois, não tinham 5 algarismos).</sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicicio25.java "Exercício 25")<sub>
+<sub>Escreva um programa capaz de ler um valor inteiro n que  esteja entre 1 e 9 (O programa deve obrigar o usuário a digitar um valor entre 1 e 9). Depois crie a seguinte saída usando dois laços aninhados.
+Por exemplo n =5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5</sub>

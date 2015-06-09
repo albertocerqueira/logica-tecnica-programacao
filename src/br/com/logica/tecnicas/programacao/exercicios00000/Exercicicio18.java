@@ -3,8 +3,8 @@ package br.com.logica.tecnicas.programacao.exercicios00000;
 public class Exercicicio18 {
 
 	public static void main(String[] args) {
-		Exercicicio18 exe01 = new Exercicicio18();
-		exe01.calculoArea(5, 4);
+		Exercicicio18 exe18 = new Exercicicio18();
+		exe18.calculoArea(5, 4);
 	}
 
 	/**
