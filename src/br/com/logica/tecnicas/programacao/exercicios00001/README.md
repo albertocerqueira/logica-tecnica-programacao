@@ -79,3 +79,20 @@ IMPORTANTE: Se a nota não pertencer ao conjunto, a pergunta deverá ser repetid
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio16.java "Exercício 16")<sub>
 <sub>Faça um programa que leia uma nota, verifique se a nota é maior ou igual à 7.0 e mostre na tela “Aprovado(a)” se a condição for verdadeira.</sub>
+
+### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio17.java "Exercício 17")<sub>
+<sub>Fazer um programa capaz de obrigar ao usuário a digitar um número real positivo e então mostrar o valor da raiz quadrada deste número.</sub>
+
+### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio18.java "Exercício 18")<sub>
+<sub>Fazer um programa capaz de preencher um vetor  A de 20 posições com números aleatórios entre 1 e 80. Depois construir um outro vetor, B,  com o resultado do cubo dos elementos do vetor A. Mostrar ambos os vetores.  
+Desafio: Você seria capaz de mostrar no formato de tabela? Exemplo:  
+Numero	Cubo  
+2		8  
+5		125  
+1		1  
+... 	...  
+</sub>
+
+### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio19.java "Exercício 19")<sub>
+<sub>Uma empresa de parafusos pediu um programa capaz de ler a altura e o raio de 50 parafusos e que estas medidas fossem guardadas nos vetores chamados Paltura e Praio. Também pediu para que o volume de cada parafuso fosse armazenado no vetor Pvolume, sabendo que o volume de um disco é dado por  raio2altura.  Ele também deseja saber quanto pesará uma caixa com estes 50 parafusos se estes forem feitos de aço cuja a densidade é de 7,8 g/cm3 ou de alumínio (2,7 g/cm3).  
+Obs: Massa = densidade * volume.</sub>
