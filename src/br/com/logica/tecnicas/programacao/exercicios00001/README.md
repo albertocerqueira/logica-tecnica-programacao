@@ -94,5 +94,5 @@ Numero	Cubo
 </sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio19.java "Exercício 19")<sub>
-<sub>Uma empresa de parafusos pediu um programa capaz de ler a altura e o raio de 50 parafusos e que estas medidas fossem guardadas nos vetores chamados Paltura e Praio. Também pediu para que o volume de cada parafuso fosse armazenado no vetor Pvolume, sabendo que o volume de um disco é dado por  raio2altura.  Ele também deseja saber quanto pesará uma caixa com estes 50 parafusos se estes forem feitos de aço cuja a densidade é de 7,8 g/cm3 ou de alumínio (2,7 g/cm3).  
+<sub>Uma empresa de parafusos pediu um programa capaz de ler a altura e o raio de 50 parafusos e que estas medidas fossem guardadas nos vetores chamados Paltura e Praio. Também pediu para que o volume de cada parafuso fosse armazenado no vetor Pvolume, sabendo que o volume de um disco é dado por ((Pí) x raio² x altura). Ele também deseja saber quanto pesará uma caixa com estes 50 parafusos se estes forem feitos de aço cuja a densidade é de 7,8 g/cm3 ou de alumínio (2,7 g/cm3).  
 Obs: Massa = densidade * volume.</sub>
