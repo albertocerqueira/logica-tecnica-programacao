@@ -23,7 +23,7 @@ Lista de exercícios
 <sub>Escreva um programa que contenha uma função. A função deve ler o número da conta (um número inteiro) e o saldo bancário de várias pessoas. A função deve imprimir uma mensagem informando se o saldo e positivo ou negativo e ao final, retornar o percentual de pessoas com saldo negativo que deve ser impresso pela função main. A leitura de dados e encerrada quando for digitado um número negativo para a conta.</sub>  
 
 ### <sub>[Exercício 07](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio07.java "Exercício 07")<sub>
-<sub>Escreva um programa que chame uma função. Esta função devera ler dois números inteiros, positivos, e determine o produto dos mesmos, utilizando o seguinte metodo de multiplicação:
+<sub>Escreva um programa que chame uma função. Esta função devera ler dois números inteiros, positivos, e determine o produto dos mesmos, utilizando o seguinte metodo de multiplicação:  
 •	Dividir sucessivamente o primeiro número por 2 até que obtenha 1 como quociente;  
 •	Paralelamente, dobrar, sucessivamente, o segundo numero;  
 •	Somar os números da segunda coluna que tenham como correspondente na primeira coluna um número ímpar. O total obtido e o produto procurado.  
