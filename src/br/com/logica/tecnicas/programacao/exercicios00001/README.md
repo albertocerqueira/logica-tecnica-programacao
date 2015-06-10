@@ -24,9 +24,9 @@ Lista de exercícios
 
 ### <sub>[Exercício 07](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio07.java "Exercício 07")<sub>
 <sub>Escreva um programa que chame uma função. Esta função devera ler dois números inteiros, positivos, e determine o produto dos mesmos, utilizando o seguinte metodo de multiplicação:
-#Dividir sucessivamente o primeiro número por 2 até que obtenha 1 como quociente;
-#Paralelamente, dobrar, sucessivamente, o segundo numero;
-#Somar os números da segunda coluna que tenham como correspondente na primeira coluna um número ímpar. O total obtido e o produto procurado.
+•	Dividir sucessivamente o primeiro número por 2 até que obtenha 1 como quociente;
+•	Paralelamente, dobrar, sucessivamente, o segundo numero;
+•	Somar os números da segunda coluna que tenham como correspondente na primeira coluna um número ímpar. O total obtido e o produto procurado.
 Exemplo: calculo de 9 x 6
 9 	6  --> 6
 4 	12
@@ -63,7 +63,6 @@ A		Ótimo
 B		Regular  
 C		Ruim  
 F		Fim da digitação dos dados  
-  
 Elabore um programa que, lendo esse dado fornecido pelos espectadores, calcule e imprima:  
 •	A quantidade de pessoas que participaram da pesquisa;  
 •	A percentagem de respostas “ótimo” (notas A);  
