@@ -24,16 +24,16 @@ Lista de exercícios
 
 ### <sub>[Exercício 07](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio07.java "Exercício 07")<sub>
 <sub>Escreva um programa que chame uma função. Esta função devera ler dois números inteiros, positivos, e determine o produto dos mesmos, utilizando o seguinte metodo de multiplicação:
-•	Dividir sucessivamente o primeiro número por 2 até que obtenha 1 como quociente;
-•	Paralelamente, dobrar, sucessivamente, o segundo numero;
-•	Somar os números da segunda coluna que tenham como correspondente na primeira coluna um número ímpar. O total obtido e o produto procurado.
-Exemplo: calculo de 9 x 6
-9 	6  --> 6
-4 	12
-2 	24
-1  	48 --> 48
-6 + 48 = 54
-A função retornará o produto e o programa devera imprimir a mensagem.</sub>    
+•	Dividir sucessivamente o primeiro número por 2 até que obtenha 1 como quociente;  
+•	Paralelamente, dobrar, sucessivamente, o segundo numero;  
+•	Somar os números da segunda coluna que tenham como correspondente na primeira coluna um número ímpar. O total obtido e o produto procurado.  
+Exemplo: calculo de 9 x 6  
+9 	6  --> 6  
+4 	12  
+2 	24  
+1  	48 --> 48  
+6 + 48 = 54  
+A função retornará o produto e o programa devera imprimir a mensagem.</sub>
 
 ### <sub>[Exercício 08](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio08.java "Exercício 08")<sub>
 <sub>No Brasil, atualmente temos 29 partidos políticos diferentes. Escreva um programa que leia a legenda dos 29 partidos políticos (numeros inteiros) e os armazene em um vetor. O programa deve permitir uma verificação, com a leitura de uma outra legenda e pesquisar se este partido político (legenda) existe no cenário político nacional. Caso este partido exista imprimir sua posição (ou índice) no vetor. Caso este partido político não esteja entre os partidos políticos existentes, imprimir a mensagem "partido político inexistente".</sub>  
