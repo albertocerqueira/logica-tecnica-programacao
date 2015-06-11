@@ -105,3 +105,15 @@ char frase[256] = "Meu nome eh: Matusalem e tenho 931 anos.";</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio21.java "Exercício 21")<sub>
 <sub>No exercício [Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio17.java "Exercício 17"), você obrigou o usuário a digitar um número positivo antes de lhe mostrar a raiz quadrada do número digitado, modifique o programa para que este permita ler até 20 números reais e mostre a raiz quadrada. Se por algum acaso o usuário digitar um número negativo, o programa deverá mostrar a mensagem "Abortando o programa" e sair imediatamente para o sistema.</sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio22.java "Exercício 22")<sub>
+<sub>Escreva um programa que leia caracteres e só pare quando o caractere '%' for digitado. Lembre-se qualquer símbolo produzido no teclado corresponde a um caractere.</sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio23.java "Exercício 23")<sub>
+<sub>Reescreva o problema [Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio22.java "Exercício 22") mostrando quantos caracteres foram digitados antes do caractere '%'.</sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio24.java "Exercício 24")<sub>
+<sub>Reescreva o problema [Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio22.java "Exercício 22") para que mostre a contagem de caracteres durante a execução do programa.</sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio25.java "Exercício 25")<sub>
+<sub>Escreva um programa que obrigue o usuário a digitar seu sexo usando 'M' para masculino e 'F' para feminino. Quaisquer outros caracteres deverão fazer com que o usuário redigite o sexo.</sub>
