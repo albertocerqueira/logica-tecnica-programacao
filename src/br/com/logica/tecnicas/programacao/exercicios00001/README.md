@@ -96,3 +96,12 @@ Numero	Cubo
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio19.java "Exercício 19")<sub>
 <sub>Uma empresa de parafusos pediu um programa capaz de ler a altura e o raio de 50 parafusos e que estas medidas fossem guardadas nos vetores chamados Paltura e Praio. Também pediu para que o volume de cada parafuso fosse armazenado no vetor Pvolume, sabendo que o volume de um disco é dado por ((Pí) x raio² x altura). Ele também deseja saber quanto pesará uma caixa com estes 50 parafusos se estes forem feitos de aço cuja a densidade é de 7,8 g/cm3 ou de alumínio (2,7 g/cm3).  
 Obs: Massa = densidade * volume.</sub>
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio20.java "Exercício 20")<sub>
+<sub>Crie um programa que contenha um vetor de caracteres de 300 posições e o inicialize com a frase: "Meu nome eh <escreva seu nome aqui> e tenho <sua idade aqui> anos." Mostre quantos espaços tem a frase, quantos caracteres, quantas letras maiúsculas e quantas são minúsculas, quantos dígitos tem e quantos foram os caracteres de pontuação.  
+DICA: Apenas no momento da criação de um vetor de caracteres é que você poderá armazenar uma frase diretamente.  
+Por exemplo:  
+char frase[256] = "Meu nome eh: Matusalem e tenho 931 anos.";</sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio21.java "Exercício 21")<sub>
+<sub>No exercício [Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001/Exercicicio17.java "Exercício 17"), você obrigou o usuário a digitar um número positivo antes de lhe mostrar a raiz quadrada do número digitado, modifique o programa para que este permita ler até 20 números reais e mostre a raiz quadrada. Se por algum acaso o usuário digitar um número negativo, o programa deverá mostrar a mensagem "Abortando o programa" e sair imediatamente para o sistema.</sub>
