@@ -49,3 +49,19 @@ ZE SA 8.5 10.0 9.25 Aprovado</sub>
 
 ### <sub>[Exercício 09](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio09.java "Exercício 09")<sub>
 <sub>Fazer um programa que leia vários números (um por vez) e imprima 0(zero) se o número não for múltiplo de 2,3, 5. Imprimir 1(um) se o número for múltiplo de 2 ou 3 e 2(dois) se o número for múltiplo de 5. Sair do programa quando for digitado o valor -1. (Não e necessario nenhuma consistência ou crítica dos dados).</sub>  
+
+### <sub>[Exercício 10](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio10.java "Exercício 10")<sub>
+<sub>Escreva um programa que obrigatoriamente aceite apenas valores entre 100 e 999, isto é, o programa deverá obrigar que o usuário digite um valor na faixa indicada.</sub>
+
+### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio11.java "Exercício 11")<sub>
+<sub>Escrever um programa que obrigatoriamente leia 3 números diferentes e depois mostre o maior deles, o que está no meio e o menor deles.</sub>
+
+### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio12.java "Exercício 12")<sub>
+<sub>Escreva um programa capaz de ler um número inteiro positivo e mostre quantos dígitos esse número é composto e qual deles é o maior.  
+Exemplos:  
+23654 tem 5 dígitos e o maior deles é o 6.  
+0 tem 1 dígito e o maior deles é 0.</sub>
+
+### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio13.java "Exercício 13")<sub>
+<sub>Escreva um programa capaz de ler um número de 6 dígitos (obrigatóriamente). Depois seu programa deverá criar e mostrar o dígito verificador dado pela seguinte regra:  
+O dígito verificador é a unidade da soma dos 3 últimos dígitos.</sub>
