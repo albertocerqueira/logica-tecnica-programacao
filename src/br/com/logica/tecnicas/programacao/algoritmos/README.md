@@ -4,6 +4,7 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Bubble Sort</sub>](#bubble-sort)
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
+- [<sub>Insertion Sort</sub>](#insertion-sort)
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
 - [<sub>Recursividade</sub>](#recursividade)
@@ -16,6 +17,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 ## <sub>Busca Sequêncial</sub>
 <sub>Na área de informática, ou Ciência da Computação, costuma-se usar o termo busca linear (ou busca sequêncial) para expressar um tipo de pesquisa em vetores ou listas de modo sequencial, i. e., elemento por elemento, de modo que a função do tempo em relação ao número de elementos é linear, ou seja, cresce proporcionalmente. Num vetor ordenado, essa não é a pesquisa mais eficiente, a pesquisa (ou busca) binária, por exemplo, é um tipo de pesquisa com o gráfico de tempo logarítmo ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BuscaSequencial.java "veja")).</sub>
+
+## <sub>Insertion Sort</sub>
+<sub>Insertion sort, ou ordenação por inserção, é um simples algoritmo de ordenação, eficiente quando aplicado a um pequeno número de elementos. Em termos gerais, ele percorre um vetor de elementos da esquerda para a direita e à medida que avança vai deixando os elementos mais à esquerda ordenados. O algoritmo de inserção funciona da mesma maneira com que muitas pessoas ordenam cartas em um jogo de baralho como o pôquer ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/InsertionSort.java "veja")).</sub>
 
 ## <sub>Merge Sort</sub>
 <sub>O merge sort, ou ordenação por mistura, é um exemplo de algoritmo de ordenação do tipo dividir-para-conquistar. Sua ideia básica consiste em Dividir(o problema em vários sub-problemas e resolver esses sub-problemas através da recursividade) e Conquistar(após todos os sub-problemas terem sido resolvidos ocorre a conquista que é a união das resoluções dos sub-problemas).Como o algoritmo do Merge Sort usa a recursividade em alguns problemas esta técnica não é muito eficiente devido ao alto consumo de memória e tempo de execução ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/MergeSort.java "veja")).</sup>
