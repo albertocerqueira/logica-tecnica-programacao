@@ -4,6 +4,15 @@ import java.util.Random;
 
 public class RandomUtils {
 
+	public static int[] gerarNumerosAleatorios(int quantidade) {
+		int[] ns = new int[quantidade];
+		Random gerador = new Random();
+		for (int x = 0; x < quantidade; x++) {
+	        ns[x] = gerador.nextInt();
+		}
+		return ns;
+	}
+	
 	public static int[] gerarNumerosAleatorios(int quantidade, int limiteMaximo) {
 		int[] ns = new int[quantidade];
 		Random gerador = new Random();

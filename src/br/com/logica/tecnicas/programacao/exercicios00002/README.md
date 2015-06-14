@@ -65,3 +65,42 @@ Exemplos:
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio13.java "Exercício 13")<sub>
 <sub>Escreva um programa capaz de ler um número de 6 dígitos (obrigatóriamente). Depois seu programa deverá criar e mostrar o dígito verificador dado pela seguinte regra:  
 O dígito verificador é a unidade da soma dos 3 últimos dígitos.</sub>
+
+### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio14.java "Exercício 14")<sub>
+<sub>Escreva um programa que leia 8 números reais e os armazene em um vetor. Em seguida calcule e imprima a soma de todos os elementos do vetor.</sub>
+
+### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio15.java "Exercício 15")<sub>
+<sub>Faça um programa que leia N elementos inteiros (o valor de N deve ser lido) de um vetor e um valor de código. Se o código for 1, mostrar o vetor na ordem direta, se o código for 2, mostrar o vetor na ordem inversa. (O vetor tem no máximo 100 elementos).</sub>
+
+### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio16.java "Exercício 16")<sub>
+<sub>Faça um programa que leia N elementos (o valor de N deve ser lido) reais em um vetor A e um valor real x. Criar o vetor B contendo os elementos do vetor A multiplicados por x. (A tem no máximo 100 elementos. Qual o tamanho mínimo de B?).</sub>
+
+### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio17.java "Exercício 17")<sub>
+<sub>Faça um programa que leia N elementos inteiros (o valor de N deve ser lido), escreva um programa que imprima todos os múltiplos de 3 que estão contidos no vetor. (O vetor tem no máximo 50 elementos).</sub>
+
+### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio18.java "Exercício 18")<sub>
+<sub>Faça um programa que leia 30 valores inteiros para um vetor A, e em seguida construa um vetor P formado pelos índices dos elementos pares de A.  
+Exemplo: Se A = {1, 3, 6, 7, 8, 10} , então, P = {2, 4, 5}.</sub>
+
+### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio19.java "Exercício 19")<sub>
+<sub>Faça um programa que leia 30 valores inteiros para um vetor A, e em seguida construa um vetor P formado pelos elementos pares de A.  
+Exemplo: Se A = {1, 3, 6, 7, 8, 10} , então, P = {6, 8, 10}.</sub>
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio20.java "Exercício 20")<sub>
+<sub>Faça um programa que leia 30 valores inteiros para um vetor A, e em seguida construa um vetor P formado pelos índices de elementos pares de A.  
+Exemplo: Se A = {1, 3, 6, 7, 8, 10} , então, P = {1, 6, 8}.</sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio21.java "Exercício 21")<sub>
+<sub>Faça um programa que leia um vetor (de no máximo 500 posições) de números inteiros e divida todos os seus elementos pelo menor valor do vetor. Mostre o vetor após os cálculos.</sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio22.java "Exercício 22")<sub>
+<sub>Escrever um programa que leia 2 vetores X[5] e Y[5]. Crie, a seguir, um vetor Z que seja a diferença (subtração) entre X e Y e depois imprima na tela este vetor Z.</sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio23.java "Exercício 23")<sub>
+<sub>Criar um programa que defina um vetor de 500 posições e calcular a soma dos valores impares do vetor.</sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio24.java "Exercício 24")<sub>
+<sub>Escreva um programa que leia 200 valores reais e armazene-os em um vetor e informe a seguir, qual a média dos valores positivos e qual a média dos valores negativos.</sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio25.java "Exercício 25")<sub>
+<sub>Fazer um programa, usando vetores, que leia 100 valores entre 0.0 e 10.0. Depois, verificar a quantidade de elementos no vetor que são maiores que 4.0 e menores que 7.0.</sub>
