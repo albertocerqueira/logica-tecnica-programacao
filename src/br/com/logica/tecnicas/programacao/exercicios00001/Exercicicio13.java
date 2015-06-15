@@ -35,7 +35,7 @@ public class Exercicicio13 {
 		String n = "F";
 		int a = 0, b = 0, c = 0, q = 0;
 		do {
-			n = JOptionPane.showInputDialog("Participante " + (q + 1) + " digite sua nota a respeito do filme:\n(A) Ótimo\n(B) Regular\n(C) Ruim\n(F) Sair");
+			n = JOptionPane.showInputDialog("Participante [" + (q + 1) + "], por favor digite sua nota a respeito do filme:\n(A) Ótimo\n(B) Regular\n(C) Ruim\n(F) Sair");
 			if (n.equalsIgnoreCase("A")) {
 				a++;
 				q++;

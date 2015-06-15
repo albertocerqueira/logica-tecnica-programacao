@@ -22,7 +22,7 @@ public class Exercicicio19 {
 		int qn = 30, c = 0, t = 0;
 		int[] a = new int[qn];
 		for (int x = 0; x < qn; x++) {
-			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero qualquer: "));
+			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero qualquer: "));
 			if (n % 2 == 0) {
 				c++;
 			}

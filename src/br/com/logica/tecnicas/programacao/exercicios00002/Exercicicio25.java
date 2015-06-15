@@ -24,7 +24,7 @@ public class Exercicicio25 {
 		for (int x = 0; x < qn; x++) {
 			double n = -1;
 			while (n < 0 || n > 10) {
-				n = Double.parseDouble(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero real qualquer entre (0.0 e 10.0): "));
+				n = Double.parseDouble(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero real qualquer entre (0.0 e 10.0): "));
 			}
 			ns[x] = n;
 		}

@@ -22,7 +22,7 @@ public class Exercicicio24 {
 		int qn = 5;
 		double[] ns = new double[qn];
 		for (int x = 0; x < qn; x++) {
-			double n = Double.parseDouble(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero real qualquer: "));
+			double n = Double.parseDouble(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero real qualquer: "));
 			ns[x] = n;
 		}
 		

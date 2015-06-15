@@ -26,7 +26,7 @@ public class Exercicicio17 {
 		
 		int[] ns = new int[qn];
 		for (int x = 0; x < qn; x++) {
-			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero qualquer: "));
+			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero qualquer: "));
 			ns[x] = n;
 		}
 		

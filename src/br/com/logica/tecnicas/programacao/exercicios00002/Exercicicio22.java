@@ -23,13 +23,13 @@ public class Exercicicio22 {
 		
 		int[] X = new int[qn];
 		for (int x = 0; x < qn; x++) {
-			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero so vetor X: "));
+			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero do vetor X: "));
 			X[x] = n;
 		}
 		
 		int[] Y = new int[qn];
 		for (int y = 0; y < qn; y++) {
-			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (y + 1) + "° n\u00famero so vetor Y: "));
+			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (y + 1) + "° n\u00famero do vetor Y: "));
 			Y[y] = n;
 		}
 		

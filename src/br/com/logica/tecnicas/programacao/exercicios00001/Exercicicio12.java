@@ -23,7 +23,7 @@ public class Exercicicio12 {
 		for (int x = 0; x < qn; x++) {
 			int n = -1;
 			while (n < 0) {
-				n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero positivo:"));
+				n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero positivo:"));
 			}
 			ns[x] = n;
 		}

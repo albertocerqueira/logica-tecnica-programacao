@@ -23,7 +23,7 @@ public class Exercicicio20 {
 		int m = qn / 2;
 		int[] a = new int[qn];
 		for (int x = 0; x < qn; x++) {
-			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite " + (x + 1) + "° n\u00famero qualquer: "));
+			int n = Integer.parseInt(JOptionPane.showInputDialog("Digite o " + (x + 1) + "° n\u00famero qualquer: "));
 			a[x] = n;
 		}
 		
