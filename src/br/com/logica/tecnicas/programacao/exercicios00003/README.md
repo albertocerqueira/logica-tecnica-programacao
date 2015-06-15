@@ -36,3 +36,9 @@ A letra u apareceu 1 vez(es).</sub>
 
 ### <sub>[Exercício 09](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio09.java "Exercício 09")<sub>
 <sub>Dados três números naturais, verificar se eles formam os lados de um triângulo retângulo.</sub>  
+
+### <sub>[Exercício 10](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio10.java "Exercício 10")<sub>
+<sub>Escreva um programa que leia 31 valores de temperatura do mês de Março e os armazenar em um vetor. Depois o programa deverá encontrar e imprimir a maior temperatura de todo o mês e o dia que isso ocorreu.</sub>
+
+### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio11.java "Exercício 11")<sub>
+<sub>Escreva um programa que leia as idades de 20 pessoas e em seguida calcule e imprima a media das idades, a idade da pessoa mais velha, a idade da pessoa mais nova e quantidade de pessoas com mais de 20 anos.</sub>
