@@ -19,7 +19,7 @@ public class Exercicicio11 {
 	 * da pessoa mais nova e quantidade de pessoas com mais de 20 anos.
 	 */
 	public void pesquisarIdades() {
-		int qn = 3;
+		int qn = 20;
 		
 		int[] is = new int[qn];
 		for (int x = 0; x < qn; x++) {
