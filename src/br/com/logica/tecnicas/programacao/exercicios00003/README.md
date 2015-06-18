@@ -57,3 +57,18 @@ Dica: Trate sempre as diferenças em valor absoluto, ou seja, se for negativo tr
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio15.java "Exercício 15")</sub>
 <sub>Um vetor é dito palíndromo se ele não se altera quando as posições da componente são invertidas. Por exemplo, o vetor v={1,3,5,2,2,5,3,1} é palíndromo. Escreva um programa que leia um número inteiro N (representando uma quantidade) e leia N elementos, armazenando-os em um vetor. Depois verifique se o vetor é palíndromo. Caso a característica seja confirmada o programa deverá emitir a mensagem "Eh palindromo" , caso contrário a mensagem "Nao eh palindromo" deverá ser emitida.  
 Dica: Você pode assumir que N será sempre menor ou igual a 50.</sub>
+
+
+### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio16.java "Exercício 16")</sub>
+<sub>Uma locadora de vídeos tem guardada, em um vetor de 500 posições, a quantidade de filmes retirados por seus clientes durante o primeiro semestre de 2007. A locadora está fazendo uma promoção e, para cada 10 filmes retirados no primeiro semestre de 2007, o cliente tem direito a uma locação grátis. Faça um programa que crie um outro vetor contendo a quantidade de locações gratuitas a que cada cliente tem direito.  
+Obs.: Cada posição do vetor está relacionada a um cliente. Imprimir também o índice do cliente que recebeu o maior número de locações. Caso exista mais de um cliente com o mesmo número, imprimir todos.</sub>
+
+### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio17.java "Exercício 17")</sub>
+<sub>Escreva um programa que leia 30 números inteiros e armazene em um vetor chamado X, um índice i (verificar se o número digitado está de acordo com os índices possíveis para o vetor X) e um número inteiro y. Insira o número y no vetor X na posição (índice) i, fazendo x[i] = y. Desloque o elemento que estava na posição i inicialmente para a posição i+1. Faça também o deslocamento de todos os outros elementos posteriores. Imprima o vetor resultante.  
+Obs: O último elemento digitado inicialmente será eliminado.</sub>
+
+### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio18.java "Exercício 18")</sub>
+<sub>Existe um livro de 370 páginas que foi recentemente impresso. A editora deseja fazer um estudo sobre possíveis erros de impressão. Desta forma, um especialista foi convidado a levantar quantos erros existem em cada página. Cada valor foi digitado na forma de um vetor, formando um conjunto de 370 valores. Definir um programa que leia este conjunto de dados, e responda:  
+Qual a página que tem mais erros? (suponha que só existe uma e ela é única)  
+Quantas páginas tem zero erros?  
+Quantas páginas tem mais de 10 erros?</sub>
