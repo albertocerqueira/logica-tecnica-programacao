@@ -72,3 +72,24 @@ Obs: O último elemento digitado inicialmente será eliminado.</sub>
 Qual a página que tem mais erros? (suponha que só existe uma e ela é única)  
 Quantas páginas tem zero erros?  
 Quantas páginas tem mais de 10 erros?</sub>
+
+### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio19.java "Exercício 19")</sub>
+<sub>Escreva um programa que mostre todos os divisores de um valor N positivo (isto é N, obrigatoriamente deve ser maior que zero).</sub>
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio20.java "Exercício 20")</sub>
+<sub>Escreva um programa que leia obrigatoriamente dois valores inteiros positivos X e Y (maiores que zero). Depois mostre o maior divisor comum (MDC) entre eles usando o algoritmo descrito abaixo:  
+a=X;  
+b=Y;  
+do {
+	n = a % b;  
+	a = b;  
+	b = n;  
+} while (b != 0);  
+O MDC será dado pelo valor de a.</sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio21.java "Exercício 21")</sub>
+<sub>Escreva um programa na linguagem C que leia um número indeterminado de informações de uma comunidade: idade e estado civil (C quando casado, S quando solteiro, V quando viúvo e D quando divorciado ou separado) . O programa deve:
+• Imprimir a quantidade de pessoas que participaram da pesquisa.  
+• A média das idades das pessoas viúvas.  
+• A porcentagem de pessoas divorciadas ou separadas que participaram da pesquisa.  
+Obs: O programa deve continuar repetindo o procedimento enquanto não for digitado a letra ‘F’.</sub>

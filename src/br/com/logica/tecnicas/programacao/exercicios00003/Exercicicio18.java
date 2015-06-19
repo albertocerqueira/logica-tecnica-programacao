@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio18 {
 
 	public static void main(String[] args) {
-		Exercicicio18 exe17 = new Exercicicio18();
-		exe17.verificarErrosOrtograficos();
+		Exercicicio18 exe18 = new Exercicicio18();
+		exe18.verificarErrosOrtograficos();
 	}
 
 	/**
