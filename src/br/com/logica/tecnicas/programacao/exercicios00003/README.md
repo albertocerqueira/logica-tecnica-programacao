@@ -93,3 +93,17 @@ O MDC será dado pelo valor de a.</sub>
 • A média das idades das pessoas viúvas.  
 • A porcentagem de pessoas divorciadas ou separadas que participaram da pesquisa.  
 Obs: O programa deve continuar repetindo o procedimento enquanto não for digitado a letra ‘F’.</sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio22.java "Exercício 22")</sub>
+<sub>Uma loja está fazendo uma promoção: se o cliente fizer compras com valores acima de R$ 150,00, a loja dá um desconto de 10%. Escreva um programa que leia o valor total da compra e imprima o valor do desconto e o total a ser pago (independentemente do valor da compra).  
+DICA: Crie uma variável porcentagem com valor zero que receberá o valor 10% se a compra for maior que R$ 150,00.</sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio23.java "Exercício 23")</sub>
+<sub>Uma empresa quer dar uma bonificação para determinados funcionários. Deverão receber um bônus de R$ 500,00 os funcionários com mais de 50 anos ou que trabalhem na empresa há pelo menos 5 anos. Escreva um programa que leia a idade, o tempo de serviço (em anos) e o salário do funcionário e imprima na tela o valor do bônus e do  salário corrigido.  
+DICA: Crie uma variável bonus com valor inicial de zero que será alterada se o funcionário preencher os requisitos para o aumento.</sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio24.java "Exercício 24")</sub>
+<sub>Escreva um programa que leia dois números inteiros, verifique se o segundo valor é zero e imprima a mensagem: “Não existe divisao por zero”.</sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio25.java "Exercício 25")</sub>
+<sub>Escreva um programa que leia dois números inteiros distintos e mostre na tela duas mensagens: uma informando qual é o maior número e outra informando qual é o menor número.</sub>
