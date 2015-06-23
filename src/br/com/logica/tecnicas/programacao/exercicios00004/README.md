@@ -51,14 +51,14 @@ Nota Significado
 2 	 Regular  
 3  	 Ruim  
 -1 	 Fim da digitação dos dados  
-Elabore um programa que, lendo esse dado fornecido pelos espectadores, calcule e imprima:
-<ul>
+Elabore um programa que, lendo esse dado fornecido pelos espectadores, calcule e imprima:</sub>
+<sub><ul>
 <li>A quantidade de pessoas que participaram da pesquisa;</li>
 <li>A quantidade de respostas “ótimo” (notas 1);</li>
 <li>A quantidade de respostas “regular” (notas 2);</li>
 <li>A quantidade de respostas “ruim” (notas 3).</li>
-</ul>  
-Quando for digitada uma nota -1, significa que a apuração dos dados chegou ao fim. Sabemos que a quantidade de entrevistados é maior ou igual a 1.</sub>
+</ul></sub>
+<sub>Quando for digitada uma nota -1, significa que a apuração dos dados chegou ao fim. Sabemos que a quantidade de entrevistados é maior ou igual a 1.</sub>
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio11.java "Exercício 11")</sub>
 <sub>Modifique o exercício br.com.logica.tecnicas.programacao.exercicios00004.Exercicicio10 para calcular as porcentagens de notas ótimo, bom e ruim, mostre os valores e indique qual foi a opinião do público.</sub>
