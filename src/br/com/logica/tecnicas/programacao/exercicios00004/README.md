@@ -68,10 +68,19 @@ Quando for digitada uma nota -1, significa que a apuração dos dados chegou ao 
 “RETIDO” se NF < 4.  
 O programa deve ser encerrado se for digitada uma nota final fora do intervalo entre 0 e 10.</sub>
 
-### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio12.java "Exercício 13")</sub>
+### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio13.java "Exercício 13")</sub>
 <sub>Fazer um programa que efetue e imprima na tela o resultado de (deverá aparecer 23):  
 3 + 4 * (7 - 2)</sub>
 
-### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio12.java "Exercício 14")</sub>
+### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio14.java "Exercício 14")</sub>
 <sub>Fazer um programa que efetue e imprima na tela o resultado de (deverá aparecer 3):  
 (4 * (7 - 2) - 2) / (3 * 2)</sub>
+
+### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio15.java "Exercício 15")</sub>
+<sub>Escreva um programa que converta um valor dado em polegadas para centímetros. Imprima na tela o valor calculado para 4 polegadas. Sabemos que 1 polegada equivale a 2,54 centímetros.</sub>
+
+### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio16.java "Exercício 16")</sub>
+<sub>Uma hora tem 60 minutos. Em 20 horas quantos minutos existem? Escreva um programa que calcule e imprima na tela este valor.</sub>
+
+### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio17.java "Exercício 17")</sub>
+<sub>Um fabricante vendeu 120 unidades de um produto que custa R$ 40,00. Sobre o valor vendido, o fabricante paga 40% de imposto. Escreva um programa que calcule o valor de imposto a ser pago.</sub>
