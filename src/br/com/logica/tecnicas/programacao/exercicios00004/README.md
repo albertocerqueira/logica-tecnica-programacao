@@ -84,3 +84,12 @@ O programa deve ser encerrado se for digitada uma nota final fora do intervalo e
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio17.java "Exercício 17")</sub>
 <sub>Um fabricante vendeu 120 unidades de um produto que custa R$ 40,00. Sobre o valor vendido, o fabricante paga 40% de imposto. Escreva um programa que calcule o valor de imposto a ser pago.</sub>
+
+### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio18.java "Exercício 18")</sub>
+<sub>Escreva um programa que determine quantas vezes um número inteiro cabe exatamente no segundo. Mostrar o resultado para os números 3 e 17.</sub>
+
+### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio19.java "Exercício 19")</sub>
+<sub>Escreva um programa que contenha uma expressão que imprima na tela o último dígito do número 7551.</sub>
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio20.java "Exercício 20")</sub>
+<sub>Escreva um programa que contenha uma expressão que imprima na tela os dois últimos dígitos do número 1234.</sub>
