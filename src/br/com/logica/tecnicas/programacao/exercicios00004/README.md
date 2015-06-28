@@ -93,3 +93,32 @@ O programa deve ser encerrado se for digitada uma nota final fora do intervalo e
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio20.java "Exercício 20")</sub>
 <sub>Escreva um programa que contenha uma expressão que imprima na tela os dois últimos dígitos do número 1234.</sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio21.java "Exercício 21")</sub>
+<sub>Escreva um programa capaz de ler a quantidade de Km percorridos, a quantidade em litros de combustível consumido e um caracte que representa o combustível: álcool (A) ou gasolina (G). No final o programa deverá mostrar o consumo em km/l e uma mensagem informando se o motorista precisa regular o motor. OBS. Caso o combustível seja gasolina e o consumo seja inferior a 8 km/l, é recomendável a regulagem. No caso do álcool este consumo deve ser inferior a 5 km/l.</sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio22.java "Exercício 22")</sub>
+<sub>Uma empresa decidiu classificar seus empregados em quatro grupos:  
+Grupo 1 - Solteiros com menos de 25 anos.  
+Grupo 2 - Solteiros com 25 anos ou mais.  
+Grupo 3 - Casados com menos de 34 anos.  
+Grupo 4 - Casados com 34 anos ou mais.  
+Escreva um programa que leia a idade e uma letra representando o estado civil (s ou S - solteiro e c ou C - casado) de um empregado e escreva uma mensagem informando a que grupo o empregado pertence.</sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio23.java "Exercício 23")</sub>
+<sub>Uma pessoa com problema de pele necessita saber seu nível de risco ao se expor ao sol e qual o tempo máximo de exposição. Crie para ela um programa que imprima as informações de acordo com a tabela abaixo, após ler um número inteiro que corresponde ao índice UV–B:  
+Índice UV–B	Nível de Risco	Tempo Máximo de Exposição (minutos)  
+0 – 2		Mínimo			30  
+3 – 4		Baixo			17.5  
+5 – 6		Moderado		11  
+7 – 9		Alto			7.5</sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio24.java "Exercício 24")</sub>
+<sub>Escreva um programa que leia o valor de um ângulo (entre 0 e 180 graus). No caso da entrada ser válida, seu programa deverá mostrar uma das mensagens abaixo:
+• “angulo reto”, se o ângulo for igual a 90;  
+• “angulo agudo”, se o ângulo for menor que 90;  
+• “angulo obtuso”, nos outros casos.  
+Caso a entrada seja inválida, seu programa deverá mostrar a mensagem “angulo invalido”.</sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio25.java "Exercício 25")</sub>
+<sub>Para ser apta a doar sangue a pessoa deve ter entre 18 e 65 anos e pesar no mínimo 50kg. Escreva um programa que leia a idade da pessoa e mostre na tela a mensagem “Você não pode ser doadora porque sua idade não permite” caso a idade não esteja no intervalo exigido. Caso a entrada seja válida, seu programa deverá ler o peso da pessoa. Se o peso for inferior a 50 quilos, a mensagem “Você não pode ser doadora porque seu peso não permite” ou “Parabéns! Você eh candidato a doador”.</sub>
