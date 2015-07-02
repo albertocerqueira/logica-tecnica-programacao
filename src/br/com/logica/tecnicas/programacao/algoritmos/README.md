@@ -1,6 +1,7 @@
 # LTP - Algoritmos
 Algoritmos com simples implementação, muito usado em aulas de programação.
 
+- [<sub>Bogo Sort</sub>](#bogo-sort)
 - [<sub>Bubble Sort</sub>](#bubble-sort)
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
@@ -8,6 +9,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
 - [<sub>Recursividade</sub>](#recursividade)
+
+## <sub>Bogo Sort</sub>
+<sub>Bogosort (também conhecido como CaseSort), é um algoritmo de ordenação extremamente ineficiente. É baseado na reordenação aleatória dos elementos. Não é utilizado na prática, mas pode ser usado no ensino de algorítmos mais eficientes. Seu nome veio do engraçado termo quantum bogodynamics e, ultimamente, a palavra bogus. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BogoSort.java "Veja")).</sub>
 
 ## <sub>Bubble Sort</sub>
 <sub>O bubble sort, ou ordenação por flutuação (literalmente "por bolha"), é um algoritmo de ordenação dos mais simples. A ideia é percorrer o vector diversas vezes, a cada passagem fazendo flutuar para o topo o maior elemento da sequência. Essa movimentação lembra a forma como as bolhas em um tanque de água procuram seu próprio nível, e disso vem o nome do algoritmo ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BubbleSort.java "veja")).</sub>
