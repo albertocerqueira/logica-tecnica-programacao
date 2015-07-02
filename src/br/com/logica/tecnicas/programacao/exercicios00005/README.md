@@ -35,3 +35,78 @@ X >= 10 -> Y = 2X</sub>
 
 ### <sub>[Exercício 09](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio09.java "Exercício 09")<sub>
 <sub>Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles.</sub>  
+
+### <sub>[Exercício 10](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio10.java "Exercício 10")<sub>
+<sub>Faça dois programas para resolver este exercício. Use else if no primeiro problema e switch case no segundo.  
+Você passou um questionário onde a primeira questão perguntava a um grupo indeterminado de pessoas qual a freqüência com que eles fazem exercícios, sendo as respostas possíveis:  
+0 – nunca;  
+1 – poucas vezes;  
+2 – muitas vezes.  
+Faça um programa que leia a resposta desta primeira questão e mostre uma das respostas abaixo:  
+“Parabens! voce esta no caminho de um derrame ou ataque do coracao”  
+“Parabens! voce esta a meio caminho de um derrame ou ataque do coração”  
+“Parabens! voce esta fugindo de um derrame ou ataque do coração”  
+Deverá aparecer “Covarde!” no caso de resposta inválida.</sub>
+
+### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio11.java "Exercício 11")<sub>
+<sub>Escreva um programa que leia um valor de uma quantia monetária, x, e que calcule o valor do imposto correspondente, segundo a tabela:  
+Quantia			Imposto  
+x < 100			15%  
+100 ≤ x < 150	20%  
+150 ≤ x < 200	25%  
+200 ≤ x < 250	30%  
+x ≥ 250			40%</sub>
+
+### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio12.java "Exercício 12")<sub>
+<sub>Escreva um programa que leia um valor de uma nota de um aluno e imprima uma mensagem qualitativa, seguindo a seguinte regra:  
+Faixa de Notas	Mensagem Qualitativa  
+8 ≤ Nota ≤ 10	Ótimo  
+7 ≤ Nota < 8	Bom  
+5 ≤ Nota < 7	Regular  
+Nota < 5		Insatisfatório</sub>
+
+### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio13.java "Exercício 13")<sub>
+<sub>Os professores de uma faculdade da área de exatas desejam fazer uma festa no feriado. Foi solicitado aos docentes que informassem os seguintes dados:  
+- A escolha do lugar entre as opções ‘p’ (praia) ou ‘h’ (hotel fazenda);  
+- A escolha do tipo de comida entre as opções ‘c’ (churrasco) ou ‘f’ (feijoada) ou ‘m’ (massa);  
+- A escolha do dia preferido entre as opções ‘s’ (sábado) ou ‘d’ (domingo).  
+Sua tarefa é fazer um programa que leia as opções de uma quantidade indeterminada de professores que votaram e imprimir na tela as opções campeãs (lugar, tipo de comida e dia preferido). O programa deve perguntar se deseja continuar a cada ciclo de repetição.</sub>
+
+### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio14.java "Exercício 14")<sub>
+<sub>Escrever um programa que lê um conjunto de 4 valores "i, a, b, c", onde i é um valor inteiro e positivo, e "a, b, c" são quaisquer valores reais, e os escreve como segue:  
+Se i = 1, escrever os três valores a, b, c em ordem crescente;  
+Se i = 2, escrever os três valores a, b, c em ordem decrescente;  
+Se i = 3, escrever os três valores a, b, c de forma que o maior entre a, b, c fique entre os outros dois, independente da ordem destes.</sub>
+
+### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio15.java "Exercício 15")<sub>
+<sub></sub>
+
+### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio16.java "Exercício 16")<sub>
+<sub></sub>
+
+### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
+<sub></sub>
+
+### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio18.java "Exercício 18")<sub>
+<sub></sub>
+
+### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio19.java "Exercício 19")<sub>
+<sub></sub>
+
+### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio20.java "Exercício 20")<sub>
+<sub></sub>
+
+### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio21.java "Exercício 21")<sub>
+<sub></sub>
+
+### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio22.java "Exercício 22")<sub>
+<sub></sub>
+
+### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio23.java "Exercício 23")<sub>
+<sub></sub>
+
+### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio24.java "Exercício 24")<sub>
+<sub></sub>
+
+### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio25.java "Exercício 25")<sub>
+<sub></sub>
