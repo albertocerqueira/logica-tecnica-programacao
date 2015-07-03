@@ -3,6 +3,7 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 - [<sub>Bogo Sort</sub>](#bogo-sort)
 - [<sub>Bubble Sort</sub>](#bubble-sort)
+- [<sub>Bucket Sort</sub>](#bucket-sort)
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
 - [<sub>Counting Sort</sub>](#counting-sort)
@@ -16,6 +17,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 ## <sub>Bubble Sort</sub>
 <sub>O bubble sort, ou ordenação por flutuação (literalmente "por bolha"), é um algoritmo de ordenação dos mais simples. A ideia é percorrer o vector diversas vezes, a cada passagem fazendo flutuar para o topo o maior elemento da sequência. Essa movimentação lembra a forma como as bolhas em um tanque de água procuram seu próprio nível, e disso vem o nome do algoritmo ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BubbleSort.java "veja")).</sub>
+
+## <sub>Bucket Sort</sub>
+<sub>Bucket sort, ou bin sort, é um algoritmo de ordenação que funciona dividindo um vetor em um número finito de recipientes. Cada recipiente é então ordenado individualmente, seja usando um algoritmo de ordenação diferente, ou usando o algoritmo bucket sort recursivamente. O bucket sort tem complexidade linear (Θ(n)) quando o vetor a ser ordenado contém valores que são uniformemente distribuídos. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BucketSort.java "Veja"))</sub>
 
 ## <sub>Busca Binária</sub>
 <sub>A pesquisa ou busca binária (em inglês binary search algorithm ou binary chop) é um algoritmo de busca em vetores que segue o paradigma de divisão e conquista. Ela parte do pressuposto de que o vetor está ordenado e realiza sucessivas divisões do espaço de busca comparando o elemento buscado (chave) com o elemento no meio do vetor. Se o elemento do meio do vetor for a chave, a busca termina com sucesso. Caso contrário, se o elemento do meio vier antes do elemento buscado, então a busca continua na metade posterior do vetor. E finalmente, se o elemento do meio vier depois da chave, a busca continua na metade anterior do vetor ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BuscaBinaria.java "veja")).</sub>

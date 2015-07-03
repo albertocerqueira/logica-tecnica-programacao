@@ -2,6 +2,11 @@ package br.com.logica.tecnicas.programacao.algoritmos;
 
 import java.util.Random;
 
+/**
+ * @author Alberto Cerqueira
+ * @email alberto.cerqueira1990@gmail.com
+ * @date 2015/05/27
+ */
 public class BogoSort {
 
 	public static void main(String[] args) {

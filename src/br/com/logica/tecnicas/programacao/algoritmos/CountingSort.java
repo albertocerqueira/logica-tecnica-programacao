@@ -1,5 +1,10 @@
 package br.com.logica.tecnicas.programacao.algoritmos;
 
+/**
+ * @author Alberto Cerqueira
+ * @email alberto.cerqueira1990@gmail.com
+ * @date 2015/05/27
+ */
 public class CountingSort {
 
 	public static void main(String[] args) {
