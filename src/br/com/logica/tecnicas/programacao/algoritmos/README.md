@@ -5,6 +5,7 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Bubble Sort</sub>](#bubble-sort)
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
+- [<sub>Counting Sort</sub>](#counting-sort)
 - [<sub>Insertion Sort</sub>](#insertion-sort)
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
@@ -21,6 +22,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 ## <sub>Busca Sequêncial</sub>
 <sub>Na área de informática, ou Ciência da Computação, costuma-se usar o termo busca linear (ou busca sequêncial) para expressar um tipo de pesquisa em vetores ou listas de modo sequencial, i. e., elemento por elemento, de modo que a função do tempo em relação ao número de elementos é linear, ou seja, cresce proporcionalmente. Num vetor ordenado, essa não é a pesquisa mais eficiente, a pesquisa (ou busca) binária, por exemplo, é um tipo de pesquisa com o gráfico de tempo logarítmo ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BuscaSequencial.java "veja")).</sub>
+
+## <sub>Counting Sort</sub>
+<sub>Counting sort é um algoritmo de ordenação estável cuja complexidade é O(n). As chaves podem tomar valores entre 0 e M-1. Se existirem k0 chaves com valor 0, então ocupam as primeiras k0 posições do vetor final: de 0 a k0-1. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/CountingSort.java "Veja"))</sub>
 
 ## <sub>Insertion Sort</sub>
 <sub>Insertion sort, ou ordenação por inserção, é um simples algoritmo de ordenação, eficiente quando aplicado a um pequeno número de elementos. Em termos gerais, ele percorre um vetor de elementos da esquerda para a direita e à medida que avança vai deixando os elementos mais à esquerda ordenados. O algoritmo de inserção funciona da mesma maneira com que muitas pessoas ordenam cartas em um jogo de baralho como o pôquer ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/InsertionSort.java "veja")).</sub>
