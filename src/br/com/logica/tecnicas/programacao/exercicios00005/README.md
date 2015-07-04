@@ -97,12 +97,12 @@ O programa deve ler o preço da mercadoria e o número de vezes em que o pagamen
 Essa pontuação é dada através da seguinte fórmula:  
 Pontos = Horas extras – 2/3 * Faltas
 Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:  
-Pontos			Prêmio  
-> 40			R$ 5.000,00  
-Entre 31 e 40	R$ 4.000,00  
-Entre 21 e 30	R$ 3.000,00  
-Entre 11 e 20	R$ 2.000,00  
-<= 10			R$ 1.000,00</sub>
+Pontos					Prêmio  
+Maior que 40			R$ 5.000,00  
+Entre 31 e 40			R$ 4.000,00  
+Entre 21 e 30			R$ 3.000,00  
+Entre 11 e 20			R$ 2.000,00  
+Menor ou igual a 10		R$ 1.000,00</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
 <sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:  
