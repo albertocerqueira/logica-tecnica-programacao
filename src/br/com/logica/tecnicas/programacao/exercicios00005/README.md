@@ -79,19 +79,56 @@ Se i = 2, escrever os três valores a, b, c em ordem decrescente;
 Se i = 3, escrever os três valores a, b, c de forma que o maior entre a, b, c fique entre os outros dois, independente da ordem destes.</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio15.java "Exercício 15")<sub>
-<sub></sub>
+<sub>Uma loja de eletrodomésticos estabeleceu as seguintes modalidades de pagamento para a venda de suas mercadorias:  
+Número de parcelas	Preço Final  
+À vista				Desconto de 2,5% sobre o preço da mercadoria;  
+De 2 até 5 vezes	Preço da mercadoria, sem desconto ou acréscimo;  
+De 6 até 10 vezes	Acréscimo de 6% sobre o preço da mercadoria;  
+De 11 até 15 vezes	Acréscimo de 13% sobre o preço da mercadoria.  
+Exemplo:  
+preço do produto = R$ 100,00  
+forma de pagamento: em 8 vezes;  
+preço total = 100,00 + 6,00 (6% de 100,00) = 106,00;  
+cada parcela = 106,00 / 8 = R$ 13,25.  
+O programa deve ler o preço da mercadoria e o número de vezes em que o pagamento será feito e, depois, calcular e mostrar o valor de cada parcela, bem como o preço total da compra.</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio16.java "Exercício 16")<sub>
-<sub></sub>
+<sub>Uma empresa possui um esquema de pontuação que determina o valor do prêmio de Natal.  
+Essa pontuação é dada através da seguinte fórmula:  
+Pontos = Horas extras – 2/3 * Faltas
+Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:  
+Pontos			Prêmio  
+> 40			R$ 5.000,00  
+Entre 31 e 40	R$ 4.000,00  
+Entre 21 e 30	R$ 3.000,00  
+Entre 11 e 20	R$ 2.000,00  
+<= 10			R$ 1.000,00</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
-<sub></sub>
+<sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:  
+ classificação				velocidade dos ventos (km/h)  
+tempestade tropical			62 a 118  
+furacão de categoria 1		119 a 153  
+furacão de categoria 2		154 a 177  
+furacão de categoria 3		178 a 209  
+furacão de categoria 4		210 a 249  
+furacão de categoria 5		maior que 249  
+Escreva um programa que leia a velocidade (somente a parte inteira) do vento aferida durante uma tempestade e apresente ao usuário a classificação.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio18.java "Exercício 18")<sub>
-<sub></sub>
+<sub>Escreva um programa que leia o salário atual e tempo de serviço (em anos) de um funcionário de uma empresa, e calcule e imprima seu novo salário com aumento de acordo com a seguinte tabela:  
+Faixa salarial atual		Tempo de serviço	Aumento  
+abaixo de 900,00			-					20%  
+de 900,00 a 1500,00			até 5 anos			17%  
+							de 6 a 10 anos		18%  
+							acima de 10 anos	19%  
+cima de 1500,00				-					15%</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio19.java "Exercício 19")<sub>
-<sub></sub>
+<sub>Fazer um programa capaz de ler uma expressão matemática simples (operando1 operador operando2) onde operando1 e operando2 são valores reais e operador é um dos símbolos da álgebra (representados pelos caracteres ‘+’, ’-’, ’*’, ’/’). Se o usuário tiver digitado um operador válido, seu programa deverá calcular e mostrar na tela o resultado da operação no seguinte formato:  
+operando1 operador operando2 = resultado  
+caso o operador não exista, deverá aparecer na tela: “OPERACAO INVALIDA”  
+OBS. Cuidado com a divisão por zero.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio20.java "Exercício 20")<sub>
 <sub></sub>
