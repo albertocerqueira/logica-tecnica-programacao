@@ -95,8 +95,8 @@ O programa deve ler o preço da mercadoria e o número de vezes em que o pagamen
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio16.java "Exercício 16")<sub>
 <sub>Uma empresa possui um esquema de pontuação que determina o valor do prêmio de Natal.  
 Essa pontuação é dada através da seguinte fórmula:  
-Pontos = Horas extras – 2/3 * Faltas
-Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:
+Pontos = Horas extras – 2/3 * Faltas  
+Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:</sub>
 <table>
     <tr>
         <td><sub>Pontos</sub></td>
@@ -122,10 +122,10 @@ Escreva um programa que leia de um empregado, as horas extras trabalhadas e as h
         <td><sub>Menor ou igual a 10</sub></td>
         <td><sub>R$ 1.000,00</sub></td>
     </tr>
-</table></sub>
+</table>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
-<sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:
+<sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:</sub>
 <table>
 	<tr>
         <td><sub>classificação</sub></td>
@@ -156,7 +156,7 @@ Escreva um programa que leia de um empregado, as horas extras trabalhadas e as h
         <td><sub>maior que 249</sub></td>
     </tr>
 </table>  
-Escreva um programa que leia a velocidade (somente a parte inteira) do vento aferida durante uma tempestade e apresente ao usuário a classificação.</sub>
+<sub>Escreva um programa que leia a velocidade (somente a parte inteira) do vento aferida durante uma tempestade e apresente ao usuário a classificação.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio18.java "Exercício 18")<sub>
 <sub>Escreva um programa que leia o salário atual e tempo de serviço (em anos) de um funcionário de uma empresa, e calcule e imprima seu novo salário com aumento de acordo com a seguinte tabela:  
