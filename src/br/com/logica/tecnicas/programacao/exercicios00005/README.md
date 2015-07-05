@@ -67,9 +67,9 @@ Nota < 5		Insatisfatório</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio13.java "Exercício 13")<sub>
 <sub>Os professores de uma faculdade da área de exatas desejam fazer uma festa no feriado. Foi solicitado aos docentes que informassem os seguintes dados:  
-- A escolha do lugar entre as opções ‘p’ (praia) ou ‘h’ (hotel fazenda);  
-- A escolha do tipo de comida entre as opções ‘c’ (churrasco) ou ‘f’ (feijoada) ou ‘m’ (massa);  
-- A escolha do dia preferido entre as opções ‘s’ (sábado) ou ‘d’ (domingo).  
+• A escolha do lugar entre as opções ‘p’ (praia) ou ‘h’ (hotel fazenda);  
+• A escolha do tipo de comida entre as opções ‘c’ (churrasco) ou ‘f’ (feijoada) ou ‘m’ (massa);  
+• A escolha do dia preferido entre as opções ‘s’ (sábado) ou ‘d’ (domingo).  
 Sua tarefa é fazer um programa que leia as opções de uma quantidade indeterminada de professores que votaram e imprimir na tela as opções campeãs (lugar, tipo de comida e dia preferido). O programa deve perguntar se deseja continuar a cada ciclo de repetição.</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio14.java "Exercício 14")<sub>
@@ -96,13 +96,33 @@ O programa deve ler o preço da mercadoria e o número de vezes em que o pagamen
 <sub>Uma empresa possui um esquema de pontuação que determina o valor do prêmio de Natal.  
 Essa pontuação é dada através da seguinte fórmula:  
 Pontos = Horas extras – 2/3 * Faltas
-Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:  
-Pontos					Prêmio  
-Maior que 40			R$ 5.000,00  
-Entre 31 e 40			R$ 4.000,00  
-Entre 21 e 30			R$ 3.000,00  
-Entre 11 e 20			R$ 2.000,00  
-Menor ou igual a 10		R$ 1.000,00</sub>
+Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:
+<table>
+    <tr>
+        <td>Pontos</td>
+        <td>Prêmio</td>
+    </tr>
+    <tr>
+        <td>Maior que 40</td>
+        <td>R$ 5.000,00</td>
+    </tr>
+    <tr>
+        <td>Entre 31 e 40</td>
+        <td>R$ 4.000,00 </td>
+    </tr>
+    <tr>
+        <td>Entre 21 e 30</td>
+        <td>R$ 3.000,00 </td>
+    </tr>
+    <tr>
+        <td>Entre 11 e 20</td>
+        <td>R$ 2.000,00 </td>
+    </tr>
+    <tr>
+        <td>Menor ou igual a 10</td>
+        <td>R$ 1.000,00 </td>
+    </tr>
+</table></sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
 <sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:  
