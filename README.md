@@ -13,3 +13,6 @@ Exercícios de lógica e técnica de programação (LTP) para treinamento em pro
 <sub>[Lista 00008](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008 "Lista 00008")</sub>  
 <sub>[Lista 00009](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009 "Lista 00009")</sub>  
 <sub>[Lista 00010](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010 "Lista 00010")</sub>  
+
+### <sub>Contribuições</sub>
+[<sub>Alberto Cerqueira</sub>](https://github.com/albertocerqueira/ "Alberto Cerqueira") - <sub>alberto.cerqueira1990@gmail.com</sub>  
