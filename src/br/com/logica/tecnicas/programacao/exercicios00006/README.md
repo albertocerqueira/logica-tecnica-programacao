@@ -53,10 +53,59 @@ outras = 5%</sub>
 "Consoante"</sub>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio12.java "Exercício 12")</sub>
-<sub></sub><sub></sub>
+<sub>Pedir um mês do ano (01 a 12) e, de acordo com as condições abaixo, dizer : 01 (Férias), 02 a 06 (1º semestre letivo), 07 (Recesso), 08 a 11 (2º semestre letivo), 12 (Férias).</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio13.java "Exercício 13")</sub>
-<sub></sub>
+<sub>Faça um programa que realize conversões de temperaturas em graus Celsius, Fahrenheit ou Kelvin. O programa deve ler da entrada a temperatura e uma das seguintes opções:  
+A. de Celsius para Fahrenheit  
+B. de Fahrenheit para Celsius  
+C. de Celsius para Kelvin  
+D. de Kelvin para Celsius  
+E. de Kelvin para Fahrenheit  
+F. de Fahrenheit para Kelvin  
+Utilize o comando switch. Lembre-se que:</sub>
+<table>
+	<tr>
+        <td><sub></sub></td>
+        <td><sub>Conversões</sub></td>
+        <td><sub></sub></td>
+    </tr>
+    <tr>
+        <td><sub>De</sub></td>
+        <td><sub>Para</sub></td>
+        <td><sub>Fórmula</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Celsius</sub></td>
+        <td><sub>Fahrenheit</sub></td>
+        <td><sub>°F = °C * 1.8 + 32</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Fahrenheit</sub></td>
+        <td><sub>Celsius</sub></td>
+        <td><sub>°C = (°F - 32) * (5 / 9)</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Celsius</sub></td>
+        <td><sub>Kelvin</sub></td>
+        <td><sub>°C = (°F - 32) * (5 / 9)</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Kelvin</sub></td>
+        <td><sub>Celsius</sub></td>
+        <td><sub>°K = °C + 273.15</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Kelvin</sub></td>
+        <td><sub>Fahrenheit</sub></td>
+        <td><sub>°F = °K * 1.8 + 459.67</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Fahrenheit</sub></td>
+        <td><sub>Kelvin</sub></td>
+        <td><sub>°K = (°F + 459.67) / 1.8</sub></sub></td>
+    </tr>
+</table>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio14.java "Exercício 14")</sub>
 <sub></sub>

@@ -49,21 +49,58 @@ Faça um programa que leia a resposta desta primeira questão e mostre uma das r
 Deverá aparecer “Covarde!” no caso de resposta inválida.</sub>
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio11.java "Exercício 11")</sub>
-<sub>Escreva um programa que leia um valor de uma quantia monetária, x, e que calcule o valor do imposto correspondente, segundo a tabela:  
-Quantia			Imposto  
-x < 100			15%  
-100 ≤ x < 150	20%  
-150 ≤ x < 200	25%  
-200 ≤ x < 250	30%  
-x ≥ 250			40%</sub>
+<sub>Escreva um programa que leia um valor de uma quantia monetária, x, e que calcule o valor do imposto correspondente, segundo a tabela:</sub>
+<table>
+	<tr>
+        <td><sub>Quantia</sub></td>
+        <td><sub>Imposto</sub></td>
+    </tr>
+    <tr>
+        <td><sub>x < 100</sub></td>
+        <td><sub>15%</sub></td>
+    </tr>
+    <tr>
+        <td><sub>100 ≤ x < 150</sub></td>
+        <td><sub>20%</sub></td>
+    </tr>
+    <tr>
+        <td><sub>150 ≤ x < 200</sub></td>
+        <td><sub>25%</sub></td>
+    </tr>
+    <tr>
+        <td><sub>200 ≤ x < 250</sub></td>
+        <td><sub>30%</sub></td>
+    </tr>
+    <tr>
+        <td><sub>x ≥ 250</sub></td>
+        <td><sub>40%</sub></td>
+    </tr>
+</table>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio12.java "Exercício 12")</sub>
-<sub>Escreva um programa que leia um valor de uma nota de um aluno e imprima uma mensagem qualitativa, seguindo a seguinte regra:  
-Faixa de Notas	Mensagem Qualitativa  
-8 ≤ Nota ≤ 10	Ótimo  
-7 ≤ Nota < 8	Bom  
-5 ≤ Nota < 7	Regular  
-Nota < 5		Insatisfatório</sub>
+<sub>Escreva um programa que leia um valor de uma nota de um aluno e imprima uma mensagem qualitativa, seguindo a seguinte regra:</sub>
+<table>
+	<tr>
+        <td><sub>Faixa de Notas</sub></td>
+        <td><sub>Mensagem Qualitativa</sub></td>
+    </tr>
+    <tr>
+        <td><sub>8 ≤ Nota ≤ 10</sub></td>
+        <td><sub>Ótimo</sub></td>
+    </tr>
+    <tr>
+        <td><sub>7 ≤ Nota < 8</sub></td>
+        <td><sub>Bom</sub></td>
+    </tr>
+    <tr>
+        <td><sub>5 ≤ Nota < 7</sub></td>
+        <td><sub>Regular</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Nota < 5</sub></td>
+        <td><sub>Insatisfatório</sub></td>
+    </tr>
+</table>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio13.java "Exercício 13")</sub>
 <sub>Os professores de uma faculdade da área de exatas desejam fazer uma festa no feriado. Foi solicitado aos docentes que informassem os seguintes dados:  

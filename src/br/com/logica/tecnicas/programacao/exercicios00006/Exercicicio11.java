@@ -182,7 +182,7 @@ public class Exercicicio11 {
 				System.out.println("CONSOANTE MAI\u00daSCULA");
 				break;
 			default:
-				System.out.println("Op\u00e7\u00e3o inv\u00e1lida!");;
+				System.out.println("Op\u00e7\u00e3o inv\u00e1lida!");
 		}
 	}
 }
