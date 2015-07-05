@@ -33,7 +33,7 @@ public class Exercicicio19 {
 			System.out.println(o1 + " " +  o + " " +  o2 + " = " + (o1 - o2));
 		} else if (o.equals("/")) {
 			if (o2 != 0) {
-				System.out.println(o1 + " " +  o + " " +  o2 + " = " + (o1 + o2));
+				System.out.println(o1 + " " +  o + " " +  o2 + " = " + (o1 / o2));
 			} else {
 				System.out.println("OPERA\u00c7\u00c3O INV\u00c1LIDA.");
 			}

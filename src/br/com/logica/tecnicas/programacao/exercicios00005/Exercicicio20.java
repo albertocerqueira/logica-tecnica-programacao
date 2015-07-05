@@ -25,7 +25,7 @@ public class Exercicicio20 {
 	 * No caso da ENTRADA para sexo ser diferente das descritas acima, seu programa deverá mostrar a mensagem: “SEXO INDEFINIDO”.
 	 */
 	public void verificarSexoEIdade() {
-		String s = JOptionPane.showInputDialog("Digite o sexo da pessoa: ");
+		String s = JOptionPane.showInputDialog("Digite o sexo da pessoa:\nMasculino (m)\nFeminino (f)");
 		Integer i = Integer.parseInt(JOptionPane.showInputDialog("Digite a idade pessoa: "));
 		if (s.equalsIgnoreCase("f")) {
 			if (i < 30) {

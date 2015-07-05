@@ -210,10 +210,21 @@ Recolhimento: Se o prazo de validade for menor que 7 dias, todos os itens do pro
 OBS. Considere que qualquer mês tem exatamente 30 dias.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>Implemente o programa da calculadora utilizando uma instrução switch-case para determinar a operação que deve ser executada, conforme a escolha do usuário no menu de opções. O usuário deve fornecer dois números. Obs.: Lembre-se que na operação de divisão o segundo número deve ser diferente de zero. 
+Menu:  
+(+) Somar  
+(-) Subtrair  
+(x) Multiplicar  
+(/) Dividir  
+(%) Resto da divisão</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>Implemente um programa que execute as funcionalidades de uma conta-corrente de uma pessoa. Toda a conta um saldo. O saldo é atualizado conforme o tipo de movimentação bancária: depósito ou retirada. Se for um depósito, o dinheiro é creditado ao saldo, se for retirara, o dinheiro é debitado do saldo.</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Criar um programa para ler as letras iniciais do estado civil e do sexo de uma pessoa e mostrar a descrição:  
+Casado (c);  
+Solteiro (s);  
+Viúvo (v);  
+Divorciado (d);  
+Inválido.</sub>
