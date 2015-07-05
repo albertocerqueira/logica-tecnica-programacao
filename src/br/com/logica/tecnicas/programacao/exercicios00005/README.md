@@ -131,13 +131,24 @@ caso o operador não exista, deverá aparecer na tela: “OPERACAO INVALIDA”
 OBS. Cuidado com a divisão por zero.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio20.java "Exercício 20")<sub>
-<sub></sub>
+<sub>Fazer um programa capaz de ler um caractere (‘F’ ou ‘M’) que representa o sexo de uma pessoa.  
+• Caso o usuário tenha digitado ‘F’, seu programa deverá ler a idade e mostrar uma das mensagens abaixo:  
+• “Seu chefe te liberou para ir ao SHOPPING” para idades menores que 30;  
+• “Seu chefe te liberou para a BALADA” para maiores de 31 anos.  
+• No caso da escolha ser ‘M’ as mensagens serão:  
+• “Seu chefe te liberou para o FUTEBOL” para idades menores que 40;  
+• “Seu chefe te liberou para a BALADA” para maiores de 41 anos.  
+No caso da ENTRADA para sexo ser diferente das descritas acima, seu programa deverá mostrar a mensagem: “SEXO INDEFINIDO”.</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio21.java "Exercício 21")<sub>
-<sub></sub>
+<sub>Uma empresa de camisetas tem um custo de fabricação de 5,00 por cada camiseta fabricada e vende cada camiseta por 8,50. Escreva um programa que leia a quantidade de camisetas fabricadas e a quantidade de camisetas vendidas. Caso o número de camisetas vendidas seja maior do que as fabricadas, seu programa deverá imprimir uma mensagem informando quantas camisetas deverão ser fabricadas rapidamente. Caso contrário, o programa deverá imprimir na tela os gastos e ganhos, e uma mensagem informando se o dono da empresa teve prejuízo ou lucro.</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio22.java "Exercício 22")<sub>
-<sub></sub>
+<sub>O prazo de validade de um produto pode ser determinado calculando-se o número de dias que há entre a data de hoje e a data de validade do produto. Por exemplo: se hoje é 17 de março de 2005 e a data de validade do produto é 22 de março de 2005, o prazo de validade desse produto é 5 dias (22 – 17). O dono de um mini–mercado deseja que você escreva um programa que indique se o produto poderá ser vendido a preço normal, em liquidação ou será recolhido, conforme descrição a seguir:  
+Preço Normal: Se o prazo de validade do produto for igual ou superior a 1 mês;  
+Liquidação: Se o prazo de validade estiver entre 7, inclusive, e 29 dias, haverá redução de 50% no preço;  
+Recolhimento: Se o prazo de validade for menor que 7 dias, todos os itens do produto deverão ser recolhidos das prateleiras.  
+OBS. Considere que qualquer mês tem exatamente 30 dias.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio23.java "Exercício 23")<sub>
 <sub></sub>
