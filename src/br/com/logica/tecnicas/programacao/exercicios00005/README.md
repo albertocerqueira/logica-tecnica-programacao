@@ -99,40 +99,63 @@ Pontos = Horas extras – 2/3 * Faltas
 Escreva um programa que leia de um empregado, as horas extras trabalhadas e as horas de faltas e determine o prêmio de natal que é dado pela seguinte tabela:
 <table>
     <tr>
-        <td>Pontos</td>
-        <td>Prêmio</td>
+        <td><sub>Pontos</sub></td>
+        <td><sub>Prêmio</sub></td>
     </tr>
     <tr>
-        <td>Maior que 40</td>
-        <td>R$ 5.000,00</td>
+        <td><sub>Maior que 40</sub></td>
+        <td><sub>R$ 5.000,00</sub></td>
     </tr>
     <tr>
-        <td>Entre 31 e 40</td>
-        <td>R$ 4.000,00 </td>
+        <td><sub>Entre 31 e 40</sub></td>
+        <td><sub>R$ 4.000,00</sub></td>
     </tr>
     <tr>
-        <td>Entre 21 e 30</td>
-        <td>R$ 3.000,00 </td>
+        <td><sub>Entre 21 e 30</sub></td>
+        <td><sub>R$ 3.000,00</sub></td>
     </tr>
     <tr>
-        <td>Entre 11 e 20</td>
-        <td>R$ 2.000,00 </td>
+        <td><sub>Entre 11 e 20</sub></td>
+        <td><sub>R$ 2.000,00</sub></td>
     </tr>
     <tr>
-        <td>Menor ou igual a 10</td>
-        <td>R$ 1.000,00 </td>
+        <td><sub>Menor ou igual a 10</sub></td>
+        <td><sub>R$ 1.000,00</sub></td>
     </tr>
 </table></sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio17.java "Exercício 17")<sub>
-<sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:  
- classificação				velocidade dos ventos (km/h)  
-tempestade tropical			62 a 118  
-furacão de categoria 1		119 a 153  
-furacão de categoria 2		154 a 177  
-furacão de categoria 3		178 a 209  
-furacão de categoria 4		210 a 249  
-furacão de categoria 5		maior que 249  
+<sub>Um ciclone tropical consiste em uma tempestade muito violenta que, sob determinadas condições, adquire um movimento de rotação em torno de uma região de baixa pressão atmosférica. Um ciclone pode atingir um diâmetro de até 500 km. Furacões são os mais violentos desses ciclones e chegam a produzir ventos de até 320 km/h. Na tabela abaixo, são apresentados alguns dados relativos à classificação dos furacões segundo a escala Saffir-Simpson:
+<table>
+	<tr>
+        <td><sub>classificação</sub></td>
+        <td><sub>velocidade dos ventos (km/h)</sub></td>
+    </tr>
+    <tr>
+        <td><sub>tempestade tropical</sub></td>
+        <td><sub>62 a 118</sub></td>
+    </tr>
+    <tr>
+        <td><sub>furacão de categoria 1</sub></td>
+        <td><sub>62 a 118</sub></td>
+    </tr>
+    <tr>
+        <td><sub>furacão de categoria 2</sub></td>
+        <td><sub>119 a 153</sub></td>
+    </tr>
+    <tr>
+        <td><sub>furacão de categoria 3</sub></td>
+        <td><sub>154 a 177</sub></td>
+    </tr>
+    <tr>
+        <td><sub>furacão de categoria 4</sub></td>
+        <td><sub>210 a 249</sub></td>
+    </tr>
+    <tr>
+        <td><sub>furacão de categoria 5</sub></td>
+        <td><sub>maior que 249</sub></td>
+    </tr>
+</table>  
 Escreva um programa que leia a velocidade (somente a parte inteira) do vento aferida durante uma tempestade e apresente ao usuário a classificação.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00005/Exercicicio18.java "Exercício 18")<sub>
