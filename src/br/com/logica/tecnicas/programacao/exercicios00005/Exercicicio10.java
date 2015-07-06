@@ -29,12 +29,12 @@ public class Exercicicio10 {
 	 * Deverá aparecer “Covarde!” no caso de resposta inválida. 
 	 */
 	public void pesquisarSobreExerciciosFisicos1() {
-		int n = Integer.parseInt(JOptionPane.showInputDialog("Com qual frequ\u00eancia voc\u00ea pratica exerc\u00edcios:\n0 - nunca\n1 - poucas vezes\n2 - muitas vezes"));
-		if (n == 0) {
+		int q = Integer.parseInt(JOptionPane.showInputDialog("Com qual frequ\u00eancia voc\u00ea pratica exerc\u00edcios:\n0 - nunca\n1 - poucas vezes\n2 - muitas vezes"));
+		if (q == 0) {
 			System.out.println("Parab\u00e9ns! voc\u00ea est\u00e1 no caminho de um derrame ou ataque do cora\u00e7\u00e3o.");
-		} else if (n == 1) {
+		} else if (q == 1) {
 			System.out.println("Parab\u00e9ns! voc\u00ea est\u00e1 a meio caminho de um derrame ou ataque do cora\u00e7\u00e3o.");
-		} else if (n == 2) {
+		} else if (q == 2) {
 			System.out.println("Parab\u00e9ns! voc\u00ea est\u00e1 fugindo de um derrame ou ataque do cora\u00e7\u00e3o.");
 		} else {
 			System.out.println("Covarde!");

@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio13 {
 
 	public static void main(String[] args) {
-		Exercicicio13 exe12 = new Exercicicio13();
-		exe12.verificarLetraDigitada();
+		Exercicicio13 exe13 = new Exercicicio13();
+		exe13.converterTemperatura();
 	}
 	
 	/**
@@ -36,7 +36,7 @@ public class Exercicicio13 {
 	 * Kelvin		Fahrenheit	°F = °K * 1.8 + 459.67
 	 * Fahrenheit	Kelvin		°K = (°F + 459.67) / 1.8
 	 */
-	public void verificarLetraDigitada() {
+	public void converterTemperatura() {
 		String c = JOptionPane.showInputDialog("Digite a op\u00e7\u00e3o para convers\u00e3o:\nA. de Celsius para Fahrenheit\nB. de Fahrenheit para Celsius\nC. de Celsius para Kelvin\nD. de Kelvin para Celsius\nE. de Kelvin para Fahrenheit\nF. de Fahrenheit para Kelvin");
 		Double t = Double.parseDouble(JOptionPane.showInputDialog("Digite a temperatura para convers\u00e3o: "));
 		

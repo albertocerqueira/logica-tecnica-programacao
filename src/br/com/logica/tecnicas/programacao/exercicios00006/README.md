@@ -108,13 +108,51 @@ Utilize o comando switch. Lembre-se que:</sub>
 </table>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio14.java "Exercício 14")</sub>
-<sub></sub>
+<sub>Você passou um questionário onde a primeira questão perguntava a um grupo indeterminado de pessoas qual a freqüência com que eles fazem exercícios, sendo as respostas possíveis:  
+0 – nunca;  
+1 – poucas vezes;  
+2 – muitas vezes.  
+Faça um programa que leia as respostas desta primeira questão, ele deve se encerrar se a resposta for -1. O programa deve imprimir na tela:  
+- Quantos responderam “nunca”, quantos responderam “poucas vezes” e quantos responderam “muitas vezes”.  
+- Quantos responderam o questionário.  
+- Qual foi a porcentagem de respostas “nunca”, “poucas vezes” e “muitas vezes”.</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio15.java "Exercício 15")</sub>
-<sub></sub>
+<sub>Em uma eleição presidencial existiam quatro candidatos considerados mais fortes. Os votos, uma quantidade não determinada, são informados através de códigos (de maneira similar a uma Urna Eletrônica). Os dados utilizados para a contagem dos votos obedecem a seguinte codificação:  
+• 1, 2, 3 e 4: voto para os respectivos candidatos;  
+• 5: voto em branco;  
+• Qualquer valor diferente de 1, 2, 3, 4, 5 e -999 é considerado voto nulo.  
+Elabore um programa que leia o voto de cada eleitor (código do candidato) e calcule a porcentagem de votos para cada candidato, a quantidade de votos nulos e a quantidade de votos em branco. A votação deve ser encerrada quando for digitada a senha -999 e depois impresso os resultados.</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio16.java "Exercício 16")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número indeterminado de informações de alunos de uma academia: peso e altura. O programa deve também: calcular o IMC (segundo a fórmula dada) e escrever na tela a faixa de risco de cada um (segundo a tabela abaixo);  
+• contar quantos IMCs foram calculados;  
+• calcular a porcentagem de alunos com peso abaixo do normal;  
+• imprimir o peso do aluno mais pesado;  
+• imprimir o peso do aluno com menor IMC;  
+• quando o valor do peso ou o valor da altura recebido por parâmetro forem inválidos apresentar a média do IMC dos alunos da academia que participaram da pesquisa.  
+Obs: O programa deve parar de repetir o procedimento quando forem digitados números inválidos para o peso ou para a altura (menor que 20 para o peso e menor que 1.0 para a altura).</sub>  
+<table>
+	<tr>
+        <td colspan="2"><sub>IMC = peso / altura²</sub></td>
+    </tr>
+    <tr>
+        <td><sub>Valor do IMC</sub></td>
+        <td><sub>Faixa de Risco</sub></td>
+    </tr>
+    <tr>
+        <td><sub>IMC < 20</sub></td>
+        <td><sub>abaixo do peso</sub></td>
+    </tr>
+    <tr>
+        <td><sub>20 ≤ IMC ≤ 25</sub></td>
+        <td><sub>Normal</sub></td>
+    </tr>
+    <tr>
+        <td><sub>IMC > 25</sub></td>
+        <td><sub>acima do peso</sub></td>
+    </tr>
+</table>  
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio17.java "Exercício 17")</sub>
 <sub></sub>
