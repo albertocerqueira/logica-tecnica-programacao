@@ -7,10 +7,12 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
 - [<sub>Counting Sort</sub>](#counting-sort)
+- [<sub>Gnome Sort</sub>](#gnome-sort)
 - [<sub>Insertion Sort</sub>](#insertion-sort)
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
 - [<sub>Recursividade</sub>](#recursividade)
+- [<sub>Sell Sort</sub>](#sell-sort)
 
 ## <sub>Bogo Sort</sub>
 <sub>Bogosort (também conhecido como CaseSort), é um algoritmo de ordenação extremamente ineficiente. É baseado na reordenação aleatória dos elementos. Não é utilizado na prática, mas pode ser usado no ensino de algorítmos mais eficientes. Seu nome veio do engraçado termo quantum bogodynamics e, ultimamente, a palavra bogus. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BogoSort.java "Veja")).</sub>
@@ -30,6 +32,10 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 ## <sub>Counting Sort</sub>
 <sub>Counting sort é um algoritmo de ordenação estável cuja complexidade é O(n). As chaves podem tomar valores entre 0 e M-1. Se existirem k0 chaves com valor 0, então ocupam as primeiras k0 posições do vetor final: de 0 a k0-1. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/CountingSort.java "Veja"))</sub>
 
+## <sub>Gnome Sort</sub>
+<sub>Algoritmo similiar ao Insertion sort com a diferença que o Gnome sort leva um elemento para sua posição correta, com uma seqüencia grande de trocas assim como o Bubble sort.</sub>
+<sub>O algoritmo percorre o vetor comparando seus elementos dois a dois, assim que ele encontra um elemento que está na posição incorreta, ou seja, um número maior antes de um menor, ele troca a posição dos elementos, e volta com este elemento até que encontre o seu respectivo lugar. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/GnomeSort.java "Veja"))</sub>
+
 ## <sub>Insertion Sort</sub>
 <sub>Insertion sort, ou ordenação por inserção, é um simples algoritmo de ordenação, eficiente quando aplicado a um pequeno número de elementos. Em termos gerais, ele percorre um vetor de elementos da esquerda para a direita e à medida que avança vai deixando os elementos mais à esquerda ordenados. O algoritmo de inserção funciona da mesma maneira com que muitas pessoas ordenam cartas em um jogo de baralho como o pôquer ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/InsertionSort.java "veja")).</sub>
 
@@ -41,3 +47,6 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 ## <sub>Recursividade</sub>
 <sub>Em ciência da computação, a recursividade é a definição de uma subrotina (função ou método) que pode invocar a si mesma. Um exemplo de aplicação da recursividade pode ser encontrado nos analisadores sintáticos recursivos para linguagens de programação. A grande vantagem da recursão está na possibilidade de usar um programa de computador finito para definir, analisar ou produzir um estoque potencialmente infinito de sentenças, designs ou outros dados ([veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/Recursividade.java "veja")).</sub>
+
+## <sub>Sell Sort</sub>
+<sub>Criado por Donald Shell em 1959,1 publicado pela Universidade de Cincinnati, Shell sort é o mais eficiente algoritmo de classificação dentre os de complexidade quadrática. É um refinamento do método de inserção direta.2 O algoritmo difere do método de inserção direta pelo fato de no lugar de considerar o array a ser ordenado como um único segmento, ele considera vários segmentos sendo aplicado o método de inserção direta em cada um deles.3 Basicamente o algoritmo passa várias vezes pela lista dividindo o grupo maior em menores. Nos grupos menores é aplicado o método da ordenação por inserção. Implementações do algoritmo. Procure a versão em inglês desse mesmo link. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/SellSort.java "Veja"))</sub>
