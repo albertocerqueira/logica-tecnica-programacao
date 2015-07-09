@@ -1,6 +1,13 @@
 # Lógica e Técnicas de Programação
 Exercícios de lógica e técnica de programação (LTP) para treinamento em programação. Muitos desses são usados como primeiras atividades de iniciantes na área.
 
+### Regras:
+<ul>
+	<li><sub>Problemas devem ser resolvido pensando lógicamente, sem uso de funções especificas de qualquer linguagem.</sub></li>
+	<li><sub>Após a conclusão do problema, o programa deve rodar em qualquer linguagem (ou o mais próxima com o mínimo de ajustes entre as plataformas).</sub></li>
+	<li><sub>Variavéis como true/false devem ser substituidas por 0/1.</sub></li>
+</ul>
+
 ### Listas:  
 <sub>[Lista 00000](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000 "Lista 00000")</sub>  
 <sub>[Lista 00001](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00001 "Lista 00001")</sub>  
