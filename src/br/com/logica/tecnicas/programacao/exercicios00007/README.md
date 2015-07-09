@@ -59,7 +59,13 @@ OBSERVAÇÃO: use a função int2vet() construída na parte A.</sub>
 <sub>Faça um programa capaz de ler caracteres e só termine quando o usuário digitar uma interrogação.</sub>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio12.java "Exercício 12")</sub>
-<sub></sub>
+<sub>Em uma disciplina cada aluno desenvolve um trabalho (T), faz uma prova geral (G) e mais três provas da disciplina. A nota final do aluno é obtida com o seguinte cálculo:  
+F = 0.4 * T + 0.2 * G + 0.4 * P, onde P é média das provas da disciplina.  
+No final a situação do aluno será:  
+• se F for maior ou igual a 7, o aluno está aprovado;  
+• se F for maior ou igual a 4 e menor do que 7, o aluno deverá fazer exame;  
+• se F for menor que quatro, o aluno estará reprovado.  
+Faça um programa que leia uma quantidade de alunos. Para cada aluno, leia a sua nota no trabalho T, a sua nota na prova G, e as notas em suas três provas. Seu programa deverá imprimir a porcentagem de alunos reprovados.</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio13.java "Exercício 13")</sub>
 <sub></sub>
