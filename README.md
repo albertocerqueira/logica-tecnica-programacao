@@ -4,7 +4,7 @@ Exercícios de lógica e técnica de programação (LTP) para treinamento em pro
 ### Regras:
 <ul>
 	<li><sub>Problemas devem ser resolvido pensando lógicamente, sem uso de funções especificas de qualquer linguagem.</sub></li>
-	<li><sub>Após a conclusão do problema, o programa deve rodar em qualquer linguagem (ou o mais próxima com o mínimo de ajustes entre as plataformas).</sub></li>
+	<li><sub>Após a conclusão do problema, o programa deve rodar em qualquer linguagem (ou o mais próxima possível e com o mínimo de ajustes entre as plataformas).</sub></li>
 	<li><sub>Variavéis como true/false devem ser substituidas por 0/1.</sub></li>
 </ul>
 
