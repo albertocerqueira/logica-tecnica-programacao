@@ -1,5 +1,5 @@
-# Lógica e Técnicas de Programação
-Exercícios de lógica e técnica de programação (LTP) para treinamento em programação. Muitos desses são usados como primeiras atividades de iniciantes na área.
+## Lógica e Técnicas de Programação
+<sub>Exercícios de lógica e técnica de programação (LTP) para treinamento em programação. Muitos desses são usados como primeiras atividades de iniciantes na área.</sub>
 
 ### Regras:
 <ul>
@@ -20,6 +20,9 @@ Exercícios de lógica e técnica de programação (LTP) para treinamento em pro
 <sub>[Lista 00008](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008 "Lista 00008")</sub>  
 <sub>[Lista 00009](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009 "Lista 00009")</sub>  
 <sub>[Lista 00010](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010 "Lista 00010")</sub>  
+
+### <sub>[Algoritmos](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos "Algoritmos"):</sub>  
+<sub>Cada algoritmo possui um uso distinto, que deve ser entendido e empregado em sua exata função.</sub>
 
 ### Observações:
 <ul>
