@@ -155,22 +155,35 @@ Obs: O programa deve parar de repetir o procedimento quando forem digitados núm
 </table>  
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio17.java "Exercício 17")</sub>
-<sub></sub>
+<sub>Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto mandou você fazer um programa que leia o código do produto (um número inteiro), preço de compra e preço de venda dos produtos. Seu programa deve determinar e imprimir quantas mercadorias possui:  
+• Porcentagem_lucro < 10%  
+• 10% <= Porcentagem_ lucro <= 20%  
+• Porcentagem_lucro > 20%  
+Determine o produto com maior valor de venda (imprima na tela o maior valor e o código deste produto) e o produto com menor valor de venda (imprima na tela o menor valor e o código deste produto). Determine e imprima também a média dos lucros dos produtos.  
+Importante: O programa deve ler as informações das mercadorias enquanto não for digitado um código de produto negativo. </sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio18.java "Exercício 18")</sub>
-<sub></sub>
+<sub>Um sistema de máquinas demora 37 segundos para produzir uma peça. Sua tarefa é fazer um programa que leia a quantidade de peças a ser produzida e calcule o tempo em horas, minutos e segundos necessário para produzir essa quantidade de peças.  
+Exemplo:  
+Se digitado pelo usuário o número 250, deverá aparecer na tela 2 horas, 34 minutos e 10 segundos.</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio19.java "Exercício 19")</sub>
-<sub></sub>
+<sub>Entrar com o ano de nascimento de uma pessoa e o ano atual. Imprimir a idade da pessoa. Não se esqueça de verificar antes se o ano de nascimento é um ano válido.  
+IMPORTANTE: Seu programa não deverá imprimir a idade se o ano de nascimento for inválido, mas, a mensagem “Data de nascimento inválida”.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio20.java "Exercício 20")</sub>
-<sub></sub>
+<sub>Faça um programa que receba o valor de um financiamento pessoal pretendido e o valor do salário de uma pessoa. Caso o financiamento seja menor ou igual a 5 vezes o salário da pessoa, o programa deverá escrever "Financiamento Concedido"; senão, escreverá "Financiamento Negado". Independente de conceder ou não o financiamento, o programa escreverá depois a frase "Obrigado por nos consultar." O programa deverá permitir diversas consultas até que seja lido um valor negativo para o financiamento.   </sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio21.java "Exercício 21")</sub>
-<sub></sub>
+<sub>Um SPA anuncia perdas de peso de até 2,5kg por semana. Suponhamos que isso realmente ocorra e que você deseja fazer um programa para ajudar os possíveis clientes do SPA a calcular o peso que poderão atingir. Para isso, escreva um programa que leia o peso da pessoa e a quantidade de semanas que pretende passar no SPA, calcule o possível peso e imprima na tela o valor calculado.  
+Exemplo:  
+Se digitado 150 para o peso e 20 para a quantidade de semanas, deverá aparecer na tela o número 100.</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio22.java "Exercício 22")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número de dois algarismos. Se o usuário tiver digitado corretamente (um número entre 10 e 99), o programa deve verificar se o primeiro algarismo que forma o número é divisor do segundo número, e, se for divisor, imprimir na tela a mensagem “regra confirmada”. Ao final o programa deve imprimir o número digitado pelo usuário.  
+Exemplos:  
+• Se digitado o número 24 deve aparecer na tela a mensagem “regra confirmada” e depois o número 24.  
+• Se digitado o número 25 deve aparecer na tela apenas o número 25.  </sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio23.java "Exercício 23")</sub>
 <sub></sub>
