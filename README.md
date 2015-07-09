@@ -6,6 +6,7 @@
 	<li><sub>Problemas devem ser resolvido pensando lógicamente, sem uso de funções especificas de qualquer linguagem.</sub></li>
 	<li><sub>Após a conclusão do problema, o programa deve rodar em qualquer linguagem (ou o mais próxima possível e com o mínimo de ajustes entre as plataformas).</sub></li>
 	<li><sub>Variavéis como true/false devem ser substituidas por 0/1.</sub></li>
+	<li><sub>Cada [algoritmos](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/ "algoritmos") possui um uso distinto, que deve ser entendido e empregado em sua exata função.</sub></li>
 </ul>
 
 ### Listas:  
@@ -20,9 +21,6 @@
 <sub>[Lista 00008](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008 "Lista 00008")</sub>  
 <sub>[Lista 00009](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009 "Lista 00009")</sub>  
 <sub>[Lista 00010](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010 "Lista 00010")</sub>  
-
-### <sub>[Algoritmos](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos "Algoritmos"):</sub>  
-<sub>Cada algoritmo possui um uso distinto, que deve ser entendido e empregado em sua exata função.</sub>
 
 ### Observações:
 <ul>
