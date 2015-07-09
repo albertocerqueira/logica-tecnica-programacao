@@ -17,10 +17,10 @@ public class Exercicicio24 {
 	/**
 	 * Escreva um programa que leia o valor de um ângulo (entre 0 e 180 graus). No caso da entrada ser válida, seu programa deverá mostrar uma das
 	 * mensagens abaixo:
-	 * • “angulo reto”, se o ângulo for igual a 90;
-	 * • “angulo agudo”, se o ângulo for menor que 90;
-	 * • “angulo obtuso”, nos outros casos.
-	 * Caso a entrada seja inválida, seu programa deverá mostrar a mensagem “angulo invalido”.
+	 * • “ângulo reto”, se o ângulo for igual a 90;
+	 * • “ângulo agudo”, se o ângulo for menor que 90;
+	 * • “ângulo obtuso”, nos outros casos.
+	 * Caso a entrada seja inválida, seu programa deverá mostrar a mensagem “ângulo inválido”.
 	 */
 	public void verificarAngulor() {
 		int a = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor em graus do \u00e2ngulo: "));
@@ -29,8 +29,10 @@ public class Exercicicio24 {
 			System.out.println("\u00c2ngulo reto");
 		} else if (a < 90) {
 			System.out.println("\u00c2ngulo agudo");
-		} else {
+		} else if (a > 90 && a <= 360) {
 			System.out.println("\u00c2ngulo obtuso");
+		} else {
+			System.out.println("\u00c2ngulo inv\u00e1lido");
 		}
 	}
 }

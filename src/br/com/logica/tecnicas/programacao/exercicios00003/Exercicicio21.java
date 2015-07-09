@@ -15,8 +15,8 @@ public class Exercicicio21 {
 	}
 
 	/**
-	 * Escreva um programa na linguagem C que leia um número indeterminado de informações de uma comunidade: idade e estado civil (C quando casado, S
-	 * quando solteiro, V quando viúvo e D quando divorciado ou separado) . O programa deve:
+	 * Escreva um programa que leia um número indeterminado de informações de uma comunidade: idade e estado civil (C quando casado, S quando 
+	 * solteiro, V quando viúvo e D quando divorciado ou separado) . O programa deve:
 	 * • Imprimir a quantidade de pessoas que participaram da pesquisa;
 	 * • A média das idades das pessoas viúvas;
 	 * • A porcentagem de pessoas divorciadas ou separadas que participaram da pesquisa.
