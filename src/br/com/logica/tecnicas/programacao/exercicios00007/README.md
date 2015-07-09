@@ -68,10 +68,14 @@ No final a situação do aluno será:
 Faça um programa que leia uma quantidade de alunos. Para cada aluno, leia a sua nota no trabalho T, a sua nota na prova G, e as notas em suas três provas. Seu programa deverá imprimir a porcentagem de alunos reprovados.</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio13.java "Exercício 13")</sub>
-<sub></sub>
+<sub>Uma determinada companhia aérea só contrata aeromoças que preencham os seguintes requisitos:  
+- Ter idade igual ou superior a 24 anos.  
+- Ter altura igual ou superior a 1.70 m.  
+- Falar com fluência 2 ou mais idiomas.  
+Escreva um programa que leia a idade, a altura e a quantidade de idiomas falados com fluência de uma candidata e imprima uma mensagem: “Tem as caracteristicas necessarias para ser uma aeromoça.”, se essa candidata atende aos requisitos da companhia aérea e “Não tem as caracteristicas necessarias para ser uma aeromoça.” caso contrário.</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio14.java "Exercício 14")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia dois valores inteiros e mostre uma mensagem na tela se o primeiro for divisível pelo segundo. Observação: A é divisível por B, somente se B!=0 e o resto da divisão de A por B é zero.</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio15.java "Exercício 15")</sub>
 <sub></sub>
