@@ -186,10 +186,16 @@ Exemplos:
 • Se digitado o número 25 deve aparecer na tela apenas o número 25.  </sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>Em geral, nas casas de espetáculos há enormes filas. Com o intuito de garantir a rápida entrada dos freqüentadores um dos seguranças recolhe as carteiras de identidade e outro segurança verifica pelo ano de nascimento se o pretenso freqüentador, poderá entrar ou não. Contudo, o segundo segurança demora muito para fazer a verificação. Por isso, você foi contratado para criar um programa que leia uma única vez: a idade mínima e o ano atual. Depois, o programa deverá permitir a leitura do ano de nascimento do freqüentador e informar se ela pode ou não entrar. Seu programa deverá parar quando um número inválido para o ano de nascimento for digitado. Por exemplo, se num determinado show a idade mínima é de 14 anos e o ano atual é 2009, então, as entradas abaixo informarão que:  
+1993 – Permitida  
+1996 – Não Permitida  
+1990 – Permitida  
+2010 ou -1 – O programa pára de ser executado.</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número inteiro n. Seu programa deve ler n números inteiros e positivos com 3 dígitos cada um.  
+Imprima a soma dos dígitos de cada um dos números ímpares lidos;  
+Imprima também a quantidade denúmeros divisíveis por 2.</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00006/Exercicicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Um aluno deseja saber qual a porcentagem de faltas que ele tem em cada disciplina. Ajude esse aluno fazendo um programa para que ele sempre possa calcular sua porcentagem de faltas. Para isso, escreva um programa que leia a carga horária da disciplina e a quantidade de faltas acumuladas, calcule a porcentagem e a imprima na tela.</sub>
