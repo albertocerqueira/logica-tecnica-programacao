@@ -93,19 +93,39 @@ Escreva um programa que leia a idade, a altura e a quantidade de idiomas falados
 <sub>Faça um algoritmo que receba um número e informe se ele é ou não divisível por sete.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio20.java "Exercício 20")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia dois números inteiros, calcule e mostre a média aritmética de todos os números desse intervalo fechado. Considere que o primeiro número lido sempre será menor que o segundo.  
+Exemplo 1: numero1 = 10 e numero2 = 18  
+media = (10+11+12+13+14+15+16+17+18) / 9  
+Exemplo 2: numero1 = 28 e numero2 = 33  
+media = (28+29+30+31+32+33) / 6</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio21.java "Exercício 21")</sub>
-<sub></sub>
+<sub>Faça um programa que leia um número inteiro positivo e mostre todos os números a partir dele até zero.  
+Exemplo 1: numero = 8  
+Mostrar 8 7 6 5 4 3 2 1 0  
+Exemplo 2: numero = 13  
+Mostrar 13 12 11 10 9 8 7 6 5 4 3 2 1 0</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio22.java "Exercício 22")</sub>
-<sub></sub>
+<sub>Faça um programa que leia um número inteiro positivo e mostre todos os números começando em  3 até esse número que são divisíveis por três.  
+Exemplo 1: numero = 20  
+Mostrar 3 6 9 12 15 18  
+Exemplo 2: numero = 30  
+Mostrar 3 6 9 12 15 18 21 24 27 30</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>Faça um programa que leia um número inteiro positivo e mostre os números a partir de 1 até esse número que são simultaneamente pares e divisíveis por 7.  
+Exemplo 1: número = 42  
+Mostrar 14 28 42  
+Exemplo 2: número = 100  
+Mostrar 14 28 42 56 70 84 98</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>Escreva um programa para calcular os valores de y, para as possibilidades a seguir:  
+• Variando x de 0 a 10 com incrementos de 2, ou seja, você deve calcular e mostrar na tela o valor y para x = 0, para x = 2, para x = 4 etc.  
+Sendo: y = 2*x</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Escreva um programa para calcular o valor y, para as possibilidades a seguir:  
+• Variando x de 15 a 5 com decrementos de 3, ou seja, você deve calcular e mostrar na tela o valor y para x = 15, para x = 12, para x = 9 etc.  
+Sendo: y = 3*x – 3</sub>
