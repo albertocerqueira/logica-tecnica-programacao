@@ -46,9 +46,9 @@ OBSERVAÇÃO: use a função int2vet() construída na parte A.</sub>
 
 ### <sub>[Exercício 09](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio09.java "Exercício 09")</sub>
 <sub>Construa um programa que contenha 3 funções: principal, soma e subtrai.
-•	principal é a main(): essa função contém um menu, que se o usuário digitar 1, a função soma() será chamada. Se a pessoa digitar 2, será chamada a função subtrai(), se a pessoa digitar 3, haverá a saída do programa.
-•	soma(): lê dois números reais, calcula e mostra a soma desses números;
-•	subtrai(): lê dois números reais, calcula e mostra a subtração do primeiro pelo segundo.</sub>  
+• principal é a main(): essa função contém um menu, que se o usuário digitar 1, a função soma() será chamada. Se a pessoa digitar 2, será chamada a função subtrai(), se a pessoa digitar 3, haverá a saída do programa.
+• soma(): lê dois números reais, calcula e mostra a soma desses números;
+• subtrai(): lê dois números reais, calcula e mostra a subtração do primeiro pelo segundo.</sub>  
 
 ### <sub>[Exercício 10](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio10.java "Exercício 10")</sub>
 <sub>Qualquer aluno na Metodista é considerado aprovado sem fazer a avaliação final se no decorrer do semestre ele obtiver média acima ou igual a 7.0 e houver freqüentado pelo menos 75% das aulas. Faça um programa que leia a média semestral de um aluno e sua freqüência, depois, mostre a situação do aluno através de uma das mensagens abaixo:  
@@ -69,9 +69,9 @@ Faça um programa que leia uma quantidade de alunos. Para cada aluno, leia a sua
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio13.java "Exercício 13")</sub>
 <sub>Uma determinada companhia aérea só contrata aeromoças que preencham os seguintes requisitos:  
-- Ter idade igual ou superior a 24 anos.  
-- Ter altura igual ou superior a 1.70 m.  
-- Falar com fluência 2 ou mais idiomas.  
+• Ter idade igual ou superior a 24 anos.  
+• Ter altura igual ou superior a 1.70 m.  
+• Falar com fluência 2 ou mais idiomas.  
 Escreva um programa que leia a idade, a altura e a quantidade de idiomas falados com fluência de uma candidata e imprima uma mensagem: “Tem as caracteristicas necessarias para ser uma aeromoça.”, se essa candidata atende aos requisitos da companhia aérea e “Não tem as caracteristicas necessarias para ser uma aeromoça.” caso contrário.</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio14.java "Exercício 14")</sub>
@@ -108,9 +108,13 @@ Mostrar 13 12 11 10 9 8 7 6 5 4 3 2 1 0</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio22.java "Exercício 22")</sub>
 <sub>Faça um programa que leia um número inteiro positivo e mostre todos os números começando em  3 até esse número que são divisíveis por três.  
-Exemplo 1: numero = 20  
+<br />
+Exemplo 1:  
+numero = 20  
 Mostrar 3 6 9 12 15 18  
-Exemplo 2: numero = 30  
+<br />
+Exemplo 2: 
+numero = 30  
 Mostrar 3 6 9 12 15 18 21 24 27 30</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio23.java "Exercício 23")</sub>
