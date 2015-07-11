@@ -22,7 +22,7 @@
 
 ### <sub>Observações:</sub>
 <ul>
-	<li><sub>As listas de exercícios não possui nenhum tipo de organizações ou nível, são separadas apenas pela quantidade de exercícios que contém em cada.</sub></li>
+	<li><sub>As listas de exercícios não possui nenhum tipo de organizações ou nível, são separadas apenas pela quantidade de exercícios que contém em cada lista.</sub></li>
 </ul>
 
 ### <sub>Contribuições</sub>
