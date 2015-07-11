@@ -1,5 +1,5 @@
-# LTP - Lista 00007
-Lista de exercícios
+### LTP - Lista 00007
+<sub>Lista de exercícios</sub>
 
 ### <sub>[Exercício 00](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio00.java "Exercício 00")</sub>
 <sub>Dados n e uma seqüência de n números inteiros, determinar o comprimento de um segmento crescente de comprimento máximo.

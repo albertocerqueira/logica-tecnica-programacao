@@ -1,5 +1,5 @@
-# LTP - Lista 00002
-Lista de exercícios
+### LTP - Lista 00002
+<sub>Lista de exercícios</sub>
 
 ### <sub>[Exercício 00](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00002/Exercicicio00.java "Exercício 00")</sub>
 <sub>Faca um programa que leia um caracter do teclado e forneça na tela uma mensagem associada a ele:

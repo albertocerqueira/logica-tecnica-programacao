@@ -1,5 +1,5 @@
-# LTP - Lista 00003
-Lista de exercícios
+### LTP - Lista 00003
+<sub>Lista de exercícios</sub>
 
 ### <sub>[Exercício 00](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00003/Exercicicio00.java "Exercício 00")</sub>
 <sub>Dado dois vetores, A (5 elementos) e B (8 elementos), faça um programa que imprima todos os elementos comuns aos dois vetores.</sub>

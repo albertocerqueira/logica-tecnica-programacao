@@ -1,5 +1,5 @@
-# LTP - Lista 00004
-Lista de exercícios
+### LTP - Lista 00004
+<sub>Lista de exercícios</sub>
 
 ### <sub>[Exercício 00](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00004/Exercicicio00.java "Exercício 00")</sub>
 <sub>Dizemos que um número natural e triângular se ele e produto de três numeros naturais consecutivos.
