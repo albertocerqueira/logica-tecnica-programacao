@@ -78,19 +78,19 @@ Escreva um programa que leia a idade, a altura e a quantidade de idiomas falados
 <sub>Escreva um programa que leia dois valores inteiros e mostre uma mensagem na tela se o primeiro for divisível pelo segundo. Observação: A é divisível por B, somente se B!=0 e o resto da divisão de A por B é zero.</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio15.java "Exercício 15")</sub>
-<sub></sub>
+<sub>Receba dois números pelo teclado, some os dois. Se o resultado for maior que 10 mostre a soma no vídeo.</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio16.java "Exercício 16")</sub>
-<sub></sub>
+<sub>Ler um número real e, se ele for maior do que 20, então imprimir a metade do número.</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio17.java "Exercício 17")</sub>
-<sub></sub>
+<sub>Fazer um algoritmo que leia dois valores numéricos e apresente a diferença do maior para o menor.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio18.java "Exercício 18")</sub>
-<sub></sub>
+<sub>Ler um número e dizer se ele é ou não múltiplo de três.</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio19.java "Exercício 19")</sub>
-<sub></sub>
+<sub>Faça um algoritmo que receba um número e informe se ele é ou não divisível por sete.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00007/Exercicicio20.java "Exercício 20")</sub>
 <sub></sub>
