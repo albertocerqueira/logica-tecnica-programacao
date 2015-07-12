@@ -50,7 +50,13 @@ Quadrado de 2: 4
 Quadrado de 1: 1</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio14.java "Exercício 14")</sub>
-<sub></sub>
+<sub>Escrever um algoritmo que leia um número inteiro n e calcule a tabuada de 1 até n. Mostre a tabuada na forma:  
+0 x n = 0  
+1 x n = n  
+2 x n = 2 * n  
+3 x n = 3 * n  
+...   
+n x n = n * n</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio15.java "Exercício 15")</sub>
 <sub></sub>
