@@ -59,13 +59,36 @@ Quadrado de 1: 1</sub>
 n x n = n * n</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio15.java "Exercício 15")</sub>
-<sub></sub>
+<sub>Em um campeonato de futebol cada time tem uma lista oficial de 23 jogadores. Cada time prepara uma relação contendo a idade de cada um de seus jogadores. Escreva um programa que leia os dados referentes à idade de cada jogador de apenas um time de futebol e permita obter as seguintes informações:  
+- A idade média do time;  
+- A maior e a menor idade entre os jogadores desse time;  
+- A porcentagem de jogadores com idade superior ou igual a 25 anos.</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio16.java "Exercício 16")</sub>
-<sub></sub>
+<sub> Escreva um programa que leia a quantidade de alunos de uma turma. Para cada aluno desta turma deve ser lida a nota da primeira prova em uma disciplina, e também lida a média da turma. Depois seu programa deve calcular e imprimir na tela, para cada aluno, a diferença entre a nota da primeira prova e a média da turma.  
+Obs. Diferença = primeira_nota – media</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio17.java "Exercício 17")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia a quantidade de alunos de uma turma. Para cada aluno desta turma deve ser lida a nota P1 e a nota P2, calculada sua média e impressa uma mensagem segundo a fórmula abaixo:  
+P = ((P1 x 2) + (P2 x 3)) / 5</sub>
+<table>
+	<tr>
+        <td><sub>Valor da Média P</sub></td>
+        <td><sub>Situação</sub></td>
+    </tr>
+    <tr>
+        <td><sub>P < 4</sub></td>
+        <td><sub>reprovado</sub></td>
+    </tr>
+    <tr>
+        <td><sub>4 ≤ P < 7</sub></td>
+        <td><sub>recuperação</sub></td>
+    </tr>
+    <tr>
+        <td><sub>P ≥ 7</sub></td>
+        <td><sub>aprovado</sub></td>
+    </tr>
+</table>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio18.java "Exercício 18")</sub>
 <sub></sub>

@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicicio14 {
 
 	public static void main(String[] args) {
-		Exercicicio14 exe13 = new Exercicicio14();
-		exe13.imprimirQuadradoDeNumeros();
+		Exercicicio14 exe14 = new Exercicicio14();
+		exe14.imprimirTabuada();
 	}
 	
 	/**
@@ -24,7 +24,7 @@ public class Exercicicio14 {
 	 * ... 
 	 * n x n = n * n
 	 */
-	public void imprimirQuadradoDeNumeros() {
+	public void imprimirTabuada() {
 		Integer n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));
 		
 		for (int x = 0; x <= n; x++) {
