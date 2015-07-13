@@ -60,9 +60,9 @@ n x n = n * n</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio15.java "Exercício 15")</sub>
 <sub>Em um campeonato de futebol cada time tem uma lista oficial de 23 jogadores. Cada time prepara uma relação contendo a idade de cada um de seus jogadores. Escreva um programa que leia os dados referentes à idade de cada jogador de apenas um time de futebol e permita obter as seguintes informações:  
-- A idade média do time;  
-- A maior e a menor idade entre os jogadores desse time;  
-- A porcentagem de jogadores com idade superior ou igual a 25 anos.</sub>
+• A idade média do time;  
+• A maior e a menor idade entre os jogadores desse time;  
+• A porcentagem de jogadores com idade superior ou igual a 25 anos.</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio16.java "Exercício 16")</sub>
 <sub> Escreva um programa que leia a quantidade de alunos de uma turma. Para cada aluno desta turma deve ser lida a nota da primeira prova em uma disciplina, e também lida a média da turma. Depois seu programa deve calcular e imprimir na tela, para cada aluno, a diferença entre a nota da primeira prova e a média da turma.  
