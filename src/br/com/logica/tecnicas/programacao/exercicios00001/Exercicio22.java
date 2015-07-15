@@ -7,25 +7,21 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/10
  */
-public class Exercicicio23 {
+public class Exercicio22 {
 
 	public static void main(String[] args) {
-		Exercicicio23 exe23 = new Exercicicio23();
-		exe23.digitandoCaracteres();
+		Exercicio22 exe22 = new Exercicio22();
+		exe22.digitandoCaracteres();
 	}
 
 	/**
-	 * Reescreva o problema br.com.logica.tecnicas.programacao.exercicios00001.Exercicicio22 mostrando quantos caracteres foram digitados antes do 
-	 * caractere '%'.
+	 * Escreva um programa que leia caracteres e só pare quando o caractere '%' for digitado. Lembre-se qualquer símbolo produzido no teclado
+	 * corresponde a um caractere.
 	 */
 	public void digitandoCaracteres() {
 		String a = "";
-		int q = 0;
 		do {
 			a = JOptionPane.showInputDialog("Digite qualquer coisa e % para sair:");
-			q += a.length();
 		} while (!a.equals("%"));
-		
-		System.out.println("Foram digitado " + (q - 1) + " caracteres.");
 	}
 }

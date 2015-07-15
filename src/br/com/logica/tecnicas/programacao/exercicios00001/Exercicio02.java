@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00001;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/14
  */
-public class Exercicicio02 {
+public class Exercicio02 {
 
 	public static void main(String[] args) {
-		Exercicicio02 exe02 = new Exercicicio02();
+		Exercicio02 exe02 = new Exercicio02();
 		exe02.somaDivisores(13);
 	}
 	

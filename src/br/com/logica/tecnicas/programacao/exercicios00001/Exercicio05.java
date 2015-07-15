@@ -7,10 +7,10 @@ import java.util.Random;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/14
  */
-public class Exercicicio05 {
+public class Exercicio05 {
 
 	public static void main(String[] args) {
-		Exercicicio05 exe05 = new Exercicicio05();
+		Exercicio05 exe05 = new Exercicio05();
 		exe05.produtoEscalar(50);
 	}
 	

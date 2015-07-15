@@ -7,10 +7,10 @@ import br.com.logica.tecnicas.programacao.extras.Caracteres;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/10
  */
-public class Exercicicio20 {
+public class Exercicio20 {
 
 	public static void main(String[] args) {
-		Exercicicio20 exe20 = new Exercicicio20();
+		Exercicio20 exe20 = new Exercicio20();
 		exe20.verificarCaracteresDaFrase("Alberto Cerqueira", 25);
 	}
 

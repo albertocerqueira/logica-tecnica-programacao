@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/08
  */
-public class Exercicicio15 {
+public class Exercicio15 {
 
 	public static void main(String[] args) {
-		Exercicicio15 exe14 = new Exercicicio15();
+		Exercicio15 exe14 = new Exercicio15();
 		exe14.verificarNumeroDaSoma();
 	}
 	
