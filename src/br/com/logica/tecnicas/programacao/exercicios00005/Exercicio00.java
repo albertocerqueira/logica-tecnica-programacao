@@ -7,21 +7,26 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/21
  */
-public class Exercicicio08 {
+public class Exercicio00 {
 
 	public static void main(String[] args) {
-		Exercicicio08 exe08 = new Exercicicio08();
-		exe08.imprimirIntervaloDeNumeros();
+		Exercicio00 exe00 = new Exercicio00();
+		exe00.somaDosModulos();
 	}
 	
 	/**
-	 * Faça um programa que leia dois números M e N e escreva todos os inteiros entre eles. 
+	 * Faça um programa que leia dois números inteiros quaisquer, calcule a soma do módulo desses números. Pode-se pedir também o módulo da soma. 
 	 */
-	public void imprimirIntervaloDeNumeros() {
+	public void somaDosModulos() {
 		int n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro n\u00famero:"));
 		int n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo n\u00famero:"));
-		for (int i = (n1 + 1); i < n2; i++) {
-			System.out.print(i + " ");
+		
+		if (n1 < 0) {
+			n1 = n1 * (-1);
 		}
+		if (n2 < 0) {
+			n2 = n2 * (-1);
+		}
+		System.out.println("A soma do modulo \u00e9 " + (n1 + n2) + ".");
 	}
 }
