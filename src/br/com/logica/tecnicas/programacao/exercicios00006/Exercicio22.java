@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/07/08
  */
-public class Exercicicio22 {
+public class Exercicio22 {
 
 	public static void main(String[] args) {
-		Exercicicio22 exe22 = new Exercicicio22();
+		Exercicio22 exe22 = new Exercicio22();
 		exe22.verificarNumeroDeDoisDigitos();
 	}
 	

@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/07/06
  */
-public class Exercicicio16 {
+public class Exercicio16 {
 
 	public static void main(String[] args) {
-		Exercicicio16 exe16 = new Exercicicio16();
+		Exercicio16 exe16 = new Exercicio16();
 		exe16.calculandoValorDoIMC();
 	}
 	
