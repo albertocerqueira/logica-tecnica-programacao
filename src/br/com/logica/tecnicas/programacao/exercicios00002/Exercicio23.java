@@ -7,10 +7,10 @@ import br.com.logica.tecnicas.programacao.extras.RandomUtils;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/13
  */
-public class Exercicicio23 {
+public class Exercicio23 {
 
 	public static void main(String[] args) {
-		Exercicicio23 exe23 = new Exercicicio23();
+		Exercicio23 exe23 = new Exercicio23();
 		exe23.somarNumerosDoVetor();
 	}
 

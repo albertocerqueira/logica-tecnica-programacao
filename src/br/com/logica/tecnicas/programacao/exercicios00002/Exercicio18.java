@@ -7,18 +7,18 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/13
  */
-public class Exercicicio19 {
+public class Exercicio18 {
 
 	public static void main(String[] args) {
-		Exercicicio19 exe19 = new Exercicicio19();
-		exe19.imprimirNumeros();
+		Exercicio18 exe18 = new Exercicio18();
+		exe18.imprimirIndicesPares();
 	}
 
 	/**
-	 * Faça um programa que leia 30 valores inteiros para um vetor A, e em seguida construa um vetor P formado pelos elementos pares de A.
-	 * Exemplo: Se A = {1, 3, 6, 7, 8, 10}, então, P = {6, 8, 10}.
+	 * Faça um programa que leia 30 valores inteiros para um vetor A, e em seguida construa um vetor P formado pelos índices dos elementos pares de A.
+	 * Exemplo: Se A = {1, 3, 6, 7, 8, 10}, então, P = {2, 4, 5}.
 	 */
-	public void imprimirNumeros() {
+	public void imprimirIndicesPares() {
 		int qn = 30, c = 0, t = 0;
 		int[] a = new int[qn];
 		for (int x = 0; x < qn; x++) {
@@ -34,11 +34,11 @@ public class Exercicicio19 {
 		for (int x = 0; x < qn; x++) {
 			int n = a[x];
 			if (n % 2 == 0) {
-				p[--c] = a[x];
+				p[--c] = x;
 			}
 		}
 		
-		System.out.println("Elementos pares: ");
+		System.out.println("\u00cdndices de n\u00fameros pares: ");
 		for (int x = 0; x < t; x++) {
 			System.out.println(p[x]);
 		}

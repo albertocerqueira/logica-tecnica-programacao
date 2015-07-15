@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/13
  */
-public class Exercicicio14 {
+public class Exercicio14 {
 
 	public static void main(String[] args) {
-		Exercicicio14 exe14 = new Exercicicio14();
+		Exercicio14 exe14 = new Exercicio14();
 		exe14.somarNumeros();
 	}
 
