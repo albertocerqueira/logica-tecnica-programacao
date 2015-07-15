@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00008;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/04
  */
-public class Exercicicio04 {
+public class Exercicio04 {
 
 	public static void main(String[] args) {
-		Exercicicio04 exe04 = new Exercicicio04();
+		Exercicio04 exe04 = new Exercicio04();
 		exe04.verificarMediaDaSala(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
 	}
 	

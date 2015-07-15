@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00008;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/04
  */
-public class Exercicicio05 {
+public class Exercicio05 {
 
 	public static void main(String[] args) {
-		Exercicicio05 exe05 = new Exercicicio05();
+		Exercicio05 exe05 = new Exercicio05();
 		exe05.verificarTemperaturas(new int[]{10, 15, 16, 20, 18});
 	}
 	

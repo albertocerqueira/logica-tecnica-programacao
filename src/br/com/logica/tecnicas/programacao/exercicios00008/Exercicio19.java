@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/07/13
  */
-public class Exercicicio19 {
+public class Exercicio19 {
 
 	public static void main(String[] args) {
-		Exercicicio19 exe19 = new Exercicicio19();
+		Exercicio19 exe19 = new Exercicio19();
 		exe19.calcularNumerosComTresDigitos();
 	}
 	

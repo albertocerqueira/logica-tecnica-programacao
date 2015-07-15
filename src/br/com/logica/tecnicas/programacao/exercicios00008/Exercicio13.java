@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00008;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/07/12
  */
-public class Exercicicio13 {
+public class Exercicio13 {
 
 	public static void main(String[] args) {
-		Exercicicio13 exe13 = new Exercicicio13();
+		Exercicio13 exe13 = new Exercicio13();
 		exe13.imprimirQuadradoDeNumeros();
 	}
 	
