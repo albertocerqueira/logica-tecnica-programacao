@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00003;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/17
  */
-public class Exercicicio03 {
+public class Exercicio03 {
 
 	public static void main(String[] args) {
-		Exercicicio03 exe03 = new Exercicicio03();
+		Exercicio03 exe03 = new Exercicio03();
 		exe03.imprimirSequenciaImpar(5);
 	}
 	

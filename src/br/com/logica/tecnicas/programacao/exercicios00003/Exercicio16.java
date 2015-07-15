@@ -7,10 +7,10 @@ import br.com.logica.tecnicas.programacao.extras.RandomUtils;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/17
  */
-public class Exercicicio16 {
+public class Exercicio16 {
 
 	public static void main(String[] args) {
-		Exercicicio16 exe16 = new Exercicicio16();
+		Exercicio16 exe16 = new Exercicio16();
 		exe16.verificarPromocaoFilmes();
 	}
 

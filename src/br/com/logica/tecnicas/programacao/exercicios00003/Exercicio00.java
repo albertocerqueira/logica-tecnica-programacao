@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00003;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/14
  */
-public class Exercicicio00 {
+public class Exercicio00 {
 
 	public static void main(String[] args) {
-		Exercicicio00 exe00 = new Exercicicio00();
+		Exercicio00 exe00 = new Exercicio00();
 		exe00.verificarVetores(new Integer[]{1, 2, 3, 4, 5}, new Integer[]{1, 2, 3, 4, 5, 6, 7, 8});
 	}
 	
