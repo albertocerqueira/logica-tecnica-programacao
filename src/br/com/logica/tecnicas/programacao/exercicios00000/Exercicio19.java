@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00000;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/05/30
  */
-public class Exercicicio19 {
+public class Exercicio19 {
 
 	public static void main(String[] args) {
-		Exercicicio19 exe19 = new Exercicicio19();
+		Exercicio19 exe19 = new Exercicio19();
 		exe19.acharMaiorMenorTemperatura(new int[]{8, 20, 30, 50, 40, 20, -10}, 4);
 		System.out.println();
 		exe19.acharMaiorMenorTemperatura(new int[]{-5, -12, 0, 6}, 2);

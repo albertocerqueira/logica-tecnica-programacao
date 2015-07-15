@@ -7,10 +7,10 @@ import javax.swing.JOptionPane;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/09
  */
-public class Exercicicio01 {
+public class Exercicio01 {
 
 	public static void main(String[] args) {
-		Exercicicio01 exe01 = new Exercicicio01();
+		Exercicio01 exe01 = new Exercicio01();
 		exe01.pesquisaSalarialProfessores();
 	}
 	
