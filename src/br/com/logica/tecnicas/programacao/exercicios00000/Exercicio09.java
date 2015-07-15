@@ -13,7 +13,7 @@ public class Exercicio09 {
 	}
 	
 	/**
-	 * Com a experiência do exercício br.com.logica.tecnicas.programacao.exercicios00000.Exercicicio00, agora faça um programa que leia 
+	 * Com a experiência do exercício br.com.logica.tecnicas.programacao.exercicios00000.Exercicio00, agora faça um programa que leia 
 	 * obrigatoriamente um número par que representa a quantidade de linha/coluna da matriz e que gere e imprima a matriz.
 	 */
 	public void carregarMatriz(int par) {

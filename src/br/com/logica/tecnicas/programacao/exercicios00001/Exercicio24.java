@@ -15,7 +15,7 @@ public class Exercicio24 {
 	}
 
 	/**
-	 * Reescreva o problema br.com.logica.tecnicas.programacao.exercicios00001.Exercicicio22 para que mostre a contagem de caracteres durante a
+	 * Reescreva o problema br.com.logica.tecnicas.programacao.exercicios00001.Exercicio22 para que mostre a contagem de caracteres durante a
 	 * execução do programa.
 	 */
 	public void digitandoCaracteres() {

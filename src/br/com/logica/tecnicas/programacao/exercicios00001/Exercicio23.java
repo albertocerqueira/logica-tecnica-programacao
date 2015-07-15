@@ -15,7 +15,7 @@ public class Exercicio23 {
 	}
 
 	/**
-	 * Reescreva o problema br.com.logica.tecnicas.programacao.exercicios00001.Exercicicio22 mostrando quantos caracteres foram digitados antes do 
+	 * Reescreva o problema br.com.logica.tecnicas.programacao.exercicios00001.Exercicio22 mostrando quantos caracteres foram digitados antes do 
 	 * caractere '%'.
 	 */
 	public void digitandoCaracteres() {

@@ -1,9 +1,9 @@
 package br.com.logica.tecnicas.programacao.exercicios00010;
 
-public class Exercicicio07 {
+public class Exercicio07 {
 
 	public static void main(String[] args) {
-		Exercicicio07 exe07 = new Exercicicio07();
+		Exercicio07 exe07 = new Exercicio07();
 		exe07.arredondar();
 	}
 
@@ -46,7 +46,7 @@ public class Exercicicio07 {
 	
 	/*
 	public static void main(String[] args) {
-		Exercicicio07 exe07 = new Exercicicio07();
+		Exercicio07 exe07 = new Exercicio07();
 		System.out.println(10*10*10);
 		System.out.println(exe07.elevado(10, 3));
 		System.out.println(6*6*6*6);

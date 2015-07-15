@@ -9,10 +9,10 @@ import br.com.logica.tecnicas.programacao.extras.RandomUtils;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/06
  */
-public class Exercicicio02 {
+public class Exercicio02 {
 
 	public static void main(String[] args) {
-		Exercicicio02 exe02 = new Exercicicio02();
+		Exercicio02 exe02 = new Exercicio02();
 		exe02.procurarNumeroAleatorio();
 	}
 	

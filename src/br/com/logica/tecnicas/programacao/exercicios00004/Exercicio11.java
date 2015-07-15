@@ -15,7 +15,7 @@ public class Exercicio11 {
 	}
 
 	/**
-	 * Modifique o exercício br.com.logica.tecnicas.programacao.exercicios00004.Exercicicio10 para calcular as porcentagens de notas ótimo, bom e
+	 * Modifique o exercício br.com.logica.tecnicas.programacao.exercicios00004.Exercicio10 para calcular as porcentagens de notas ótimo, bom e
 	 * ruim, mostre os valores e indique qual foi a opinião do público.
 	 */
 	public void pesquisaDeQualidade() {

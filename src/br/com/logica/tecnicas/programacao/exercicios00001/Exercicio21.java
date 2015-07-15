@@ -17,7 +17,7 @@ public class Exercicio21 {
 	}
 
 	/**
-	 * No exercício br.com.logica.tecnicas.programacao.exercicios00001.Exercicicio17, você obrigou o usuário a digitar um número positivo antes de
+	 * No exercício br.com.logica.tecnicas.programacao.exercicios00001.Exercicio17, você obrigou o usuário a digitar um número positivo antes de
 	 * lhe mostrar a raiz quadrada do número digitado, modifique o programa para que este permita ler até 20 números reais e mostre a raiz quadrada.
 	 * Se por algum acaso o usuário digitar um número negativo, o programa deverá mostrar a mensagem "Abortando o programa" e sair imediatamente
 	 * para o sistema.

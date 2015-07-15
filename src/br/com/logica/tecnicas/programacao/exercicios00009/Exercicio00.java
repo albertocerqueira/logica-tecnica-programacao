@@ -7,10 +7,10 @@ import br.com.logica.tecnicas.programacao.extras.RandomUtils;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/04/06
  */
-public class Exercicicio00 {
+public class Exercicio00 {
 
 	public static void main(String[] args) {
-		Exercicicio00 exe00 = new Exercicicio00();
+		Exercicio00 exe00 = new Exercicio00();
 		exe00.imprimirNumerosAleatorios();
 	}
 	

@@ -1,9 +1,9 @@
 package br.com.logica.tecnicas.programacao.exercicios00010;
 
-public class Exercicicio04 {
+public class Exercicio04 {
 
 	public static void main(String[] args) {
-		Exercicicio04 exe04 = new Exercicicio04();
+		Exercicio04 exe04 = new Exercicio04();
 		exe04.multiplicarComSoma(34, 5);
 	}
 
