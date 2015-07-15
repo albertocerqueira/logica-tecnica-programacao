@@ -91,10 +91,14 @@ P = ((P1 x 2) + (P2 x 3)) / 5</sub>
 </table>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio18.java "Exercício 18")</sub>
-<sub></sub>
+<sub>Escreva um programa que permita ao usuário digitar dois números inteiros n1 e n2, e calcule a média aritmética dos números inteiros entre n1 e n2 (incluindo ambos). A média aritmética deve ser calculada mesmo se o valor de n2 for menor que o de n1.  
+OBS: Verifique qual dos dois números digitados é maior.  
+Exemplo: Para uma pessoa digitando os números 20 e 11, o resultado deverá ser 15.5, pois é o resultado da soma de 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 dividido pela quantidade de números no intervalo, neste caso, 155/10.</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio19.java "Exercício 19")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número inteiro n. Seu programa deve ler n números inteiros e positivos com 3 dígitos cada um.  
+• Imprima a soma dos dígitos de cada um dos números ímpares lidos;
+• Imprima também a quantidade de números divisíveis por 2.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicicio20.java "Exercício 20")</sub>
 <sub></sub>
