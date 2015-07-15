@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00004;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/03/18
  */
-public class Exercicicio07 {
+public class Exercicio07 {
 
 	public static void main(String[] args) {
-		Exercicicio07 exe07 = new Exercicicio07();
+		Exercicio07 exe07 = new Exercicio07();
 		exe07.converterParaBaseDecimal(10010);
 	}
 

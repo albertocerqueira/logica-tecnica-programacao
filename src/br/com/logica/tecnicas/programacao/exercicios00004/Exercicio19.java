@@ -5,10 +5,10 @@ package br.com.logica.tecnicas.programacao.exercicios00004;
  * @email alberto.cerqueira1990@gmail.com
  * @date 2015/06/25
  */
-public class Exercicicio19 {
+public class Exercicio19 {
 
 	public static void main(String[] args) {
-		Exercicicio19 exe19 = new Exercicicio19();
+		Exercicio19 exe19 = new Exercicio19();
 		exe19.imprimirUltimoDigito();
 	}
 
