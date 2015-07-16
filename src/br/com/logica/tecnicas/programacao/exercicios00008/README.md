@@ -101,7 +101,9 @@ Exemplo: Para uma pessoa digitando os números 20 e 11, o resultado deverá ser 
 • Imprima também a quantidade de números divisíveis por 2.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio20.java "Exercício 20")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia dois números inteiros positivos e calcule quantas vezes o primeiro número cabe no segundo sem utilizar as operações de divisão ou resto da divisão. Considere que o primeiro número sempre será menor que o segundo.  
+Exemplo: numero 1 = 8 e numero 2 = 60  
+Considerando que os números divisíveis por 8 até o 60 são: 8, 16, 24, 32, 40, 48, 54 . A resposta é: cabe 7 vezes</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio21.java "Exercício 21")</sub>
 <sub></sub>
