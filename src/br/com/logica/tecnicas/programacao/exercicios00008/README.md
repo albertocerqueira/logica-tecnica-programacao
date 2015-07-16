@@ -106,10 +106,27 @@ Exemplo: numero 1 = 8 e numero 2 = 60
 Considerando que os números divisíveis por 8 até o 60 são: 8, 16, 24, 32, 40, 48, 54 . A resposta é: cabe 7 vezes</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio21.java "Exercício 21")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número inteiro, calcule e mostre a tabuada desse número de 1 até o número lido. Mostre a tabuada no formato do exemplo abaixo.  
+Exemplos:  
+<br />
+numero = 5  
+1 x 5 = 5  
+2 x 5 = 10  
+3 x 5 = 15  
+4 x 5 = 20  
+5 x 5 = 25  
+<br />
+numero = 7  
+1 x 7 = 7  
+2 x 7 = 14  
+3 x 7 = 21  
+4 x 7 = 28  
+5 x 7 = 35  
+6 x 7 = 42  
+7 x 7 = 49</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio22.java "Exercício 22")</sub>
-<sub></sub>
+<sub>Faça um programa que gere uma tabela de conversão de graus Farenheit para graus Centígrados, contando de 1 em 1 grau Farenheit. A fórmula de conversão é C = 5/9*(F-32). O programa deverá receber o valor inicial e final de graus Farenheit para a geração da tabela. Considere que sempre o valor inicial será menor que o valor final.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio23.java "Exercício 23")</sub>
 <sub></sub>
