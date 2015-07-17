@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
- * @date 2015/07/15
+ * @date 2015/07/16
  */
 public class Exercicio23 {
 

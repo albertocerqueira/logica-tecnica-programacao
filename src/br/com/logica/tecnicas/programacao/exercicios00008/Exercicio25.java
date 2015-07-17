@@ -7,13 +7,10 @@ import br.com.logica.tecnicas.programacao.extras.Expondecial;
 /**
  * @author Alberto Cerqueira
  * @email alberto.cerqueira1990@gmail.com
- * @date 2015/07/15
+ * @date 2015/07/16
  */
 public class Exercicio25 {
 
-	public static void main1(String[] args) {
-		System.out.println(999 % 10);
-	}
 	public static void main(String[] args) {
 		Exercicio25 exe25 = new Exercicio25();
 		exe25.numeroInvertido();
