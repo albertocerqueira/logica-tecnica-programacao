@@ -129,10 +129,17 @@ numero = 7
 <sub>Faça um programa que gere uma tabela de conversão de graus Farenheit para graus Centígrados, contando de 1 em 1 grau Farenheit. A fórmula de conversão é C = 5/9*(F-32). O programa deverá receber o valor inicial e final de graus Farenheit para a geração da tabela. Considere que sempre o valor inicial será menor que o valor final.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>A cidade de Imperatriz tem um aumento populacional de 1% ao ano. Já a cidade de Codó tem um crescimento populacional de 4% ao ano. Considerando que esse crescimento vai se manter o mesmo e que a cidade de Codó tem uma população menor que Imperatriz, escreva um programa que permita digitar a população atual das duas cidades e calcule quantos anos a população de Codó vai demorar para ultrapassar a população de Imperatriz.</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>A divisão entre dois números pode ser simulada utilizando a subtração. Faça um programa para ler dois números inteiros e encontrar a parte inteira do resultado da divisão do primeiro pelo segundo utilizando apenas subtração.  
+Exemplo:  
+números lidos: 25 e 4 (25/4=6,25, logo parte inteira = 6)  
+resolução: 25-4=21, 21-4=17, 17-4=13, 13-4=9, 9-4-5, 5-4=1 (número de subtrações = 6, logo parte inteira = 6)</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00008/Exercicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Faça um programa capaz de ler um número inteiro depois criar um novo número que deverá ser o número invertido.  
+Exemplos:  
+• 23 invertido é 32  
+• 451 invertido é 154  
+• 25874 invertido é 47852</sub>
