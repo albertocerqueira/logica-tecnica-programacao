@@ -46,10 +46,19 @@ Série de Fibonacci = 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</sub>
 <sub>Faça um programa para contar quantos números são gerados aleatoriamente até que um valor igual ao informado pelo usuário tenha sido gerado. O usuário irá digitar um valor entre 1 e 5000 e o programa deverá gerar valores nesse intervalo enquanto não acertar o número digitado. Quando acertar, o programa deve informar quantos números foram gerados aleatoriamente.</sub>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio12.java "Exercício 12")</sub>
-<sub></sub>
+<sub>Sabe-se que a cultura de uma certa bactéria dobra seu volume a cada dia. Faça um programa que lê o volume inicial e o volume atual da bactéria, calcula e mostra quantos dias tem essa cultura.</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio13.java "Exercício 13")</sub>
-<sub></sub>
+<sub>Um número inteiro positivo entre 0 e 255 pode ser facilmente convertido para binário de 8 bits, conforme exemplo abaixo do próximo slide. Analise a figura, encontre o algoritmo e escreva um programa capaz de ler um valor inteiro maior que zero e convertê-lo para binário.  
+103 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;1	51 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1	25 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1	12 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0	6 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0	3 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1	1 / 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1	0  
+103 decimal = 1100111</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio14.java "Exercício 14")</sub>
 <sub></sub>
