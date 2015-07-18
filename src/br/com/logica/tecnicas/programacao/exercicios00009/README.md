@@ -72,10 +72,10 @@ Obs: é igual a, decrementar significa diminuir e incrementar significa somar.</
 <sub>Apresentar o total da soma obtida dos cem primeiros números naturais (1, 2, 3, 4, 5, ...100).</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio16.java "Exercício 16")</sub>
-<sub></sub>
+<sub>Elaborar um programa que apresente como resultado o valor de uma potência de uma base qualquer real elevada a um expoente inteiro qualquer, ou seja B^e, em que B é o valor da base e e o valor do expoente. Lembrar que o resultado de um número qualquer elevado a zero é igual à 1.</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio17.java "Exercício 17")</sub>
-<sub></sub>
+<sub>Escreva um programa que calcule e apresente na tela a área de cada círculo através da fórmula A = PI * R * R, onde R (o valor que deverá ser digitado pelo usuário) representa o raio do círculo e PI o número 3,14. Repetir o processo enquanto R maior que 0.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio18.java "Exercício 18")</sub>
 <sub></sub>
