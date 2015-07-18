@@ -38,9 +38,9 @@ c.	O valor total vendido no ano;</sub>
 <sub>Escreva um programa que mostre a série de Fibonacci até um valor digitado pelo usuário. Na série de Fibonacci, por definição, o primeiro termo e o segundo valem ambos 1. Do terceiro termo em diante, o novo elemento da seqüência é gerado a partir da soma dos dois elementos anteriores.  
 Exemplos:  
 • Número digitado = 45  
-Série de Fibonacci = 1, 1, 2, 3, 5, 8, 13, 21, 34  
+&nbsp;&nbsp;&nbsp;&nbsp;Série de Fibonacci = 1, 1, 2, 3, 5, 8, 13, 21, 34  
 • Número digitado = 200  
-Série de Fibonacci = 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;Série de Fibonacci = 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</sub>
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio11.java "Exercício 11")</sub>
 <sub>Faça um programa para contar quantos números são gerados aleatoriamente até que um valor igual ao informado pelo usuário tenha sido gerado. O usuário irá digitar um valor entre 1 e 5000 e o programa deverá gerar valores nesse intervalo enquanto não acertar o número digitado. Quando acertar, o programa deve informar quantos números foram gerados aleatoriamente.</sub>
