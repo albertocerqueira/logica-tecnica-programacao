@@ -61,10 +61,15 @@ Exemplos:
 103 decimal = 1100111</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio14.java "Exercício 14")</sub>
-<sub></sub>
+<sub>Escreva um programa para calcular o valor z, para as possibilidades a seguir:  
+• variando x de 0.5 a 4.5 com incrementos de 0.5;  
+• variando x de 1 a 5 com incrementos de 1;  
+• variando x de 11 a 5 com decrementos de 2.  
+Sendo: z = 3x² + 1x + 10  
+Obs: é igual a, decrementar significa diminuir e incrementar significa somar.</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio15.java "Exercício 15")</sub>
-<sub></sub>
+<sub>Apresentar o total da soma obtida dos cem primeiros números naturais (1, 2, 3, 4, 5, ...100).</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio16.java "Exercício 16")</sub>
 <sub></sub>
