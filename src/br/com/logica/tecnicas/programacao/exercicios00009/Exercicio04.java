@@ -15,7 +15,7 @@ public class Exercicio04 {
 	}
 	
 	/**
-	 * Escreva um programa que armazene 15 números inteiros gerados aleatoriamente em um vetor. Imprima o vetor construído
+	 * Escreva um programa que armazene 15 números inteiros gerados aleatoriamente em um vetor. Imprima o vetor construído.
 	 */
 	public void imprimirNumerosAleatorios() {
 		int[] ns = RandomUtils.gerarNumerosAleatorios(15, 0, 999);// Apenas encapsulando a criação de números aleatórios.

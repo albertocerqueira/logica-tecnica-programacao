@@ -16,7 +16,7 @@ public class Exercicio05 {
 	
 	/**
 	 * Escreva um programa que armazene 16 números em um vetor. Em seguida construa um outro vetor de 8 elementos que será formado da seguinte 
-	 * maneira:
+	 * maneira.
 	 */
 	public void imprimirSomaNumerosAleatorios() {
 		int[] ns = RandomUtils.gerarNumerosAleatorios(16, 0, 999);// Apenas encapsulando a criação de números aleatórios.

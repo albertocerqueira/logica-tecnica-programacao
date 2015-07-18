@@ -18,7 +18,7 @@ public class Exercicio07 {
 	 * Um vetor é dito palíndromo se ele não se altera quando as posições da componente são invertidas. Por exemplo, o vetor v={1,3,5,2,2,5,3,1} é 
 	 * palíndromo. Escreva um programa que leia um número inteiro N (representando uma quantidade) e depois leia os N elementos armazenand os em um 
 	 * vetor, depois você deve verificar se o vetor é palíndromo. Caso a característica seja confirmada imprima a mensagem que o “vetor palíndromo”
-	 * e se não for imprima “vetor não é palíndromo” . 
+	 * e se não for imprima “vetor não é palíndromo”.
 	 */
 	public void verificarVetorPalindromo() {
 		int q = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer:"));

@@ -19,7 +19,7 @@ public class Exercicio02 {
 	/**
 	 * Escreva um programa que armazene em um vetor números entre 1 e 50. Depois o programa deve permitir que o usuário digite um valor e pesquisar 
 	 * no vetor se o número digitado existe. Caso o número exista deve ser impresso na tela a posição em que se encontra. Caso o número não exista 
-	 * de ser impresso na tela uma mensagem informando que o número não existe no vetor
+	 * de ser impresso na tela uma mensagem informando que o número não existe no vetor.
 	 */
 	public void procurarNumeroAleatorio() {
 		int[] ns = RandomUtils.gerarNumerosAleatorios(50, 1, 50);// Apenas encapsulando a criação de números aleatórios.
