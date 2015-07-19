@@ -78,10 +78,10 @@ Obs: é igual a, decrementar significa diminuir e incrementar significa somar.</
 <sub>Escreva um programa que calcule e apresente na tela a área de cada círculo através da fórmula A = PI * R * R, onde R (o valor que deverá ser digitado pelo usuário) representa o raio do círculo e PI o número 3,14. Repetir o processo enquanto R maior que 0.</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio18.java "Exercício 18")</sub>
-<sub></sub>
+<sub>Faça um programa que leia uma quantidade indeterminada de valores digitados pelo usuário, conte e apresente na tela ao final do processo a quantidade de números digitados. O programa deve repetir o procedimento enquanto forem digitados números positivos ou iguais a zero.</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio19.java "Exercício 19")</sub>
-<sub></sub>
+<sub>Faça um programa na que calcule a média dos números digitados pelo usuário. Encerre a leitura se o usuário digitar zero (0).</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio20.java "Exercício 20")</sub>
 <sub></sub>
