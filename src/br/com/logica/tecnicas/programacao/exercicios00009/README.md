@@ -84,13 +84,13 @@ Obs: é igual a, decrementar significa diminuir e incrementar significa somar.</
 <sub>Faça um programa na que calcule a média dos números digitados pelo usuário. Encerre a leitura se o usuário digitar zero (0).</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio20.java "Exercício 20")</sub>
-<sub></sub>
+<sub>Chico tem 1,50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1,10 metro e cresce 3 centímetros por ano. Construa um programa que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio21.java "Exercício 21")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número indeterminado de notas entre 0.0 e 10.0 e ao final imprima a média aritmética das mesmas e a maior nota. A digitação deve ser encerrada quando for digitada uma nota inválida. Essa nota não deve entrar no cálculo da média.</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio22.java "Exercício 22")</sub>
-<sub></sub>
+<sub>Faça um programa que leia uma quantidade não determinada de números positivos. Calcule a quantidade de números pares e ímpares, a média de valores pares e a média geral dos números lidos. O número que encerrará a leitura será zero.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio23.java "Exercício 23")</sub>
 <sub></sub>
