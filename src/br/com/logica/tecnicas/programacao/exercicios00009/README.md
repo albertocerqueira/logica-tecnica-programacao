@@ -93,10 +93,15 @@ Obs: é igual a, decrementar significa diminuir e incrementar significa somar.</
 <sub>Faça um programa que leia uma quantidade não determinada de números positivos. Calcule a quantidade de números pares e ímpares, a média de valores pares e a média geral dos números lidos. O número que encerrará a leitura será zero.</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os dados de idade, sexo (M / F) e salário. Fazer um programa que informe:  
+a. A média de salário do grupo;  
+b. Maior e menor idade do grupo;  
+c. Quantidade de mulheres com salário até R$1.000,00;  
+d. Quantidade de pessoas entrevistadas;  
+Encerrar a entrada de dados quando for digitada uma idade negativa.</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>Faça um programa capaz de ler caracteres e só termine quando o usuário digitar uma interrogação.</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00009/Exercicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Modifique o programa (br.com.logica.tecnicas.programacao.exercicios00009.Exercicio24) anterior mostrando na tela antes do programa terminar quantas vogais foram digitadas e quantos algarismos.</sub>
