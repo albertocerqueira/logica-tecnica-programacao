@@ -70,7 +70,12 @@ Exemplos:
 • 16 não é primo, pois há 5 divisores: o 1, o 2, o 4, o 8 e o 16</sub>
 
 ### <sub>[Exercício 11](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio11.java "Exercício 11")</sub>
-<sub></sub>
+<sub>Existem medidas específicas para grandes extensões, como sítios, chácaras e fazendas. São elas o hectare e o are.  
+Onde:  
+&nbsp;&nbsp;&nbsp;&nbsp;1 hectare(ha) = 10000m2  
+&nbsp;&nbsp;&nbsp;&nbsp;1 are(a) = 100m2
+Uma fazenda possui 132 500m2 de área. Escreva um programa que calcule qual a sua medida em hectare e em are.  
+OBS: Medidas são números reais.</sub>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio12.java "Exercício 12")</sub>
 <sub></sub>

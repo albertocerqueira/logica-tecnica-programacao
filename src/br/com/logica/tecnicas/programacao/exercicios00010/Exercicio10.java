@@ -11,7 +11,7 @@ public class Exercicio10 {
 
 	public static void main(String[] args) {
 		Exercicio10 exe10 = new Exercicio10();
-		exe10.consultarFinanciamento();
+		exe10.verificandoNumeroPrimo();
 	}
 	
 	/**
@@ -24,7 +24,7 @@ public class Exercicio10 {
 	 * • 15 não é primo, pois há 4 divisores: o 1, o 3, o 5 e o 15
 	 * • 16 não é primo, pois há 5 divisores: o 1, o 2, o 4, o 8 e o 16
 	 */
-	public void consultarFinanciamento() {
+	public void verificandoNumeroPrimo() {
 		int n = Integer.parseInt(JOptionPane.showInputDialog("Digite um n\u00famero qualquer: "));;
 		int c = 1, p = 0;
 		if (n > 1) {
