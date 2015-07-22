@@ -78,7 +78,7 @@ Uma fazenda possui 132 500m2 de área. Escreva um programa que calcule qual a su
 OBS: Medidas são números reais.</sub>
 
 ### <sub>[Exercício 12](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio12.java "Exercício 12")</sub>
-<sub></sub>
+<sub>Escreva um programa que calcule o valor do desconto de uma mercadoria paga a vista e o valor total a ser pago. Considere o valor da mercadoria como sendo R$330,00 e a porcentagem do desconto 5%. (Deverá aparecer para o desconto 16.5 e para o valor a ser pago 313.5).</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio13.java "Exercício 13")</sub>
 <sub></sub>
