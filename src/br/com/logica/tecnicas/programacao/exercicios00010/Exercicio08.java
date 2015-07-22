@@ -11,9 +11,9 @@ public class Exercicio08 {
 	 * Escreva um laço (while, for, do-while) que resulte em um laço infinito.
 	 */
 	public void loop() {
-		//whileInfinito();
-		//doWhileInfinito();
-		//forInfinito();
+		whileInfinito();
+		doWhileInfinito();
+		forInfinito();
 	}
 	
 	public void whileInfinito() {
