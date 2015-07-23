@@ -112,13 +112,18 @@ A = ((B + b) * h) / 2</sub>
 <sub>Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Escreva um programa que leia o valor do salário fixo de um funcionário e o valor de suas vendas, calcule e mostre na tela a comissão e o salário final do funcionário.</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio21.java "Exercício 21")</sub>
-<sub></sub>
+<sub>Faça um programa para converter um dado valor em reais (R$) para a moeda dólar (US$). O programa deve ler um valor em reais (R$) e a cotação da moeda americana, depois converter para dólares (US$) e apresentar este valor convertido na tela.</sub>
 
 ### <sub>[Exercício 22](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio22.java "Exercício 22")</sub>
-<sub></sub>
+<sub>Escreva um programa para ajudar um professor a fazer seu planejamento. Esse programa deve ter como entrada um valor em minutos digitado pelo professor e realizar a conversão para horas/aula mostrando o resultado na tela.  
+Dado: 1 hora/aula = 50 minutos</sub>
 
 ### <sub>[Exercício 23](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio23.java "Exercício 23")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia um número inteiro de quatro algarismos (vamos supor que o usuário digite um número de quatro algarismos, ou seja, um número entre 1000 e 9999). Você deve trocar o primeiro algarismo com o último, construindo um novo número, e imprimir na tela este novo número.  
+Exemplo:  
+Se digitado o número 5341, deve aparecer na tela o número 1345.  
+Se digitado o número 4578, deve aparecer na tela o número 8574.  
+Se digitado o número 1230, deve aparecer na tela o número 231.</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio24.java "Exercício 24")</sub>
 <sub></sub>
