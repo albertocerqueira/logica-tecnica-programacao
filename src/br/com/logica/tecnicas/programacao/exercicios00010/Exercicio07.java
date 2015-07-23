@@ -1,5 +1,7 @@
 package br.com.logica.tecnicas.programacao.exercicios00010;
 
+import br.com.logica.tecnicas.programacao.extras.Expondecial;
+
 public class Exercicio07 {
 
 	public static void main(String[] args) {
@@ -37,28 +39,10 @@ public class Exercicio07 {
 	public double arredondarNumeroReal(double r, int e) {
 		double numero = 0, valorFinal , soma;
 		double f = 0;
-		numero = elevado(10, e);
+		numero = Expondecial.elevado(10, e);
 		valorFinal = r * numero;
 		soma = valorFinal + 0.5;
 		f = ((int) soma) / numero;
 		return f;
-	}
-	
-	/*
-	public static void main(String[] args) {
-		Exercicio07 exe07 = new Exercicio07();
-		System.out.println(10*10*10);
-		System.out.println(exe07.elevado(10, 3));
-		System.out.println(6*6*6*6);
-		System.out.println(exe07.elevado(6, 4));
-	}
-	*/
-	
-	public int elevado(int n, int expoente) { //TODO: usar no projeto...
-		int r = n;
-		for (int x = 0; x < (expoente - 1) ; x++) {
-			r = r * n;
-		}
-		return r;
 	}
 }
