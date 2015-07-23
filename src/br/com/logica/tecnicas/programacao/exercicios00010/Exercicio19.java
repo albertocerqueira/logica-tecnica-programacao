@@ -20,12 +20,12 @@ public class Exercicio19 {
 	 * com o desconto.
 	 */
 	public void calculoValorDoDesconto() {
-		double v = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do produto: "));
-		double d = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do desconto em cima deste produto: "));
+		double v = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do produto (em R$): "));
+		double d = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do desconto em cima deste produto (em %): "));
 		
 		double dt = ((v * d) / 100);
 		double vt = v - dt;
-		System.out.println("O desconto total do produto \u00e9 " + dt + ".");
-		System.out.println("O valor total do produto \u00e9 " + vt + ".");
+		System.out.println("O desconto total do produto \u00e9 R$" + dt + ".");
+		System.out.println("O valor total do produto \u00e9 R$" + vt + ".");
 	}
 }

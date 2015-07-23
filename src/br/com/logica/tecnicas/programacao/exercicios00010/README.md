@@ -109,7 +109,7 @@ A = ((B + b) * h) / 2</sub>
 <sub>Escreva um programa que calcule o valor do desconto de uma mercadoria paga a vista e o valor total a ser pago. O programa deve ler o valor da mercadoria e a porcentagem do desconto. Depois o programa deve calcular e imprimir na tela o valor do desconto e o novo valor da mercadoria com o desconto.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio20.java "Exercício 20")</sub>
-<sub></sub>
+<sub>Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Escreva um programa que leia o valor do salário fixo de um funcionário e o valor de suas vendas, calcule e mostre na tela a comissão e o salário final do funcionário.</sub>
 
 ### <sub>[Exercício 21](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio21.java "Exercício 21")</sub>
 <sub></sub>
