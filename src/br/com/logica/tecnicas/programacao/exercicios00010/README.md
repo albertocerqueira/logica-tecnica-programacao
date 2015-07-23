@@ -94,10 +94,12 @@ Com base nestes índices, escreva um programa que calcule e imprima na tela os t
 <sub>Em uma disciplina estavam matriculados 82 alunos. Deste total, 30 alunos foram reprovados. Escreva um programa que calcule e imprima na tela a porcentagem de alunos reprovados. (deverá aparecer 36.58%).</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio16.java "Exercício 16")</sub>
-<sub></sub>
+<sub>Precisamos alugar um carro por um único dia. Consultadas duas agências, a primeira cobra R$62,00 pela diária e R$1,40 por quilômetro rodado. A segunda cobra diária de R$80,00 e mais R$1,20 por quilômetro rodado. Sabendo que rodaremos 190 Km, escreva um programa que calcule quanto pagaríamos em cada uma das agências.</sub>
 
 ### <sub>[Exercício 17](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio17.java "Exercício 17")</sub>
-<sub></sub>
+<sub>Fazer um programa que leia uma temperatura fornecida em graus Farenheit e a converta para o seu equivalente em graus centígrados, imprimindo este valor na tela.  
+Dado:  
+C = (F - 32) / 1.8</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio18.java "Exercício 18")</sub>
 <sub></sub>
