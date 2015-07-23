@@ -10,8 +10,8 @@ import javax.swing.JOptionPane;
 public class Exercicio17 {
 
 	public static void main(String[] args) {
-		Exercicio17 exe16 = new Exercicio17();
-		exe16.calculoValorCobradoPorAgencias();
+		Exercicio17 exe17 = new Exercicio17();
+		exe17.convertendoMedidaDeTemperatura();
 	}
 	
 	/**
@@ -21,7 +21,7 @@ public class Exercicio17 {
 	 * Dado:
 	 * C = (F - 32) / 1.8
 	 */
-	public void calculoValorCobradoPorAgencias() {
+	public void convertendoMedidaDeTemperatura() {
 		double tf = Double.parseDouble(JOptionPane.showInputDialog("Digite uma temperatura em graus Farenheit: "));
 		
 		double tc = (tf - 32) / 1.8;

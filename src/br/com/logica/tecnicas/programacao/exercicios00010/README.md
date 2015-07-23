@@ -102,10 +102,11 @@ Dado:
 C = (F - 32) / 1.8</sub>
 
 ### <sub>[Exercício 18](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio18.java "Exercício 18")</sub>
-<sub></sub>
+<sub>Escreva um programa que leia os valores da base maior (B), base menor (b) e altura (h) de um trapézio, e calcule e imprima o valor de sua área, sabendo que a área de um trapézio (A) é dada por:  
+A = ((B + b) * h) / 2</sub>
 
 ### <sub>[Exercício 19](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio19.java "Exercício 19")</sub>
-<sub></sub>
+<sub>Escreva um programa que calcule o valor do desconto de uma mercadoria paga a vista e o valor total a ser pago. O programa deve ler o valor da mercadoria e a porcentagem do desconto. Depois o programa deve calcular e imprimir na tela o valor do desconto e o novo valor da mercadoria com o desconto.</sub>
 
 ### <sub>[Exercício 20](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio20.java "Exercício 20")</sub>
 <sub></sub>
