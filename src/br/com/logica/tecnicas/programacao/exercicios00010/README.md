@@ -81,13 +81,17 @@ OBS: Medidas são números reais.</sub>
 <sub>Escreva um programa que calcule o valor do desconto de uma mercadoria paga a vista e o valor total a ser pago. Considere o valor da mercadoria como sendo R$330,00 e a porcentagem do desconto 5%. (Deverá aparecer para o desconto 16.5 e para o valor a ser pago 313.5).</sub>
 
 ### <sub>[Exercício 13](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio13.java "Exercício 13")</sub>
-<sub></sub>
+<sub>Alguns jornais calculam o número de pessoas presentes em atos públicos, considerando que cada metro quadrado é ocupado por 4 pessoas. Escreva um programa que calcule qual a estimativa do número de pessoas presentes numa praça de 3250m2, que tenha ficado lotada para um comício, segundo essa avaliação.</sub>
 
 ### <sub>[Exercício 14](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio14.java "Exercício 14")</sub>
-<sub></sub>
+<sub>Uma empresa pretende diminuir a diferença entre o salário de seus funcionários e decidiu dar aumentos proporcionais da seguinte forma:  
+salário bruto R$500.00 : Aumento de 15%  
+salário bruto R$900.00 : Aumento de 10%  
+salário bruto R$1500.00: Aumento de 5%  
+Com base nestes índices, escreva um programa que calcule e imprima na tela os três novos salários. (deverá ser impresso na tela, R$ 575.00, R$ 990.00 e R$ 1575.00.)</sub>
 
 ### <sub>[Exercício 15](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio15.java "Exercício 15")</sub>
-<sub></sub>
+<sub>Em uma disciplina estavam matriculados 82 alunos. Deste total, 30 alunos foram reprovados. Escreva um programa que calcule e imprima na tela a porcentagem de alunos reprovados. (deverá aparecer 36.58%).</sub>
 
 ### <sub>[Exercício 16](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio16.java "Exercício 16")</sub>
 <sub></sub>
