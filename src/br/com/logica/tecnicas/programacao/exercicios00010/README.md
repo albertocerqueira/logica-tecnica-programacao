@@ -126,7 +126,7 @@ Se digitado o número 4578, deve aparecer na tela o número 8574.
 Se digitado o número 1230, deve aparecer na tela o número 231.</sub>
 
 ### <sub>[Exercício 24](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio24.java "Exercício 24")</sub>
-<sub></sub>
+<sub>Construa um programa para ler em um arquivo chamado precos-custo.txt, um número indeterminado de preços de custo de mercadorias (no máximo 500), calcular o preço de venda com margem de lucro de 30%, criar um vetor com os preços de venda e mostrar os novos preços na tela</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio25.java "Exercício 25")</sub>
 <sub></sub>
