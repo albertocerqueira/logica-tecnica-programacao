@@ -31,10 +31,9 @@ public class Exercicio24 {
 		try {
 			FileReader fr = new FileReader("arquivos/precos-custo.txt");
 			BufferedReader br = new BufferedReader(fr);
-			String linha = br.readLine();
 			int i = 0;
-			while (linha != null) {
-				linha = br.readLine();
+			String linha = null;
+			while ((linha = br.readLine()) != null) {
 				if (linha != null) {
 					v[i++] = Double.parseDouble(linha);
 				}

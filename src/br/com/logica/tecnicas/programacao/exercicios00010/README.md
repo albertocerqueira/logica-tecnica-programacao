@@ -129,4 +129,10 @@ Se digitado o número 1230, deve aparecer na tela o número 231.</sub>
 <sub>Construa um programa para ler em um arquivo chamado precos-custo.txt, um número indeterminado de preços de custo de mercadorias (no máximo 500), calcular o preço de venda com margem de lucro de 30%, criar um vetor com os preços de venda e mostrar os novos preços na tela</sub>
 
 ### <sub>[Exercício 25](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio25.java "Exercício 25")</sub>
-<sub></sub>
+<sub>Escreva um programa para ler um arquivo chamado notas.txt contendo notas de 50 alunos, arredondar essas notas de acordo com os critérios a seguir e salvar as notas arredondadas no arquivo notas-arredondadas.txt.  
+Observação:  
+&nbsp;&nbsp;&nbsp;&nbsp;Sempre verifique se os arquivos foram abertos corretamente.  
+&nbsp;&nbsp;&nbsp;&nbsp;Critérios de arredondamento:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parte fracionária < 0,25: arredonda para 0,0  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0,25 <= Parte fracionária > 0,75: arredonda para 0,5  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parte fracionária >= 0,75: arredonda para 1,0</sub>
