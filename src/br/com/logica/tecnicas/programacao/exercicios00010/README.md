@@ -136,3 +136,7 @@ Observação:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parte fracionária < 0,25: arredonda para 0,0  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0,25 <= Parte fracionária > 0,75: arredonda para 0,5  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parte fracionária >= 0,75: arredonda para 1,0</sub>
+
+### <sub>[Exercício 26](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio26.java "Exercício 26")</sub>
+<sub>Construa um programa para ler um arquivo com o peso e a altura de várias pessoas chamado peso-altura.txt, calcular o índice de massa corporal (IMC = peso / (altura * altura)) de cada pessoa e salvar esses valores em um arquivo chamado imc.txt que já contem valores de IMC de outras pessoas (você precisa utilizar o comando para anexar informações a um arquivo existente).  
+• O programa também deve mostrar na tela uma mensagem informando a média dos pesos lidos e a média dos IMCs calculados.</sub>

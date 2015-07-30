@@ -79,9 +79,7 @@ public class Exercicio25 {
 			int i = 0;
 			String linha = null;
 			while ((linha = br.readLine()) != null) {
-				if (linha != null) {
-					v[i++] = Double.parseDouble(linha);
-				}
+				v[i++] = Double.parseDouble(linha);
 			}
 			fr.close();
 		} catch (IOException e) {
