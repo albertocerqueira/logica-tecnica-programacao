@@ -140,3 +140,6 @@ Observação:
 ### <sub>[Exercício 26](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio26.java "Exercício 26")</sub>
 <sub>Construa um programa para ler um arquivo com o peso e a altura de várias pessoas chamado peso-altura.txt, calcular o índice de massa corporal (IMC = peso / (altura * altura)) de cada pessoa e salvar esses valores em um arquivo chamado imc.txt que já contem valores de IMC de outras pessoas (você precisa utilizar o comando para anexar informações a um arquivo existente).  
 • O programa também deve mostrar na tela uma mensagem informando a média dos pesos lidos e a média dos IMCs calculados.</sub>
+
+### <sub>[Exercício 27](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio27.java "Exercício 27")</sub>
+<sub>Escrever um programa para ler um arquivo contendo vários preços de mercadorias chamado precos.txt, calcular os novos preços reajustando 10% e salvar os novos preços no arquivo novos-precos.txt.</sub>
