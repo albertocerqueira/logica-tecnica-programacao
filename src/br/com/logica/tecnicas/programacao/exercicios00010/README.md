@@ -143,3 +143,9 @@ Observação:
 
 ### <sub>[Exercício 27](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio27.java "Exercício 27")</sub>
 <sub>Escrever um programa para ler um arquivo contendo vários preços de mercadorias chamado precos.txt, calcular os novos preços reajustando 10% e salvar os novos preços no arquivo novos-precos.txt.</sub>
+
+### <sub>[Exercício 28](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio28.java "Exercício 28")</sub>
+<sub>Construir um programa para ler um arquivo chamado salarios.txt contendo o valor dos salários de 100 funcionários, calcular o aumento de cada salário segundo a tabela a seguir e salvar os salários com aumento no arquivo novos-salarios.txt.  
+• Salário > 5.000: aumento de 5%  
+• 1.000 <= Salário <= 5000: aumento de 10%  
+• Salário < 1.000: aumento de 15%</sub>
