@@ -123,3 +123,15 @@ Por exemplo n =5
 1 2 3 4 5  
 1 2 3 4 5  
 1 2 3 4 5</sub>
+
+### <sub>[Exercício 26](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio26.java "Exercício 26")</sub>
+<sub>Fazer um programa que leia 10 números reais do teclado e armazene no arquivo numeros.txt. Os números devem ser escritos um em cada linha.</sub>
+
+### <sub>[Exercício 27](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio27.java "Exercício 27")</sub>
+<sub></sub>
+
+### <sub>[Exercício 28](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio28.java "Exercício 28")</sub>
+<sub></sub>
+
+### <sub>[Exercício 29](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio29.java "Exercício 29")</sub>
+<sub></sub>
