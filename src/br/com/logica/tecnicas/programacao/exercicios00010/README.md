@@ -149,3 +149,10 @@ Observação:
 • Salário > 5.000: aumento de 5%  
 • 1.000 <= Salário <= 5000: aumento de 10%  
 • Salário < 1.000: aumento de 15%</sub>
+
+### <sub>[Exercício 29](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00010/Exercicio29.java "Exercício 29")</sub>
+<sub>Escreva um programa capaz de preencher um vetor de inteiros de 13 posições com valores correspondentes a quantidade de dias de cada mês que está armazenado no arquivo dias-no-mes.txt. Depois seu programa deverá ler uma data (no formato dia/mês) e dizer se esta é ou não uma data válida.  
+Exemplos:  
+&nbsp;&nbsp;&nbsp;&nbsp;2/3 é uma data válida.  
+&nbsp;&nbsp;&nbsp;&nbsp;30/2 é uma data inválida.  
+&nbsp;&nbsp;&nbsp;&nbsp;24/13 é uma data inválida.</sub>
