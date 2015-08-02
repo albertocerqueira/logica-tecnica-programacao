@@ -128,10 +128,10 @@ Por exemplo n =5
 <sub>Fazer um programa que leia 10 números reais do teclado e armazene no arquivo numeros.txt. Os números devem ser escritos um em cada linha.</sub>
 
 ### <sub>[Exercício 27](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio27.java "Exercício 27")</sub>
-<sub></sub>
+<sub>Fazer um programa que leia todos os números armazenados do arquivo nros.txt e mostre a soma de todos os valores.</sub>
 
 ### <sub>[Exercício 28](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio28.java "Exercício 28")</sub>
-<sub></sub>
+<sub>Fazer um programa capaz de ler números reais do arquivo numeros.txt e passe de dois em dois valores para a função somaParesDeNumeros() que retorna a soma destes números que serão mostrados pelo programa principal.</sub>
 
 ### <sub>[Exercício 29](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/exercicios00000/Exercicio29.java "Exercício 29")</sub>
 <sub></sub>
