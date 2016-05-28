@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class BuscaSequencial {
 
-	static int[] vetor = {1, 3, 6, 7, 8, 10, 11, 12, 15, 16, 17, 18, 19, 20, 23, 24, 25, 27, 29, 30, 41};
+	private static final int[] vetor = {1, 3, 6, 7, 8, 10, 11, 12, 15, 16, 17, 18, 19, 20, 23, 24, 25, 27, 29, 30, 41};
     static boolean naoAchei = false;
     long tempo = System.currentTimeMillis();
     
