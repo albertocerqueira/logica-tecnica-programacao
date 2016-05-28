@@ -18,7 +18,7 @@ public class InsertionSort {
         }
 	}
 
-	public void insertionSort(int[] vetor) {
+	private void insertionSort(int[] vetor) {
 		int j, key, i, length = vetor.length;
 		for (j = 1; j < length; j++) {
 			key = vetor[j];

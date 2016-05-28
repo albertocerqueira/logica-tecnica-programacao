@@ -3,6 +3,11 @@ package br.com.logica.tecnicas.programacao.algoritmos;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * @author Alberto Cerqueira
+ * @email alberto.cerqueira1990@gmail.com
+ * @date 2016/05/28
+ */
 public class RadixSort {
 	
 	private static final int MAX_CHARS = 28;

@@ -16,7 +16,7 @@ public class SelectionSort {
 		}
 	}
 
-	public void selectionSort(int[] vetor) {
+	private void selectionSort(int[] vetor) {
 		int length = vetor.length;
 		for (int fixo = 0; fixo < length - 1; fixo++) {
 			int menor = fixo;

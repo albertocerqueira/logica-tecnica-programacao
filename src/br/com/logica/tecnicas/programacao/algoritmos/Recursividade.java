@@ -20,14 +20,14 @@ public class Recursividade {
         imprimirDecrecente(numero);
     }
 
-    public static void imprimir(int numero){
+	private static void imprimir(int numero){
         if (numero>=0) {
             imprimir(numero-1);
         }
         System.out.print(numero + ", ");
     }
 
-    public static void imprimirDecrecente(int numero){
+	private static void imprimirDecrecente(int numero){
         System.out.print(numero + ", ");
         if (numero>=0) {
             imprimir(--numero);

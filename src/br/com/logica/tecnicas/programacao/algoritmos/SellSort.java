@@ -16,7 +16,7 @@ public class SellSort {
 		}
 	}
 
-	public void shellSort(int[] vetor) {
+	private void shellSort(int[] vetor) {
 		int h = 1;
 		int length = vetor.length;
 		while (h < length) {

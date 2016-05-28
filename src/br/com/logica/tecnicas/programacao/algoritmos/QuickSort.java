@@ -17,11 +17,11 @@ public class QuickSort {
         }
     }
     
-    public void ordenarVetor(int[] vetor) {
+    private void ordenarVetor(int[] vetor) {
         quickSort(vetor, 0, vetor.length - 1);
     }
     
-    public void quickSort(int[] vetor, int inicio, int fim) {
+    private void quickSort(int[] vetor, int inicio, int fim) {
         if (fim > inicio) {
             int indexPivo = dividir(vetor , inicio , fim);
             quickSort(vetor, inicio, indexPivo - 1);
@@ -29,7 +29,7 @@ public class QuickSort {
         }
     }
     
-    public int dividir(int[] vetor , int inicio , int fim) {
+    private int dividir(int[] vetor , int inicio , int fim) {
         int pivo , ponteiroEsquerda , ponteiroDireita = fim;
         ponteiroEsquerda = inicio + 1;
         pivo = vetor[inicio];
@@ -50,7 +50,7 @@ public class QuickSort {
         return (ponteiroDireita);
     }
     
-    public void trocar(int[] vetor , int i , int j) {
+    private void trocar(int[] vetor , int i , int j) {
         int aux = vetor[i];
         vetor[i] = vetor[j];
         vetor[j] = aux;

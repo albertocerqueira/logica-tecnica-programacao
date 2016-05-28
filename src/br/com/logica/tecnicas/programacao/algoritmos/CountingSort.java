@@ -16,7 +16,7 @@ public class CountingSort {
 		}
 	}
 
-	public void countingSort(int[] array, int min, int max) {
+	private void countingSort(int[] array, int min, int max) {
 		int[] count = new int[max - min + 1];
 		for (int number : array) {
 			count[number - min]++;

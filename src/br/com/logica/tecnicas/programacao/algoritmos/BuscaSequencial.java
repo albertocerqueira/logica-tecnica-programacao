@@ -22,7 +22,7 @@ public class BuscaSequencial {
         sequencial(numero);
     }
     
-	public static void sequencial(int numero) {
+    private static void sequencial(int numero) {
         long tempo = System.currentTimeMillis();
         for (int i = 0; i < vetor.length;i++) {
             if (vetor[i] == numero) {

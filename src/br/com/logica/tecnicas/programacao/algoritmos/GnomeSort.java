@@ -16,7 +16,7 @@ public class GnomeSort {
 		}
 	}
 
-	public void gnomeSort(int[] vetor) {
+	private void gnomeSort(int[] vetor) {
 		int pivout = 0;
 		int aux, length = vetor.length;
 		while (pivout < (vetor.length - 1)) {

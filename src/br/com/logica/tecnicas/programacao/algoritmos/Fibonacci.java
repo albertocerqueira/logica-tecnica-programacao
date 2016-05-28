@@ -16,7 +16,7 @@ public class Fibonacci {
         System.out.println(fibonacci(MENOR_QUE));
     }
 
-    public static String fibonacci(int numero) {
+    private static String fibonacci(int numero) {
         PROXIMO = ATUAL + ANTERIOR;
         
         System.out.print(PROXIMO);
