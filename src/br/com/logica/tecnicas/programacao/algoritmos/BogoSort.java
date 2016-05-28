@@ -17,7 +17,7 @@ public class BogoSort {
         }
     }
 	
-	public static void bogoSort(int[] array) {
+	private static void bogoSort(int[] array) {
 		while (!isSorted(array)) {
 			/*
              * Com este loop e possivel analizar o trabalho do vetor trocando os valores,

@@ -22,7 +22,7 @@ public class BuscaBinaria {
         binaria(numero);
     }
     
-    public static void binaria(int numero){
+    private static void binaria(int numero){
         long tempo = System.currentTimeMillis();
         int inicio = 0;
         int fim = vetor.length - 1;

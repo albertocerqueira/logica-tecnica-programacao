@@ -16,7 +16,7 @@ public class CombSort {
 		}
 	}
 
-	public <E extends Comparable<? super E>> void combSort(E[] input) {
+	private <E extends Comparable<? super E>> void combSort(E[] input) {
 		int gap = input.length;
 		boolean swapped = true;
 		while (gap > 1 || swapped) {

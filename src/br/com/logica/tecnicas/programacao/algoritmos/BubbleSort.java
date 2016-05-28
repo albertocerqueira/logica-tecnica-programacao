@@ -16,7 +16,7 @@ public class BubbleSort {
         }
     }
     
-    public void bubbleSort(int[] vetor) {
+    private void bubbleSort(int[] vetor) {
         int auxiliar, length = vetor.length;
         for (int x = 0; x < length - 1; x++) {
             for (int y = 0 ; y < length - 1 - x; y++) {

@@ -16,7 +16,7 @@ public class BucketSort {
         }
     }
 	
-	public void bucketSort(int[] a, int maxVal) {
+	private void bucketSort(int[] a, int maxVal) {
 		int[] bucket = new int[maxVal + 1];
 
 		for (int i = 0; i < bucket.length; i++) {

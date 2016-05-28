@@ -11,7 +11,7 @@ public class HeapSort {
 		}
 	}
 
-	public <T extends Comparable<? super T>> void heapSort(T[] v) {
+	private <T extends Comparable<? super T>> void heapSort(T[] v) {
 		buildMaxHeap(v);
 		int n = v.length;
 
@@ -39,7 +39,7 @@ public class HeapSort {
 		}
 	}
 
-	public void swap(Object[] v, int j, int aposJ) {
+	private void swap(Object[] v, int j, int aposJ) {
 		Object aux = v[j];
 		v[j] = v[aposJ];
 		v[aposJ] = aux;
