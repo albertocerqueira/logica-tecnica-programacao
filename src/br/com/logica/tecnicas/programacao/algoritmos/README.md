@@ -10,6 +10,7 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Counting Sort</sub>](#counting-sort)
 - [<sub>Fibonacci</sub>](#fibonacci)
 - [<sub>Gnome Sort</sub>](#gnome-sort)
+- [<sub>Heap Sort</sub>](#heap-sort)
 - [<sub>Insertion Sort</sub>](#insertion-sort)
 - [<sub>Merge Sort</sub>](#merge-sort)
 - [<sub>Quick Sort</sub>](#quick-sort)
@@ -44,6 +45,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 ## <sub>Gnome Sort</sub>
 <sub>Algoritmo similiar ao Insertion sort com a diferença que o Gnome sort leva um elemento para sua posição correta, com uma seqüencia grande de trocas assim como o Bubble sort.</sub>
 <sub>O algoritmo percorre o vetor comparando seus elementos dois a dois, assim que ele encontra um elemento que está na posição incorreta, ou seja, um número maior antes de um menor, ele troca a posição dos elementos, e volta com este elemento até que encontre o seu respectivo lugar. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/GnomeSort.java "Veja"))</sub>
+
+## <sub>Heap Sort</sub>
+<sub>O algoritmo heapsort é um algoritmo de ordenação generalista, e faz parte da família de algoritmos de ordenação por seleção. Foi desenvolvido em 1964 por Robert W. Floyd e J.W.J Williams. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/HeapSort.java "Veja"))</sub>
 
 ## <sub>Insertion Sort</sub>
 <sub>Insertion sort, ou ordenação por inserção, é um simples algoritmo de ordenação, eficiente quando aplicado a um pequeno número de elementos. Em termos gerais, ele percorre um vetor de elementos da esquerda para a direita e à medida que avança vai deixando os elementos mais à esquerda ordenados. O algoritmo de inserção funciona da mesma maneira com que muitas pessoas ordenam cartas em um jogo de baralho como o pôquer. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/InsertionSort.java "Veja"))</sub>
