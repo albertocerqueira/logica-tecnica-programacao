@@ -6,6 +6,7 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 - [<sub>Bucket Sort</sub>](#bucket-sort)
 - [<sub>Busca Binária</sub>](#busca-binária)
 - [<sub>Busca Sequêncial</sub>](#busca-sequêncial)
+- [<sub>Cocktail Sort</sub>](#cocktail-sort)
 - [<sub>Comb Sort</sub>](#comb-sort)
 - [<sub>Counting Sort</sub>](#counting-sort)
 - [<sub>Fibonacci</sub>](#fibonacci)
@@ -33,6 +34,9 @@ Algoritmos com simples implementação, muito usado em aulas de programação.
 
 ## <sub>Busca Sequêncial</sub>
 <sub>Na área de informática, ou Ciência da Computação, costuma-se usar o termo busca linear (ou busca sequêncial) para expressar um tipo de pesquisa em vetores ou listas de modo sequencial, i. e., elemento por elemento, de modo que a função do tempo em relação ao número de elementos é linear, ou seja, cresce proporcionalmente. Num vetor ordenado, essa não é a pesquisa mais eficiente, a pesquisa (ou busca) binária, por exemplo, é um tipo de pesquisa com o gráfico de tempo logarítmo. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/BuscaSequencial.java "Veja"))</sub>
+
+## <sub>Cocktail Sort</sub>
+<sub>Cocktail sort, também conhecido como Shaker Sort, bubble sort bidirecional (que também pode se referir a uma variante do selection sort), ripple sort, shuttle sort ou happy hour sort, é uma variação do bubble sort que é tanto um algoritmo de ordenação estável quanto uma ordenação por comparação. O algoritmo difere do bubble sort pelo fato de ordenar em ambas as direções em cada passagem através da lista. Este algoritmo de ordenação é apenas ligeiramente mais difícil de implementar do que o bubble sort, e resolve o problema com os chamados coelhos e tartarugas no bubble sort. ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/CocktailSort.java "Veja"))</sub>
 
 ## <sub>Comb Sort</sub>
 <sub>O algoritmo Comb sort (ou Combo sort ou ainda algoritmo do pente[1] ) é um algoritmo de ordenação relativamente simples, e faz parte da família de algoritmos de ordenação por troca. Foi desenvolvido em 1980 por Wlodzimierz Dobosiewicz. Mais tarde, foi redescoberto e popularizado por Stephen Lacey e Richard Box em um artigo publicado na revista Byte em Abril de 1991. O Comb sort melhora o Bubble sort, e rivaliza com algoritmos como o Quicksort. A ideia básica é eliminar as tartarugas ou pequenos valores próximos do final da lista, já que em um bubble sort estes retardam a classificação tremendamente. (Coelhos, grandes valores em torno do início da lista, não representam um problema no bubble sort). ([Veja](https://github.com/albertocerqueira/logica-tecnica-programacao/blob/master/src/br/com/logica/tecnicas/programacao/algoritmos/CombSort.java "Veja"))</sub>
