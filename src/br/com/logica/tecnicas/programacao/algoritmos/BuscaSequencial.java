@@ -2,6 +2,11 @@ package br.com.logica.tecnicas.programacao.algoritmos;
 
 import java.util.Scanner;
 
+/**
+ * @author Alberto Cerqueira
+ * @email alberto.cerqueira1990@gmail.com
+ * @date 2015/05/27
+ */
 public class BuscaSequencial {
 
 	static int[] vetor = {1, 3, 6, 7, 8, 10, 11, 12, 15, 16, 17, 18, 19, 20, 23, 24, 25, 27, 29, 30, 41};
